@@ -1,0 +1,429 @@
+Metadata-Version: 2.4
+Name: sreality-investment-pipeline
+Version: 0.1.0
+Summary: AI-assisted Czech property investment research using Sreality listings and local Ollama models
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: playwright
+Requires-Dist: pydantic<3,>=2
+Requires-Dist: ollama
+
+# Sreality Investment Pipeline
+
+**Czech apartment investment research, powered by local AI.**
+
+Collect sale and rental listings from Sreality, shortlist discounted asking
+prices, and generate investment reports using Python calculations and a local
+Ollama model. The default searches cover privately owned apartments in Podebrady.
+
+This is a scripted, AI-assisted research pipeline, not an autonomous agent or
+a substitute for legal, technical, or financial due diligence.
+
+The distribution name is `sreality-investment-pipeline`. The Python import
+package is `sreality_investment_pipeline`. Use that name in `python -m` commands;
+the top-level `./run_pipeline.sh` command is unchanged. After updating an existing
+checkout, reinstall with `python -m pip install -e .` to refresh package discovery.
+
+[Quick Start](#quick-start) | [Usage](#usage) | [How It Works](#how-it-works) |
+[Investment Methodology](#investment-methodology) | [Troubleshooting](#troubleshooting)
+
+## At a Glance
+
+- **Two market datasets:** collect sale and rental listings across all reported pages.
+- **Comparable-based estimates:** screen rental terms and match layouts, locations, and floor areas.
+- **Deterministic finances:** calculate yields and illustrative mortgage scenarios in Python.
+- **Local model analysis:** generate structured location, demand, risk, and investment assessments with Ollama.
+- **Explicit uncertainty:** retain missing inputs, source links, assumptions, and conditional verdicts.
+- **Readable output:** produce a Markdown investment report alongside JSON datasets.
+
+## Quick Start
+
+### Requirements
+
+- Python 3.13 or newer. Python 3.13 is the validated development runtime.
+- [Ollama](https://ollama.com/) and enough resources to run the configured model, `qwen2.5:7b`.
+- Internet access to retrieve listings and install dependencies.
+- Bash for the pipeline runner. The commands below target macOS and Linux.
+
+### 1. Install the Project
+
+From the repository root:
+
+```sh
+python3.13 -m venv .venv
+source .venv/bin/activate
+python -m pip install -e .
+python -m playwright install chromium
+```
+
+Reuse an existing `.venv` if it already uses Python 3.13 or newer. If upgrading
+from an older interpreter, deactivate and rename the old environment, then
+recreate `.venv` with `python3.13` and reinstall the project. Verify the active
+runtime with `.venv/bin/python --version`.
+
+### 2. Prepare Ollama
+
+Start the Ollama application or run the service in a separate terminal:
+
+```sh
+ollama serve
+```
+
+With the service running, download the configured model:
+
+```sh
+ollama pull qwen2.5:7b
+```
+
+### 3. Save Consent Preferences If Required
+
+If Sreality redirects to Seznam's consent page, run:
+
+```sh
+python -m sreality_investment_pipeline.scraper_harness --setup-consent
+```
+
+Choose your preferences in the visible browser. Browser state is saved to
+`.state/sreality_browser_state.json` for subsequent runs.
+
+### 4. Run the Pipeline
+
+```sh
+./run_pipeline.sh
+```
+
+The runner uses `.venv` directly, checks Ollama and the configured model, and
+executes all four stages. You do not need to activate the environment when using
+the runner. It does not start Ollama, download models, or choose consent settings.
+
+The report is written to `reports/INVESTMENT_REPORT.md`. Open it with a Markdown
+preview to inspect candidate verdicts, rental evidence, and financial scenarios.
+
+> **Check the completion message.** The runner stops on a failed stage. A report
+> left over from a previous run may still exist and should not be treated as current.
+
+## How It Works
+
+### Process Overview
+
+The pipeline turns local sale and rental listings into investment candidates,
+evidence-based analysis, and a report. Missing evidence remains explicit rather
+than being replaced with guessed rents or costs.
+
+<!-- mermaid-checked: quoted labels, valid node references, unique overview IDs -->
+```mermaid
+flowchart LR
+	OverviewSource["Sreality sale and rental listings"]
+	OverviewCollect["Collect market data"]
+	OverviewCompare["Find discounted flats and estimate returns"]
+	OverviewAssess["Evaluate evidence and risks with local AI"]
+	OverviewReport["Produce investment report"]
+
+	OverviewSource --> OverviewCollect
+	OverviewCollect --> OverviewCompare
+	OverviewCompare --> OverviewAssess
+	OverviewAssess --> OverviewReport
+```
+
+### Detailed Information Flow
+
+<details>
+<summary>View modules, datasets, and external interactions</summary>
+
+`run_pipeline.sh` checks Ollama and then runs collection, filtering, analysis,
+and report generation in that order. Arrows below represent information flow,
+not additional pipeline stages.
+
+<!-- mermaid-checked: quoted labels, valid node references, balanced subgraphs -->
+```mermaid
+flowchart TD
+	SearchPages["Sreality sale and rental search pages"]
+	DetailPages["Sreality listing detail pages"]
+	BrowserState[(".state/sreality_browser_state.json")]
+
+	subgraph Collection["1. Collection"]
+		Scraper["scraper_harness.py"]
+		Sales[("data/sreality_raw_output.json")]
+		Rentals[("data/sreality_rental_output.json")]
+	end
+
+	subgraph Filtering["2. Candidate selection and rent estimates"]
+		Filter["math_filter_engine.py"]
+		Candidates[("data/ai_pipeline_candidates.json")]
+	end
+
+	subgraph Analysis["3. Investment analysis"]
+		Finance["investment_finance.py"]
+		Analyzer["ai_analyzer_agent.py"]
+		Prompt["SYSTEM_PROMPT and PropertyReport schema"]
+		Ollama["Local Ollama model"]
+		Profiles[("data/final_property_analysis.json")]
+	end
+
+	subgraph Reporting["4. Report generation"]
+		Dashboard["generate_dashboard.py"]
+		Report[("reports/INVESTMENT_REPORT.md")]
+	end
+
+	SearchPages -->|"Embedded listings and pagination"| Scraper
+	DetailPages -->|"Rental billing periods and service charges"| Scraper
+	BrowserState -->|"Saved consent"| Scraper
+	Scraper --> Sales
+	Scraper --> Rentals
+	Sales -->|"Sale prices and property metadata"| Filter
+	Rentals -->|"Eligible monthly base-rent comparables"| Filter
+	Filter -->|"Discounted candidates and rental estimates"| Candidates
+
+	Candidates --> Analyzer
+	Candidates -->|"Purchase price, rent and supplied costs"| Finance
+	Finance -->|"Calculated returns and scenario assumptions"| Analyzer
+	DetailPages -->|"Property descriptions via Playwright"| Analyzer
+	BrowserState -->|"Saved consent"| Analyzer
+	Prompt --> Analyzer
+	Analyzer -->|"Listing context, evidence and scenarios"| Ollama
+	Ollama -->|"Structured four-part investment assessment"| Analyzer
+	Analyzer -->|"Validated assessment and guarded verdict"| Profiles
+
+	Candidates -->|"Current candidates and asking prices"| Dashboard
+	Rentals -->|"Refresh rental estimates"| Dashboard
+	Profiles -->|"Saved AI assessments matched by listing ID"| Dashboard
+	Dashboard -->|"Current inputs and refreshed rent estimates"| Finance
+	Finance -->|"Recalculated financial scenarios"| Dashboard
+	Dashboard -->|"Evidence, assumptions and investment verdicts"| Report
+```
+
+Financial arithmetic runs in Python, not in the LLM. Unknown rental or cost
+inputs remain unavailable; mortgage rates are explicitly illustrative. Missing
+AI reviews are marked pending, and legacy risk screens require reanalysis.
+The dashboard can be rerun without calling Ollama. Browser state is private
+and is used only by the browser stages, never sent to the model.
+
+The scraper uses Playwright to read embedded page data and listing details;
+it does not depend on direct calls to a documented public Sreality API.
+
+</details>
+
+## Project Structure
+
+```text
+sreality_investment_pipeline/
+	scraper_harness.py       Sale and rental collection
+	math_filter_engine.py    Candidate selection and rent matching
+	investment_finance.py    Deterministic financial scenarios
+	ai_analyzer_agent.py     Local model prompt and validated analysis
+	generate_dashboard.py    Markdown report generation
+	paths.py                 Shared project-relative paths
+tests/                       Regression tests
+data/                        Generated JSON snapshots
+reports/                     Generated investment report
+.state/                      Private browser state
+run_pipeline.sh              Pipeline runner
+pyproject.toml               Package metadata and dependencies
+```
+
+## Usage
+
+### Run Individual Stages
+
+With the virtual environment activated:
+
+```sh
+python -m sreality_investment_pipeline.scraper_harness
+python -m sreality_investment_pipeline.math_filter_engine
+python -m sreality_investment_pipeline.ai_analyzer_agent
+python -m sreality_investment_pipeline.generate_dashboard
+```
+
+The scraper collects both sale and rental searches in Podebrady by default,
+including all reported pages. Rental detail pages are checked for monthly billing
+and separately charged utilities/services. To refresh only one market:
+
+```sh
+python -m sreality_investment_pipeline.scraper_harness --market sale
+python -m sreality_investment_pipeline.scraper_harness --market rent
+```
+
+### Choose Search URLs
+
+Pass Sreality search URLs to the runner without editing Python code:
+
+```sh
+./run_pipeline.sh \
+	--sale-url 'https://www.sreality.cz/hledani/prodej/byty?vlastnictvi=osobni&region-id=4121&region-typ=municipality' \
+	--rental-url 'https://www.sreality.cz/hledani/pronajem/byty?vlastnictvi=osobni&region-id=4121&region-typ=municipality'
+```
+
+Both arguments are optional. Without overrides, the existing Podebrady filters
+remain in use; supplying only one URL leaves the other at its default. The same
+options work with `python -m sreality_investment_pipeline.scraper_harness` and consent setup.
+
+Always quote URLs: the shell interprets `&` as a control character when unquoted.
+URLs must use HTTPS and the `sreality.cz` or `www.sreality.cz` host, with the
+appropriate `/hledani/prodej/byty` or `/hledani/pronajem/byty` path. Query filters
+are preserved, and pagination is managed automatically. Invalid inputs are
+rejected during runner preflight before collection starts.
+
+Keep sale and rental geography compatible; location matching still applies when
+estimating rents. Changing the search does not create a separate output folder:
+successful runs replace the same snapshots and report.
+
+To inspect available scraper arguments without starting Ollama or the pipeline:
+
+```sh
+./run_pipeline.sh --help
+```
+
+Consent setup is a separate browser operation, not a full-pipeline option:
+
+```sh
+python -m sreality_investment_pipeline.scraper_harness --setup-consent \
+	--sale-url 'https://www.sreality.cz/hledani/prodej/byty?vlastnictvi=osobni&region-id=4121&region-typ=municipality'
+```
+
+### Configuration
+
+| Setting | Location | Notes |
+| :--- | :--- | :--- |
+| Sale filter | `--sale-url` | Defaults to `SALE_SEARCH_URL` in `sreality_investment_pipeline/scraper_harness.py`. |
+| Rental filter | `--rental-url` | Defaults to `RENTAL_SEARCH_URL`; keep its geography consistent with the sale search. |
+| Local model | `OLLAMA_MODEL` in `sreality_investment_pipeline/ai_analyzer_agent.py` | Download the selected model before running. |
+| Analysis instructions | `SYSTEM_PROMPT` and `PropertyReport` in the analyzer | Changing the prompt requires fresh model analysis. |
+| Output paths | `sreality_investment_pipeline/paths.py` | Resolved relative to the project, not the working directory. |
+
+### Generated Files
+
+| File | Contents |
+| :--- | :--- |
+| `data/sreality_raw_output.json` | Sale listing snapshot. |
+| `data/sreality_rental_output.json` | Rental snapshot with billing-period and service-charge screening. |
+| `data/ai_pipeline_candidates.json` | Discounted sale candidates and comparable-based rental estimates. |
+| `data/final_property_analysis.json` | Validated model assessments and calculated financial scenarios. |
+| `reports/INVESTMENT_REPORT.md` | Investment overview and detailed per-property analysis. |
+
+These are **snapshots, not a historical database**. Each successful stage replaces
+its own output. Incomplete AI analysis preserves the previous analysis and stops
+the runner before report generation. A successful run with no candidates clears
+the analysis and produces an empty-result report.
+
+Generated data, reports, and private browser state are gitignored by default.
+Rerun consent setup if saved preferences expire.
+
+## Investment Methodology
+
+### Rental Estimates
+
+The filtering stage attaches a `rental_estimate` to each sale candidate. It uses
+the median advertised monthly base rent per square meter for at least three
+unique rentals with the same layout and municipality and floor area within 25%.
+Only monthly rents whose description indicates separate utility/service charges
+are eligible. Charge screening is conservative text matching, not a legal
+verification: inclusive or unclear prices are excluded, and terms must be checked
+before investing. Condition, furnishings and lease terms are not adjusted.
+
+The report shows monthly rent, the scaled comparable range, annual rent,
+comparable counts and source links, and gross annual yield:
+
+```text
+gross annual yield (%) = estimated monthly base rent * 12 / asking purchase price * 100
+```
+
+This is not net ROI. It excludes vacancy, maintenance, insurance, taxes,
+transaction costs and financing. Rents are asking prices, not signed contracts;
+the displayed range is not a statistical confidence interval. Insufficient data
+produces no estimate, rather than a guessed rent or a zero yield.
+
+The dashboard refreshes rent estimates from the latest rental snapshot. If AI
+analysis is missing or empty, it can display candidate yields with AI review
+explicitly marked pending; this does not imply investment approval.
+When current candidates are available, they determine which properties and asking
+prices appear in the report. Existing AI reviews are reused by listing ID, not
+rerun during dashboard generation; rerun the analyzer to refresh those reviews.
+
+### AI Assessment and Financial Scenarios
+
+`SYSTEM_PROMPT` and `PropertyReport` in `sreality_investment_pipeline/ai_analyzer_agent.py`
+define the four-part analysis: property/location, potential rent/demand,
+financial scenarios, and a Yes/No/Conditional verdict with up to three supported
+risks and upside potentials. The model receives the full candidate metadata,
+scraped description, rental evidence, and Python-calculated financial scenarios.
+Descriptions are treated as untrusted data, not instructions. The model has no
+live browsing, cadastral or bank access and must identify unsupported claims.
+
+The old boolean risk-screen results are not treated as investment approval.
+After changing the prompt, rerun analysis and report generation:
+
+```sh
+python -m sreality_investment_pipeline.ai_analyzer_agent
+python -m sreality_investment_pipeline.generate_dashboard
+```
+
+<details>
+<summary>Financial assumptions and per-property cost inputs</summary>
+
+Financial calculations are in `sreality_investment_pipeline/investment_finance.py`, not left
+to model arithmetic. The former Czech 4% acquisition tax is not charged; see the
+[Czech Financial Administration explanation](https://financnisprava.gov.cz/cs/dane/dane/dan-z-nabyti-nemovitych-veci).
+Legal services, initial repairs, HOA/fond oprav and insurance remain unknown
+unless supplied. Missing inputs prevent net-return estimates and an unqualified
+Yes verdict. A 5% rental vacancy reserve is applied when rent is available.
+
+Optional per-candidate `investment_assumptions` accepts CZK amounts under these
+keys: `legal_costs_czk`, `initial_repairs_czk`, `monthly_hoa_czk`,
+`monthly_insurance_czk`, `other_entry_costs_czk`, and `other_monthly_costs_czk`.
+The last two default to zero; include maintenance reserves, property tax and
+other applicable costs explicitly. The pipeline does not currently extract these
+amounts from listing prose. If editing candidates manually, run only the analyzer
+and dashboard afterward: rerunning filtering replaces the candidate snapshot.
+
+Gross yield uses asking purchase price; pre-income-tax net yield and all-cash
+cash-on-cash use total entry cost. Mortgage examples use 80% LTV, 30-year
+amortization and constant 4.5%/5.0% nominal annual rates. They are assumptions,
+not verified current offers, and exclude bank fees, rate resets and eligibility
+checks. Cash-on-cash uses annual cash flow after debt service divided by initial
+cash invested. Holding-period ROI is not estimated without resale and exit-cost
+assumptions. Short-term/Airbnb discussion is qualitative without verified revenue,
+occupancy and permission evidence. Model conclusions still require independent
+legal, technical and financial due diligence.
+
+</details>
+
+## Development
+
+Run the regression suite from the repository root with the virtual environment
+activated:
+
+```sh
+python -m unittest discover -s tests -v
+```
+
+Tests use the standard library's `unittest` runner with temporary data and mocked
+browser/model interactions. They do not require live Sreality access or a running
+Ollama service. Passing tests do not establish listing accuracy or investment quality.
+
+Keep source changes and regression coverage together. Do not commit generated
+results, browser cookies, or other session identifiers.
+
+## Troubleshooting
+
+| Symptom | What to check |
+| :--- | :--- |
+| Virtual environment not found | Create `.venv` in the repository root and install the project. |
+| Ollama preflight fails | Start Ollama, download the configured model, and verify project dependencies. |
+| Playwright cannot launch Chromium | Run `python -m playwright install chromium` in the virtual environment. |
+| Sreality redirects to consent | Rerun consent setup and select your preferences in the visible browser. |
+| Rental estimate is unavailable | Inspect comparable counts and sources; the matching sample may be too small. |
+| Net return is unavailable | Supply missing legal, repair, HOA, or insurance amounts. |
+| Analysis is incomplete | Resolve the reported detail-fetch, model, or schema error, then rerun. |
+| Report shows legacy analyses | Rerun the analyzer and generate the report with the current prompt. |
+
+## Privacy and Responsible Use
+
+- Browser state contains cookies and session identifiers. Keep `.state/` private.
+- Inference uses your local Ollama service by default. Scraping still contacts Sreality and its services.
+- Before publishing, check that no private state or generated data has been committed; ignore rules do not remove already tracked files.
+- Respect Sreality's terms, applicable law, and reasonable request rates.
+- Independently verify title, ownership, building condition, legal restrictions, expenses, and lending terms before acting.
+
+## License
+
+No license is currently specified in this repository.

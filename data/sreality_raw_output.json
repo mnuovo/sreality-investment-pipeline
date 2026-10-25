@@ -1,0 +1,3398 @@
+[
+    {
+        "id": 998056012,
+        "name": "Prodej bytu 3+kk 91 m²",
+        "price": 9888000,
+        "locality": "U Ježíška, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.740804,
+            "lon": 13.384918
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-u-jeziska/998056012",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2611888972,
+        "name": "Prodej bytu 2+kk 49 m²",
+        "price": 5510000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-podebradova/2611888972",
+        "municipality_id": 1243
+    },
+    {
+        "id": 784908364,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "price": 5990000,
+        "locality": "Dlouhá, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.746969,
+            "lon": 13.412591
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-lobzy-dlouha/784908364",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2381062220,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "price": 4750000,
+        "locality": "Petákova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7417294216,
+            "lon": 13.3740845991
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-petakova/2381062220",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3056345164,
+        "name": "Prodej bytu 3+kk 64 m²",
+        "price": 6200000,
+        "locality": "Živnostenská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7472625312,
+            "lon": 13.4072254987
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-lobzy-zivnostenska/3056345164",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3636396108,
+        "name": "Prodej bytu 1+kk 38 m²",
+        "price": 4790000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/3636396108",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1490359116,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "price": 4290000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-podebradova/1490359116",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1128849484,
+        "name": "Prodej bytu 2+kk 54 m²",
+        "price": 5590000,
+        "locality": "Školní, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.7562219979,
+            "lon": 13.4202120239
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-doubravka-skolni/1128849484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2351063884,
+        "name": "Prodej bytu atypický 124 m²",
+        "price": 4721000,
+        "locality": "Němejcova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739471711,
+            "lon": 13.366464835
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/atypicky/plzen-jizni-predmesti-nemejcova/2351063884",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2415182668,
+        "name": "Prodej bytu 3+1 82 m²",
+        "price": 8290000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7631246867,
+            "lon": 13.3662636504
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-severni-predmesti-karlovarska/2415182668",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1216483404,
+        "name": "Prodej bytu atypický 68 m²",
+        "price": 5900000,
+        "locality": "Křížkova, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7548923426,
+            "lon": 13.3785559389
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/atypicky/plzen-severni-predmesti-krizkova/1216483404",
+        "municipality_id": 1243
+    },
+    {
+        "id": 935682892,
+        "name": "Prodej bytu 3+kk 92 m²",
+        "price": 9108664,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-sumavska/935682892",
+        "municipality_id": 1243
+    },
+    {
+        "id": 130376524,
+        "name": "Prodej bytu 3+kk 82 m²",
+        "price": 8333549,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-sumavska/130376524",
+        "municipality_id": 1243
+    },
+    {
+        "id": 905576524,
+        "name": "Prodej bytu 3+1 70 m²",
+        "price": 4990000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.741598555,
+            "lon": 13.389857796
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-bozkovska/905576524",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3898875980,
+        "name": "Prodej bytu 2+kk 66 m²",
+        "price": 4390000,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.738275383,
+            "lon": 13.370556894
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/3898875980",
+        "municipality_id": 1243
+    },
+    {
+        "id": 958054476,
+        "name": "Prodej bytu 4+kk 89 m²",
+        "price": 8200000,
+        "locality": "Veslařská, Plzeň - Litice",
+        "gps": {
+            "lat": 49.71106069957699,
+            "lon": 13.35440735777878
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-litice-veslarska/958054476",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1634598988,
+        "name": "Prodej bytu 2+kk 60 m²",
+        "price": 5000000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.74057857082163,
+            "lon": 13.391799883342149
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-bozkovska/1634598988",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1553273676,
+        "name": "Prodej bytu 4+kk 105 m²",
+        "price": 9899000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-podebradova/1553273676",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2641686604,
+        "name": "Prodej bytu 1+kk 24 m²",
+        "price": 2990000,
+        "locality": "Krátká, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747683269291,
+            "lon": 13.3619537051468
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-kratka/2641686604",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3386032204,
+        "name": "Prodej bytu 3+kk 65 m²",
+        "price": 6790000,
+        "locality": "Plzenecká, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7384598480669,
+            "lon": 13.3925471292035
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-plzenecka/3386032204",
+        "municipality_id": 1243
+    },
+    {
+        "id": 735384396,
+        "name": "Prodej bytu 2+kk 60 m²",
+        "price": 6190000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-podebradova/735384396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 149143628,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "price": 4390000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/149143628",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3945869388,
+        "name": "Prodej bytu 1+kk 46 m²",
+        "price": 4990000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7319426546563,
+            "lon": 13.3557502142129
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/3945869388",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3155345484,
+        "name": "Prodej bytu 3+1 78 m²",
+        "price": 6390000,
+        "locality": "Nepomucká, Plzeň - Koterov",
+        "gps": {
+            "lat": 49.7224154953868,
+            "lon": 13.4020911425623
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-koterov-nepomucka/3155345484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2210709580,
+        "name": "Prodej bytu 5+kk 123 m²",
+        "price": 17325000,
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7651891,
+            "lon": 13.348174
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-severni-predmesti-alej-svobody/2210709580",
+        "municipality_id": 1243
+    },
+    {
+        "id": 415506508,
+        "name": "Prodej bytu 2+kk 72 m²",
+        "price": 7100000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733168975284,
+            "lon": 13.3546304155402
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/415506508",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3165537100,
+        "name": "Prodej bytu 1+kk 35 m²",
+        "price": 3990000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-podebradova/3165537100",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2781159500,
+        "name": "Prodej bytu 1+kk 32 m²",
+        "price": 4390000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733168975284,
+            "lon": 13.3546304155402
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/2781159500",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4108697676,
+        "name": "Prodej bytu 3+kk 103 m²",
+        "price": 10450000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7566901355,
+            "lon": 13.3812344104
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-na-roudne/4108697676",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1451167820,
+        "name": "Prodej bytu 4+kk 130 m²",
+        "price": 18866300,
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7650537,
+            "lon": 13.3763734
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-alej-svobody/1451167820",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3150319692,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "price": 6190000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.74057857082163,
+            "lon": 13.391799883342149
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-bozkovska/3150319692",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1840185420,
+        "name": "Prodej bytu 3+kk 87 m²",
+        "price": 6500000,
+        "locality": "Dobrovského, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.735023523773,
+            "lon": 13.3712500905565
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-dobrovskeho/1840185420",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3250340684,
+        "name": "Prodej bytu 1+1 40 m²",
+        "price": 3900000,
+        "locality": "Lobezská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.741311,
+            "lon": 13.39638
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-vychodni-predmesti-lobezska/3250340684",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3836023628,
+        "name": "Prodej bytu 3+kk 86 m²",
+        "price": 8390000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7464470664296,
+            "lon": 13.3685359640015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-podebradova/3836023628",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1082581068,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "price": 4299000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7405785708216,
+            "lon": 13.3917998833421
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-bozkovska/1082581068",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1458110540,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "price": 4795000,
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7365549824706,
+            "lon": 13.3737292296527
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-stehlikova/1458110540",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2462663500,
+        "name": "Prodej bytu 2+kk 62 m²",
+        "price": 8540000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/2462663500",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1951060044,
+        "name": "Prodej bytu 2+1 70 m²",
+        "price": 4680000,
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.732591,
+            "lon": 13.392783
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-slovanska/1951060044",
+        "municipality_id": 1243
+    },
+    {
+        "id": 212930636,
+        "name": "Prodej bytu 2+1 55 m²",
+        "price": 0,
+        "locality": "Blatenská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7330788364294,
+            "lon": 13.4053130141156
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-lobzy-blatenska/212930636",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1365450828,
+        "name": "Prodej bytu 4+kk 118 m²",
+        "price": 0,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7467097,
+            "lon": 13.3670783
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-podebradova/1365450828",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1801400396,
+        "name": "Prodej bytu 3+kk 66 m²",
+        "price": 5590000,
+        "locality": "Živnostenská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.74737376935113,
+            "lon": 13.407025650353999
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-lobzy-zivnostenska/1801400396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1959075916,
+        "name": "Prodej bytu 2+kk 52 m²",
+        "price": 5390000,
+        "locality": "náměstí Generála Píky, Plzeň",
+        "gps": {
+            "lat": 49.73389798277323,
+            "lon": 13.399823004407194
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-namesti-generala-piky/1959075916",
+        "municipality_id": 1243
+    },
+    {
+        "id": 221184076,
+        "name": "Prodej bytu 1+1 29 m²",
+        "price": 3199000,
+        "locality": "Sukova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.729486,
+            "lon": 13.368169
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-jizni-predmesti-sukova/221184076",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2463899724,
+        "name": "Prodej bytu 2+kk 85 m²",
+        "price": 5950000,
+        "locality": "Slovanská alej, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7251451379,
+            "lon": 13.401085215
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-slovanska-alej/2463899724",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2474573900,
+        "name": "Prodej bytu 3+1 71 m²",
+        "price": 5967000,
+        "locality": "Arbesova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7324281763848,
+            "lon": 13.3746245078195
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-arbesova/2474573900",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3485257804,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 6699000,
+        "locality": "U Radbuzy, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739625,
+            "lon": 13.38179
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/3485257804",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3764723788,
+        "name": "Prodej bytu 3+kk 63 m²",
+        "price": 6990000,
+        "locality": "Černická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.738315815,
+            "lon": 13.3806180084
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-cernicka/3764723788",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1659052108,
+        "name": "Prodej bytu 4+kk 94 m²",
+        "price": 5881500,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.739372613,
+            "lon": 13.393470583
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-vychodni-predmesti-bozkovska/1659052108",
+        "municipality_id": 1243
+    },
+    {
+        "id": 645173324,
+        "name": "Prodej bytu 3+kk 67 m²",
+        "price": 8609265,
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7673021314467,
+            "lon": 13.3672581135575
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-alej-svobody/645173324",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1213870156,
+        "name": "Prodej bytu 3+1 76 m²",
+        "price": 5549000,
+        "locality": "Částkova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.733210898,
+            "lon": 13.399063221
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-castkova/1213870156",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4005175372,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "price": 5990000,
+        "locality": "náměstí Míru, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7296808549564,
+            "lon": 13.3713169412713
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-miru/4005175372",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3719307340,
+        "name": "Prodej bytu 3+kk 62 m²",
+        "price": 6550000,
+        "locality": "Hálkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.741161981,
+            "lon": 13.365852942
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-halkova/3719307340",
+        "municipality_id": 1243
+    },
+    {
+        "id": 961335372,
+        "name": "Prodej bytu 2+1 50 m²",
+        "price": 4691000,
+        "locality": "Jugoslávská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.733949318540915,
+            "lon": 13.39464227025231
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-jugoslavska/961335372",
+        "municipality_id": 1243
+    },
+    {
+        "id": 224318284,
+        "name": "Prodej bytu 4+kk 106 m²",
+        "price": 9499000,
+        "locality": "Lipová, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.755432962,
+            "lon": 13.378911087
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-lipova/224318284",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2634727500,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "price": 6490000,
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733517,
+            "lon": 13.371707
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/2634727500",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1792921676,
+        "name": "Prodej bytu 2+1 50 m²",
+        "price": 4200000,
+        "locality": "Macháčkova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.744122,
+            "lon": 13.326761
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-skvrnany-machackova/1792921676",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2329641036,
+        "name": "Prodej bytu 1+kk 29 m²",
+        "price": 4060000,
+        "locality": "Jedlová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7349800039737,
+            "lon": 13.3893744679255
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-jedlova/2329641036",
+        "municipality_id": 1243
+    },
+    {
+        "id": 903254092,
+        "name": "Prodej bytu 3+kk 100 m²",
+        "price": 14000000,
+        "locality": "Jedlová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7349800039737,
+            "lon": 13.3893744679255
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-jedlova/903254092",
+        "municipality_id": 1243
+    },
+    {
+        "id": 716447820,
+        "name": "Prodej bytu 3+1 72 m²",
+        "price": 6400000,
+        "locality": "Topolová, Plzeň - Plzeň 2-Slovany",
+        "gps": {
+            "lat": 49.7244421974308,
+            "lon": 13.4037921202779
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-plzen-2-slovany-topolova/716447820",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3794272332,
+        "name": "Prodej bytu 3+kk 102 m²",
+        "price": 10790000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7734678735275,
+            "lon": 13.3922540383851
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bolevec-u-velkeho-rybnika/3794272332",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4016316492,
+        "name": "Prodej bytu 1+1 45 m²",
+        "price": 3690000,
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7401147601141,
+            "lon": 13.394350940085
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-vychodni-predmesti-uslavska/4016316492",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3797692492,
+        "name": "Prodej bytu 2+kk 50 m²",
+        "price": 6450000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7466866101689,
+            "lon": 13.367100265784
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-podebradova/3797692492",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4106797132,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 5780000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.731961933686875,
+            "lon": 13.35518798021395
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/4106797132",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1570308172,
+        "name": "Prodej bytu 2+1 57 m²",
+        "price": 4300000,
+        "locality": "Plzenecká, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7386464462012,
+            "lon": 13.3930956277358
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-plzenecka/1570308172",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4157087820,
+        "name": "Prodej bytu 3+kk 78 m²",
+        "price": 7799000,
+        "locality": "Vstupní, Plzeň - Černice",
+        "gps": {
+            "lat": 49.6977880472644,
+            "lon": 13.4223756780318
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-cernice-vstupni/4157087820",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1440624716,
+        "name": "Prodej bytu 2+1 60 m²",
+        "price": 5690000,
+        "locality": "Francouzská třída, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.726441426319006,
+            "lon": 13.404433697041588
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-francouzska-trida/1440624716",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3427336268,
+        "name": "Prodej bytu 1+1 50 m²",
+        "price": 4299000,
+        "locality": "Edvarda Beneše, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7335843907497,
+            "lon": 13.3740530148073
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-jizni-predmesti-edvarda-benese/3427336268",
+        "municipality_id": 1243
+    },
+    {
+        "id": 228602700,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 5970000,
+        "locality": "Koterovská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.731157525432664,
+            "lon": 13.405672269440952
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-lobzy-koterovska/228602700",
+        "municipality_id": 1243
+    },
+    {
+        "id": 940974156,
+        "name": "Prodej bytu 3+kk 70 m²",
+        "price": 7900000,
+        "locality": "U Tržiště, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74612762838273,
+            "lon": 13.367886294561236
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-u-trziste/940974156",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4006150220,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-zahradni/4006150220",
+        "municipality_id": 1243
+    },
+    {
+        "id": 482934860,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-zahradni/482934860",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3993636940,
+        "name": "Prodej bytu 3+kk 78 m²",
+        "price": 0,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7333215621211,
+            "lon": 13.3825807201917
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-kartonova/3993636940",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3989373004,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-zahradni/3989373004",
+        "municipality_id": 1243
+    },
+    {
+        "id": 331939916,
+        "name": "Prodej bytu 1+kk 46 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-zahradni/331939916",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1503076428,
+        "name": "Prodej bytu 2+kk 80 m²",
+        "price": 8680000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.77592,
+            "lon": 13.38302
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/1503076428",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3771269196,
+        "name": "Prodej bytu 1+kk 38 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-zahradni/3771269196",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2546532428,
+        "name": "Prodej bytu 1+kk 43 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-zahradni/2546532428",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1987350604,
+        "name": "Prodej bytu 1+kk 62 m²",
+        "price": 7138320,
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7653277,
+            "lon": 13.3485603
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-alej-svobody/1987350604",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3331059788,
+        "name": "Prodej bytu 2+1 86 m²",
+        "price": 5587000,
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.741981,
+            "lon": 13.36942
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-nerudova/3331059788",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3427541068,
+        "name": "Prodej bytu 3+kk 86 m²",
+        "price": 5587000,
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.741981,
+            "lon": 13.36942
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-nerudova/3427541068",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2191852364,
+        "name": "Prodej bytu 1+kk 48 m²",
+        "price": 6510000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/2191852364",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3529048140,
+        "name": "Prodej bytu 4+kk 104 m²",
+        "price": 10700000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.756926386301686,
+            "lon": 13.38150027542443
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-na-roudne/3529048140",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2664898636,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "price": 5840000,
+        "locality": "U Potoka, Plzeň - Malesice",
+        "gps": {
+            "lat": 49.7720293710401,
+            "lon": 13.299560321477
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-malesice-u-potoka/2664898636",
+        "municipality_id": 1243
+    },
+    {
+        "id": 638914636,
+        "name": "Prodej bytu 4+kk 121 m²",
+        "price": 12900000,
+        "locality": "Pod Vinicemi, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75737142359112,
+            "lon": 13.348820508392086
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-pod-vinicemi/638914636",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3605381196,
+        "name": "Prodej bytu 4+kk 104 m²",
+        "price": 10700000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7566901355,
+            "lon": 13.3812344104
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-na-roudne/3605381196",
+        "municipality_id": 1243
+    },
+    {
+        "id": 475222860,
+        "name": "Prodej bytu 2+kk 51 m²",
+        "price": 6924356,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-resslova/475222860",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3720286284,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "price": 6780000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7466866101689,
+            "lon": 13.367100265784
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-podebradova/3720286284",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3845906508,
+        "name": "Prodej bytu 2+1 57 m²",
+        "price": 5690000,
+        "locality": "Křimická, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7461882674792,
+            "lon": 13.3453294584712
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-skvrnany-krimicka/3845906508",
+        "municipality_id": 1243
+    },
+    {
+        "id": 806625356,
+        "name": "Prodej bytu 2+1 56 m²",
+        "price": 4830700,
+        "locality": "Mohylová, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.755375932,
+            "lon": 13.415993665
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-doubravka-mohylova/806625356",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1027175244,
+        "name": "Prodej bytu 4+kk 117 m²",
+        "price": 11489000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/1027175244",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1938489420,
+        "name": "Prodej bytu 3+kk 88 m²",
+        "price": 9490000,
+        "locality": "Halštatská, Plzeň - Újezd",
+        "gps": {
+            "lat": 49.7622630816529,
+            "lon": 13.4389290754465
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-ujezd-halstatska/1938489420",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1313484876,
+        "name": "Prodej bytu 3+kk 98 m²",
+        "price": 8650000,
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.735759962965744,
+            "lon": 13.33236745613522
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-na-pruhonu/1313484876",
+        "municipality_id": 1243
+    },
+    {
+        "id": 516620364,
+        "name": "Prodej bytu 3+1 76 m²",
+        "price": 6490000,
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7318223472143,
+            "lon": 13.3934557177872
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-slovanska/516620364",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3874160716,
+        "name": "Prodej bytu 2+kk 50 m²",
+        "price": 4190000,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.7477830556,
+            "lon": 13.3783488889
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-/3874160716",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1912664140,
+        "name": "Prodej bytu 1+kk 27 m²",
+        "price": 4090000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7319619336869,
+            "lon": 13.3551879802139
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/1912664140",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1847263308,
+        "name": "Prodej bytu 5+kk 133 m²",
+        "price": 15490000,
+        "locality": "Bolevecká, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7574462167501,
+            "lon": 13.376352179081
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-severni-predmesti-bolevecka/1847263308",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1087049804,
+        "name": "Prodej bytu 2+1 59 m²",
+        "price": 5890000,
+        "locality": "Částkova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7330299387399,
+            "lon": 13.3986245865678
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-castkova/1087049804",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1444610124,
+        "name": "Prodej bytu 3+kk 97 m²",
+        "price": 11522000,
+        "locality": "Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7424708139931,
+            "lon": 13.3268322803243
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-/1444610124",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1344438348,
+        "name": "Prodej bytu 1+kk 46 m²",
+        "price": 5445000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7318633781833,
+            "lon": 13.3564228212209
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/1344438348",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3780943948,
+        "name": "Prodej bytu 5+1 147 m²",
+        "price": 0,
+        "locality": "Bolevecká, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.757934,
+            "lon": 13.37517
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+1/plzen-severni-predmesti-bolevecka/3780943948",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2821390412,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "price": 6299000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/2821390412",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1764425804,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "price": 6299000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/1764425804",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2881237068,
+        "name": "Prodej bytu 4+1 110 m²",
+        "price": 8490000,
+        "locality": "Říční, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.726526,
+            "lon": 13.388626
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+1/plzen-doudlevce-ricni/2881237068",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4083159116,
+        "name": "Prodej bytu 1+kk 37 m²",
+        "price": 4800000,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7469322861442,
+            "lon": 13.3187626604057
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-skvrnany-frantiska-kovarika/4083159116",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1158815820,
+        "name": "Prodej bytu 2+kk 60 m²",
+        "price": 6375000,
+        "locality": "Inženýrská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7287139840195,
+            "lon": 13.3537300062562
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-inzenyrska/1158815820",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2404810828,
+        "name": "Prodej bytu 1+kk 44 m²",
+        "price": 5600000,
+        "locality": "Inženýrská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7287139840195,
+            "lon": 13.3537300062562
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-inzenyrska/2404810828",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1670525004,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "price": 7250000,
+        "locality": "Měděná, Plzeň",
+        "gps": {
+            "lat": 49.7325511383624,
+            "lon": 13.3559386334854
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-medena/1670525004",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2129141836,
+        "name": "Prodej bytu 3+1 73 m²",
+        "price": 6250000,
+        "locality": "Alešova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73276508576266,
+            "lon": 13.372584721001413
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-alesova/2129141836",
+        "municipality_id": 1243
+    },
+    {
+        "id": 573825100,
+        "name": "Prodej bytu 2+kk 39 m²",
+        "price": 4130000,
+        "locality": "Guldenerova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.74142393305546,
+            "lon": 13.393164522597537
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-guldenerova/573825100",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2506952780,
+        "name": "Prodej bytu 3+kk 131 m²",
+        "price": 10900000,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7461001849753,
+            "lon": 13.3189149008513
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-frantiska-kovarika/2506952780",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3037990988,
+        "name": "Prodej bytu 1+kk 34 m²",
+        "price": 3500000,
+        "locality": "Čelakovského, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.738457112923925,
+            "lon": 13.378255591576776
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-celakovskeho/3037990988",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1878208588,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "price": 4982580,
+        "locality": "Skvrňanská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7477401544798,
+            "lon": 13.3627113552143
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-skvrnanska/1878208588",
+        "municipality_id": 1243
+    },
+    {
+        "id": 937349196,
+        "name": "Prodej bytu 2+kk 81 m²",
+        "price": 6990000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7318633781833,
+            "lon": 13.3564228212209
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/937349196",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2564354892,
+        "name": "Prodej bytu 3+kk 74 m²",
+        "price": 6253800,
+        "locality": "Alešova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7330854065256,
+            "lon": 13.3713833623353
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-alesova/2564354892",
+        "municipality_id": 1243
+    },
+    {
+        "id": 24637516,
+        "name": "Prodej bytu 1+kk 39 m²",
+        "price": 4600000,
+        "locality": "V Zahrádkách, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.745344,
+            "lon": 13.432429
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-doubravka-v-zahradkach/24637516",
+        "municipality_id": 1243
+    },
+    {
+        "id": 632177484,
+        "name": "Prodej bytu 4+kk 104 m²",
+        "price": 14431984,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-resslova/632177484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2085400652,
+        "name": "Prodej bytu 3+kk 81 m²",
+        "price": 9094412,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841924,
+            "lon": 13.37744414737071
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-resslova/2085400652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2496545612,
+        "name": "Prodej bytu 2+kk 51 m²",
+        "price": 5687181,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-resslova/2496545612",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1921319756,
+        "name": "Prodej bytu 3+kk 81 m²",
+        "price": 10990000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/1921319756",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3757863756,
+        "name": "Prodej bytu 2+kk 59 m²",
+        "price": 6100000,
+        "locality": "Dítětova, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.748482,
+            "lon": 13.40882
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-lobzy-ditetova/3757863756",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3631550540,
+        "name": "Prodej bytu 2+1 65 m²",
+        "price": 6500000,
+        "locality": "Černická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7383149497249,
+            "lon": 13.380617046661
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-cernicka/3631550540",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3554971724,
+        "name": "Prodej bytu 1+kk 50 m²",
+        "price": 7000000,
+        "locality": "Jedlová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7349800039737,
+            "lon": 13.3893744679255
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-jedlova/3554971724",
+        "municipality_id": 1243
+    },
+    {
+        "id": 352718924,
+        "name": "Prodej bytu 1+kk 44 m²",
+        "price": 5429000,
+        "locality": "Karlova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747023908053436,
+            "lon": 13.366742403704135
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-karlova/352718924",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1948651596,
+        "name": "Prodej bytu 1+kk 34 m²",
+        "price": 4699000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7330200576391,
+            "lon": 13.3543488204074
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/1948651596",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3511029836,
+        "name": "Prodej bytu 2+1 83 m²",
+        "price": 6790000,
+        "locality": "Bendova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7412487516,
+            "lon": 13.3697709259
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-bendova/3511029836",
+        "municipality_id": 1243
+    },
+    {
+        "id": 643883084,
+        "name": "Prodej bytu 2+kk 54 m²",
+        "price": 5490000,
+        "locality": "Vstupní, Plzeň - Černice",
+        "gps": {
+            "lat": 49.6977880472644,
+            "lon": 13.422375678031836
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-cernice-vstupni/643883084",
+        "municipality_id": 1243
+    },
+    {
+        "id": 494276684,
+        "name": "Prodej bytu 2+kk 86 m²",
+        "price": 5499000,
+        "locality": "Karlova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.746117,
+            "lon": 13.366245
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-karlova/494276684",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3070619724,
+        "name": "Prodej bytu 2+kk 68 m²",
+        "price": 4950000,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7419065052404,
+            "lon": 13.3875812606732
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-koterovska/3070619724",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1109758028,
+        "name": "Prodej bytu 3+kk 59 m²",
+        "price": 8260000,
+        "locality": "Jedlová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7350711377993,
+            "lon": 13.3899629142586
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-jedlova/1109758028",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1923584076,
+        "name": "Prodej bytu 1+kk 50 m²",
+        "price": 7000000,
+        "locality": "Jedlová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7349800039737,
+            "lon": 13.3893744679255
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-jedlova/1923584076",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1111953484,
+        "name": "Prodej bytu 2+1 59 m²",
+        "price": 4980000,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7386883817126,
+            "lon": 13.3928089634535
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-koterovska/1111953484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 839503948,
+        "name": "Prodej bytu 3+1 85 m²",
+        "price": 6398000,
+        "locality": "Brožíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.732485,
+            "lon": 13.363255
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-brozikova/839503948",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3143094348,
+        "name": "Prodej bytu 3+kk 78 m²",
+        "price": 6788000,
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.721586,
+            "lon": 13.369823
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-u-borskeho-parku/3143094348",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4063961164,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "price": 6399000,
+        "locality": "Slovanská alej, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.724747984,
+            "lon": 13.401728176
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-slovanska-alej/4063961164",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4164948044,
+        "name": "Prodej bytu 2+kk 59 m²",
+        "price": 6600000,
+        "locality": "Šafaříkovy sady, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7454096569073,
+            "lon": 13.379541712619
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/4164948044",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3100692556,
+        "name": "Prodej bytu 3+1 87 m²",
+        "price": 6900000,
+        "locality": "Guldenerova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7405179,
+            "lon": 13.3951909
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-guldenerova/3100692556",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4046946380,
+        "name": "Prodej bytu 2+kk 75 m²",
+        "price": 5900000,
+        "locality": "Na Jíkalce, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7474152323246,
+            "lon": 13.3593460511644
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-na-jikalce/4046946380",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1581236300,
+        "name": "Prodej bytu 3+kk 94 m²",
+        "price": 9650000,
+        "locality": "Na Roudné, Plzeň",
+        "gps": {
+            "lat": 49.761931318993405,
+            "lon": 13.386976616226256
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-plzen-na-roudne/1581236300",
+        "municipality_id": 1243
+    },
+    {
+        "id": 782999628,
+        "name": "Prodej bytu 3+1 79 m²",
+        "price": 4790000,
+        "locality": "Průkopníků, Plzeň - Křimice",
+        "gps": {
+            "lat": 49.7531052333693,
+            "lon": 13.3051677887422
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-krimice-prukopniku/782999628",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2321616972,
+        "name": "Prodej bytu 3+kk 57 m²",
+        "price": 5399000,
+        "locality": "Plynární, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73518859487201,
+            "lon": 13.378890877554028
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-plynarni/2321616972",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1342133068,
+        "name": "Prodej bytu 2+kk 48 m²",
+        "price": 5862808,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-resslova/1342133068",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2670858316,
+        "name": "Prodej bytu 1+1 52 m²",
+        "price": 0,
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.76730213144669,
+            "lon": 13.367258113557497
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-severni-predmesti-alej-svobody/2670858316",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1130500172,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "price": 5490000,
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733086,
+            "lon": 13.371649
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/1130500172",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2559053900,
+        "name": "Prodej bytu 2+kk 56 m²",
+        "price": 7500000,
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.722827899212,
+            "lon": 13.372133321006
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-u-borskeho-parku/2559053900",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3924369484,
+        "name": "Prodej bytu 3+1 85 m²",
+        "price": 5890000,
+        "locality": "Částkova, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7344587755795,
+            "lon": 13.4042692260956
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-castkova/3924369484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3238146124,
+        "name": "Prodej bytu 2+1 76 m²",
+        "price": 0,
+        "locality": "V Malé Doubravce, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.7510530064653,
+            "lon": 13.4099651087065
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-doubravka-v-male-doubravce/3238146124",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3220385868,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "price": 6307125,
+        "locality": "Skvrňanská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7477401544798,
+            "lon": 13.3627113552143
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-skvrnanska/3220385868",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3771928652,
+        "name": "Prodej bytu 2+kk 56 m²",
+        "price": 7100000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7760861111,
+            "lon": 13.3815147222
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/3771928652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1299759180,
+        "name": "Prodej bytu 5+kk 199 m²",
+        "price": 17490000,
+        "locality": "Otýlie Beníškové, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75328,
+            "lon": 13.37799
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-severni-predmesti-otylie-beniskove/1299759180",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2827231308,
+        "name": "Prodej bytu 1+1 49 m²",
+        "price": 4090000,
+        "locality": "Nad Týncem, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.7586384877749,
+            "lon": 13.414847117051
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-doubravka-nad-tyncem/2827231308",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3594719308,
+        "name": "Prodej bytu 2+kk 73 m²",
+        "price": 5490000,
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733086,
+            "lon": 13.371649
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-vrchlickeho/3594719308",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3378712652,
+        "name": "Prodej bytu 1+kk 38 m²",
+        "price": 4890000,
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747328,
+            "lon": 13.3677831
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-kollarova/3378712652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 882643020,
+        "name": "Prodej bytu 3+kk 95 m²",
+        "price": 8295000,
+        "locality": "Havlíčkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7426488030345,
+            "lon": 13.3746811284079
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-havlickova/882643020",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2562461772,
+        "name": "Prodej bytu 2+kk 103 m²",
+        "price": 8190000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/2562461772",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3362525260,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 6690000,
+        "locality": "Plzeň - Valcha",
+        "gps": {
+            "lat": 49.71424132120664,
+            "lon": 13.33108882524058
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-valcha-/3362525260",
+        "municipality_id": 1243
+    },
+    {
+        "id": 675090508,
+        "name": "Prodej bytu 3+1 82 m²",
+        "price": 6280000,
+        "locality": "Revoluční, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.74567699179855,
+            "lon": 13.40817811910317
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-revolucni/675090508",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4253032524,
+        "name": "Prodej bytu 1+kk 35 m²",
+        "price": 4773000,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-resslova/4253032524",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1011925068,
+        "name": "Prodej bytu 1+kk 32 m²",
+        "price": 3290000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7595833925115,
+            "lon": 13.3704029012565
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-karlovarska/1011925068",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2105348172,
+        "name": "Prodej bytu 2+kk 36 m²",
+        "price": 4100000,
+        "locality": "Rokycanská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.748362,
+            "lon": 13.408244
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-lobzy-rokycanska/2105348172",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2798587980,
+        "name": "Prodej bytu 2+1 58 m²",
+        "price": 5190000,
+        "locality": "Francouzská třída, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7299598252622,
+            "lon": 13.4015854949329
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-francouzska-trida/2798587980",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2737770572,
+        "name": "Prodej bytu 2+1 62 m²",
+        "price": 5500000,
+        "locality": "Krejčíkova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7316880582666,
+            "lon": 13.4027990724482
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-krejcikova/2737770572",
+        "municipality_id": 1243
+    },
+    {
+        "id": 530059340,
+        "name": "Prodej bytu 1+kk 40 m²",
+        "price": 4300000,
+        "locality": "Na Jíkalce, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747498,
+            "lon": 13.35965
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-na-jikalce/530059340",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3801236300,
+        "name": "Prodej bytu 2+1 50 m²",
+        "price": 4890000,
+        "locality": "Kreuzmannova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7374911668058,
+            "lon": 13.3283494469758
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-skvrnany-kreuzmannova/3801236300",
+        "municipality_id": 1243
+    },
+    {
+        "id": 666374220,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "price": 5200000,
+        "locality": "Čechova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.730907740058,
+            "lon": 13.373675806591102
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-cechova/666374220",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1973948492,
+        "name": "Prodej bytu 3+1 77 m²",
+        "price": 6700000,
+        "locality": "Čechova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.730907740058,
+            "lon": 13.373675806591102
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-cechova/1973948492",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2876186700,
+        "name": "Prodej bytu 3+1 85 m²",
+        "price": 8750000,
+        "locality": "Kotíkovská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77132388296107,
+            "lon": 13.353249167237635
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-severni-predmesti-kotikovska/2876186700",
+        "municipality_id": 1243
+    },
+    {
+        "id": 969719884,
+        "name": "Prodej bytu 4+kk 120 m²",
+        "price": 7900000,
+        "locality": "Lobezská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7372075511573,
+            "lon": 13.4104541281897
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-lobzy-lobezska/969719884",
+        "municipality_id": 1243
+    },
+    {
+        "id": 532222028,
+        "name": "Prodej bytu 2+1 59 m²",
+        "price": 4690000,
+        "locality": "Zámečnická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739346,
+            "lon": 13.367198
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-zamecnicka/532222028",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2567508044,
+        "name": "Prodej bytu 2+1 57 m²",
+        "price": 6699000,
+        "locality": "U Borských kasáren, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7277761331215,
+            "lon": 13.3614393177268
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-u-borskych-kasaren/2567508044",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1485029452,
+        "name": "Prodej bytu 2+kk 61 m²",
+        "price": 6460000,
+        "locality": "Měděná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.732551138362375,
+            "lon": 13.35593863348536
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-medena/1485029452",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2842234956,
+        "name": "Prodej bytu 2+kk 60 m²",
+        "price": 6879525,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sumavska/2842234956",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1835601996,
+        "name": "Prodej bytu 4+kk 115 m²",
+        "price": 11055912,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.745045,
+            "lon": 13.388466
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-vychodni-predmesti-sumavska/1835601996",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3667529804,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "price": 5290000,
+        "locality": "Zámečnická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739328665796,
+            "lon": 13.3672033644173
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-zamecnicka/3667529804",
+        "municipality_id": 1243
+    },
+    {
+        "id": 400408652,
+        "name": "Prodej bytu 1+kk 32 m²",
+        "price": 3190000,
+        "locality": "Škroupova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74226709385927,
+            "lon": 13.375045934906426
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-skroupova/400408652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 538644556,
+        "name": "Prodej bytu 2+kk 56 m²",
+        "price": 6200000,
+        "locality": "Sladová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.729538737376174,
+            "lon": 13.407633796714737
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sladova/538644556",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1232945996,
+        "name": "Prodej bytu 3+kk 70 m²",
+        "price": 6490000,
+        "locality": "Táborská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73984124850018,
+            "lon": 13.3973266006508
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-taborska/1232945996",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1828003916,
+        "name": "Prodej bytu 2+1 52 m²",
+        "price": 3990000,
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73637574853419,
+            "lon": 13.373456028485949
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-stehlikova/1828003916",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3144269900,
+        "name": "Prodej bytu 3+1 91 m²",
+        "price": 6998000,
+        "locality": "Barákova, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.729457,
+            "lon": 13.415918
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-bozkov-barakova/3144269900",
+        "municipality_id": 1243
+    },
+    {
+        "id": 229716044,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "price": 6750000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/229716044",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3187626828,
+        "name": "Prodej bytu 3+kk 82 m²",
+        "price": 9099920,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-resslova/3187626828",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4025978956,
+        "name": "Prodej bytu 2+1 52 m²",
+        "price": 5190000,
+        "locality": "Brojova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.72916245699874,
+            "lon": 13.406395484625033
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-brojova/4025978956",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2317754444,
+        "name": "Prodej bytu 3+kk 72 m²",
+        "price": 7200000,
+        "locality": "Studentská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7750553937503,
+            "lon": 13.3598162346485
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bolevec-studentska/2317754444",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4055416908,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "price": 5990000,
+        "locality": "náměstí Míru, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.72968085495636,
+            "lon": 13.371316941271303
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-miru/4055416908",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4086706252,
+        "name": "Prodej bytu 3+1 65 m²",
+        "price": 5300000,
+        "locality": "Raisova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.72535,
+            "lon": 13.370755
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-raisova/4086706252",
+        "municipality_id": 1243
+    },
+    {
+        "id": 729870412,
+        "name": "Prodej bytu 3+kk 68 m²",
+        "price": 6400000,
+        "locality": "Bolevecká, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7577891613936,
+            "lon": 13.3751232296015
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-bolevecka/729870412",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2047836236,
+        "name": "Prodej bytu 2+1 53 m²",
+        "price": 4150000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7393353166235,
+            "lon": 13.3935730773498
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-bozkovska/2047836236",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1961148492,
+        "name": "Prodej bytu 2+kk 45 m²",
+        "price": 4999000,
+        "locality": "Masarykova, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.756325079,
+            "lon": 13.419729746
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-doubravka-masarykova/1961148492",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2712739916,
+        "name": "Prodej bytu 1+kk 39 m²",
+        "price": 4950000,
+        "locality": "Boettingerova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7275487,
+            "lon": 13.364586
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-boettingerova/2712739916",
+        "municipality_id": 1243
+    },
+    {
+        "id": 768373580,
+        "name": "Prodej bytu 2+kk 59 m²",
+        "price": 6370000,
+        "locality": "Dítětova, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.748482,
+            "lon": 13.40882
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-lobzy-ditetova/768373580",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3499377484,
+        "name": "Prodej bytu 5+1 113 m²",
+        "price": 7499000,
+        "locality": "Veleslavínova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7489217,
+            "lon": 13.3781232
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+1/plzen-vnitrni-mesto-veleslavinova/3499377484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 7598156,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "price": 6228766,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sumavska/7598156",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3937542220,
+        "name": "Prodej bytu 2+kk 50 m²",
+        "price": 5600000,
+        "locality": "Na Chmelnicích, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7632853331365,
+            "lon": 13.3487878090599
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-severni-predmesti-na-chmelnicich/3937542220",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2851217484,
+        "name": "Prodej bytu 2+kk 59 m²",
+        "price": 6790000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7329519052522,
+            "lon": 13.3549377323082
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/2851217484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1692606540,
+        "name": "Prodej bytu 3+kk 109 m²",
+        "price": 9900000,
+        "locality": "Kotíkovská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.765517,
+            "lon": 13.360843
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-kotikovska/1692606540",
+        "municipality_id": 1243
+    },
+    {
+        "id": 504569932,
+        "name": "Prodej bytu 1+kk 27 m²",
+        "price": 4340000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.731961933686875,
+            "lon": 13.35518798021395
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/504569932",
+        "municipality_id": 1243
+    },
+    {
+        "id": 560578636,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 4690000,
+        "locality": "Pařížská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.74302,
+            "lon": 13.38276
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-parizska/560578636",
+        "municipality_id": 1243
+    },
+    {
+        "id": 796762188,
+        "name": "Prodej bytu 3+1 85 m²",
+        "price": 6990000,
+        "locality": "Na Průtahu, Plzeň - Koterov",
+        "gps": {
+            "lat": 49.721628,
+            "lon": 13.405616
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-koterov-na-prutahu/796762188",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2508005452,
+        "name": "Prodej bytu 3+kk 81 m²",
+        "price": 10490000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/2508005452",
+        "municipality_id": 1243
+    },
+    {
+        "id": 782114892,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 7790000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/782114892",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2677940300,
+        "name": "Prodej bytu 1+kk 43 m²",
+        "price": 6290000,
+        "locality": "náměstí Českých bratří, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388595447813,
+            "lon": 13.3650735584507
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-namesti-ceskych-bratri/2677940300",
+        "municipality_id": 1243
+    },
+    {
+        "id": 479580236,
+        "name": "Prodej bytu 2+kk 52 m²",
+        "price": 4750000,
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7215882198745,
+            "lon": 13.3698226315171
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-u-borskeho-parku/479580236",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1689342796,
+        "name": "Prodej bytu 5+1 160 m²",
+        "price": 9300000,
+        "locality": "Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7398012880941,
+            "lon": 13.3920146185765
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+1/plzen-vychodni-predmesti-/1689342796",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2660409420,
+        "name": "Prodej bytu 3+1 82 m²",
+        "price": 5500000,
+        "locality": "Rokycanská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.748218,
+            "lon": 13.41296
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-rokycanska/2660409420",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3793646412,
+        "name": "Prodej bytu 2+kk 52 m²",
+        "price": 4550000,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7390632582,
+            "lon": 13.3913911474
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sladkovskeho/3793646412",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2233549644,
+        "name": "Prodej bytu 3+1 73 m²",
+        "price": 6450000,
+        "locality": "Pod Švabinami, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7440098296,
+            "lon": 13.4151954596
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-pod-svabinami/2233549644",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4240715852,
+        "name": "Prodej bytu 2+1 60 m²",
+        "price": 5650000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7422708530848,
+            "lon": 13.3703750208352
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-kardinala-berana/4240715852",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1534840908,
+        "name": "Prodej bytu atypický 70 m²",
+        "price": 4500000,
+        "locality": "Ořechová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.726064,
+            "lon": 13.399127
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/atypicky/plzen-vychodni-predmesti-orechova/1534840908",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2027561036,
+        "name": "Prodej bytu 3+1 67 m²",
+        "price": 6290000,
+        "locality": "Rychtaříkova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7309299599,
+            "lon": 13.3988224405
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-rychtarikova/2027561036",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2157326412,
+        "name": "Prodej bytu 1+kk 35 m²",
+        "price": 4790000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77209,
+            "lon": 13.349454
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-karlovarska/2157326412",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2617438284,
+        "name": "Prodej bytu 2+1 72 m²",
+        "price": 6499000,
+        "locality": "Olšová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.729101058,
+            "lon": 13.391738941
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-olsova/2617438284",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3660656716,
+        "name": "Prodej bytu 2+kk 46 m²",
+        "price": 0,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7301338625269,
+            "lon": 13.4077358313325
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-koterovska/3660656716",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4135968844,
+        "name": "Prodej bytu 2+kk 39 m²",
+        "price": 4160000,
+        "locality": "Guldenerova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.741105655,
+            "lon": 13.394528844
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-guldenerova/4135968844",
+        "municipality_id": 1243
+    },
+    {
+        "id": 76689484,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 7500000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.776143,
+            "lon": 13.3814085
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/76689484",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4276342860,
+        "name": "Prodej bytu 2+kk 82 m²",
+        "price": 8999000,
+        "locality": "Znojemská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7612953,
+            "lon": 13.34777
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-severni-predmesti-znojemska/4276342860",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2878648396,
+        "name": "Prodej bytu 2+kk 56 m²",
+        "price": 6690000,
+        "locality": "Měděná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7325511383624,
+            "lon": 13.3559386334854
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-medena/2878648396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3682807884,
+        "name": "Prodej bytu 4+kk 155 m²",
+        "price": 14690000,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-klatovska-trida/3682807884",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1516486732,
+        "name": "Prodej bytu 3+kk 86 m²",
+        "price": 8490000,
+        "locality": "Znojemská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7610294624381,
+            "lon": 13.3484997739633
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-znojemska/1516486732",
+        "municipality_id": 1243
+    },
+    {
+        "id": 125272140,
+        "name": "Prodej bytu 2+kk 73 m²",
+        "price": 6849000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74325860243877,
+            "lon": 13.370321388489915
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-kardinala-berana/125272140",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2296267596,
+        "name": "Prodej bytu 4+kk 90 m²",
+        "price": 11019064,
+        "locality": "Resslova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74223402841925,
+            "lon": 13.377444147370706
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-resslova/2296267596",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3584237644,
+        "name": "Prodej bytu 3+kk 92 m²",
+        "price": 7746000,
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.735759962965744,
+            "lon": 13.33236745613522
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-na-pruhonu/3584237644",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2545205324,
+        "name": "Prodej bytu 2+kk 56 m²",
+        "price": 7461118,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7327936803463,
+            "lon": 13.3824768464054
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-kartonova/2545205324",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4246037324,
+        "name": "Prodej bytu 3+kk 95 m²",
+        "price": 9896460,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-sumavska/4246037324",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1676001356,
+        "name": "Prodej bytu 3+kk 103 m²",
+        "price": 10450000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7566901355,
+            "lon": 13.3812344104
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-na-roudne/1676001356",
+        "municipality_id": 1243
+    },
+    {
+        "id": 922939468,
+        "name": "Prodej bytu 1+kk 30 m²",
+        "price": 2999000,
+        "locality": "Rokycanská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.748216645,
+            "lon": 13.412959694
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-lobzy-rokycanska/922939468",
+        "municipality_id": 1243
+    },
+    {
+        "id": 682983500,
+        "name": "Prodej bytu 1+1 40 m²",
+        "price": 3990000,
+        "locality": "Plachého, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7432368482424,
+            "lon": 13.3692581922629
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-jizni-predmesti-placheho/682983500",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3937648716,
+        "name": "Prodej bytu 3+kk 87 m²",
+        "price": 8990000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77209,
+            "lon": 13.349454
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-karlovarska/3937648716",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1075691596,
+        "name": "Prodej bytu 2+kk 62 m²",
+        "price": 6790000,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7478878378111,
+            "lon": 13.319828179291017
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-skvrnany-frantiska-kovarika/1075691596",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2250096716,
+        "name": "Prodej bytu 3+kk 65 m²",
+        "price": 5500000,
+        "locality": "Antonína Uxy, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7388240428,
+            "lon": 13.3778798894
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-antonina-uxy/2250096716",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2050998348,
+        "name": "Prodej bytu 3+kk 103 m²",
+        "price": 10450000,
+        "locality": "Na Roudné, Plzeň",
+        "gps": {
+            "lat": 49.761931318993405,
+            "lon": 13.386976616226256
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-plzen-na-roudne/2050998348",
+        "municipality_id": 1243
+    },
+    {
+        "id": 340889676,
+        "name": "Prodej bytu 1+kk 26 m²",
+        "price": 3650000,
+        "locality": "Na Chmelnicích, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.763284551,
+            "lon": 13.3487884898
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/340889676",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3929718860,
+        "name": "Prodej bytu 4+1 81 m²",
+        "price": 6999999,
+        "locality": "Lobezská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7403859015915,
+            "lon": 13.3984748630331
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+1/plzen-vychodni-predmesti-lobezska/3929718860",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2051530828,
+        "name": "Prodej bytu 2+1 49 m²",
+        "price": 4290000,
+        "locality": "Blatenská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7324872128735,
+            "lon": 13.4073486534453
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-lobzy-blatenska/2051530828",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1303965772,
+        "name": "Prodej bytu 2+kk 49 m²",
+        "price": 5490000,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7478878378111,
+            "lon": 13.319828179291
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-skvrnany-frantiska-kovarika/1303965772",
+        "municipality_id": 1243
+    },
+    {
+        "id": 4025836364,
+        "name": "Prodej bytu 3+kk 112 m²",
+        "price": 10630581,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-sumavska/4025836364",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1299284812,
+        "name": "Prodej bytu 3+1 69 m²",
+        "price": 4990000,
+        "locality": "Thámova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.738194676821664,
+            "lon": 13.368871689068524
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-thamova/1299284812",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1215549516,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "price": 4498000,
+        "locality": "V Malé Doubravce, Plzeň",
+        "gps": {
+            "lat": 49.75074468600055,
+            "lon": 13.41087297846275
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-plzen-v-male-doubravce/1215549516",
+        "municipality_id": 1243
+    },
+    {
+        "id": 158584908,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "price": 7618000,
+        "locality": "V Malé Doubravce, Plzeň - Plzeň 4",
+        "gps": {
+            "lat": 49.7507446860006,
+            "lon": 13.4108729784628
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-4-v-male-doubravce/158584908",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2842939468,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 6528000,
+        "locality": "V Malé Doubravce, Plzeň - Plzeň 4",
+        "gps": {
+            "lat": 49.7507446860006,
+            "lon": 13.4108729784628
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-4-v-male-doubravce/2842939468",
+        "municipality_id": 1243
+    },
+    {
+        "id": 913559628,
+        "name": "Prodej bytu 3+kk 87 m²",
+        "price": 10506000,
+        "locality": "V Malé Doubravce, Plzeň - Plzeň 4",
+        "gps": {
+            "lat": 49.7507446860006,
+            "lon": 13.4108729784628
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-plzen-4-v-male-doubravce/913559628",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1148440652,
+        "name": "Prodej bytu 3+kk 81 m²",
+        "price": 9659000,
+        "locality": "V Malé Doubravce, Plzeň - Plzeň 4",
+        "gps": {
+            "lat": 49.7507446860006,
+            "lon": 13.4108729784628
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-plzen-4-v-male-doubravce/1148440652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1352454220,
+        "name": "Prodej bytu 3+kk 88 m²",
+        "price": 10243000,
+        "locality": "V Malé Doubravce, Plzeň - Plzeň 4",
+        "gps": {
+            "lat": 49.7507446860006,
+            "lon": 13.4108729784628
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-plzen-4-v-male-doubravce/1352454220",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1603129420,
+        "name": "Prodej bytu 3+kk 79 m²",
+        "price": 9250000,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74656188655646,
+            "lon": 13.367649942300007
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-podebradova/1603129420",
+        "municipality_id": 1243
+    },
+    {
+        "id": 247320652,
+        "name": "Prodej bytu 3+kk 104 m²",
+        "price": 11950000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7758397222,
+            "lon": 13.38357
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bolevec-u-velkeho-rybnika/247320652",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2886070348,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "price": 6790000,
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7335184014484,
+            "lon": 13.3717065941975
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/2886070348",
+        "municipality_id": 1243
+    },
+    {
+        "id": 485634892,
+        "name": "Prodej bytu 2+kk 42 m²",
+        "price": 4300000,
+        "locality": "náměstí Míru, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.72965,
+            "lon": 13.371074
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-namesti-miru/485634892",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1793908812,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 6390000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77209,
+            "lon": 13.349454
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-severni-predmesti-karlovarska/1793908812",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2385686604,
+        "name": "Prodej bytu 4+1 130 m²",
+        "price": 7500000,
+        "locality": "Křimická, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7462088193963,
+            "lon": 13.3429464137351
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+1/plzen-skvrnany-krimicka/2385686604",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2030035020,
+        "name": "Prodej bytu 4+kk 106 m²",
+        "price": 10900000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77209,
+            "lon": 13.349454
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-karlovarska/2030035020",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3328721740,
+        "name": "Prodej bytu 2+1 66 m²",
+        "price": 4450000,
+        "locality": "Dobrovského, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734732549857135,
+            "lon": 13.372852940732187
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-dobrovskeho/3328721740",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1588473932,
+        "name": "Prodej bytu 1+kk 28 m²",
+        "price": 4100000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7319619336869,
+            "lon": 13.3551879802139
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/1588473932",
+        "municipality_id": 1243
+    },
+    {
+        "id": 692187212,
+        "name": "Prodej bytu 2+kk 82 m²",
+        "price": 5390000,
+        "locality": "Sudova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73200535145316,
+            "lon": 13.393888029296773
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sudova/692187212",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1631711308,
+        "name": "Prodej bytu 2+kk 34 m²",
+        "price": 3900000,
+        "locality": "Plachého, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74317389245158,
+            "lon": 13.368498038589355
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-placheho/1631711308",
+        "municipality_id": 1243
+    },
+    {
+        "id": 54718540,
+        "name": "Prodej bytu 4+1 81 m²",
+        "price": 6300000,
+        "locality": "Manětínská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.779897275552,
+            "lon": 13.3670246974621
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+1/plzen-bolevec-manetinska/54718540",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3424448588,
+        "name": "Prodej bytu 3+kk 74 m²",
+        "price": 7990000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.77209,
+            "lon": 13.349454
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-karlovarska/3424448588",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3922325580,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 6490000,
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7725303643938,
+            "lon": 13.3637912912544
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-severni-predmesti-karlovarska/3922325580",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2713092940,
+        "name": "Prodej bytu 4+kk 105 m²",
+        "price": 9299000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74286899437709,
+            "lon": 13.37036753583054
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-kardinala-berana/2713092940",
+        "municipality_id": 1243
+    },
+    {
+        "id": 800096332,
+        "name": "Prodej bytu 2+kk 64 m²",
+        "price": 6939235,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7447526829966,
+            "lon": 13.3886433222023
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sumavska/800096332",
+        "municipality_id": 1243
+    },
+    {
+        "id": 416514124,
+        "name": "Prodej bytu 3+kk 82 m²",
+        "price": 7500000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.76938,
+            "lon": 13.40488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-na-roudne/416514124",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1158840396,
+        "name": "Prodej bytu 4+kk 84 m²",
+        "price": 7385616,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.7477830556,
+            "lon": 13.3783488889
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-plzen-/1158840396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2498723916,
+        "name": "Prodej bytu 2+kk 57 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-zahradni/2498723916",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1780449356,
+        "name": "Prodej bytu 4+kk 138 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-vychodni-predmesti-zahradni/1780449356",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2317320268,
+        "name": "Prodej bytu 1+kk 45 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-zahradni/2317320268",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2602532940,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-zahradni/2602532940",
+        "municipality_id": 1243
+    },
+    {
+        "id": 941588556,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-zahradni/941588556",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2820636748,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-vychodni-predmesti-zahradni/2820636748",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2783936588,
+        "name": "Prodej bytu 3+kk 84 m²",
+        "price": 0,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73331203356093,
+            "lon": 13.390342159103488
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-zahradni/2783936588",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1009189708,
+        "name": "Prodej bytu 3+kk 85 m²",
+        "price": 7249000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74286899437709,
+            "lon": 13.37036753583054
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-kardinala-berana/1009189708",
+        "municipality_id": 1243
+    },
+    {
+        "id": 609976396,
+        "name": "Prodej bytu 1+kk 33 m²",
+        "price": 5090000,
+        "locality": "Franze Liszta, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7723309506081,
+            "lon": 13.3780685446752
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-bolevec-franze-liszta/609976396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3391554380,
+        "name": "Prodej bytu 3+kk 115 m²",
+        "price": 9299000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74286899437709,
+            "lon": 13.37036753583054
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-kardinala-berana/3391554380",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2751030092,
+        "name": "Prodej bytu 4+kk 115 m²",
+        "price": 11345467,
+        "locality": "Plzeň - Plzeň 3",
+        "gps": {
+            "lat": 49.7301947425406,
+            "lon": 13.3413904569317
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-plzen-3-/2751030092",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2912236364,
+        "name": "Prodej bytu 2+kk 62 m²",
+        "price": 4690000,
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7474792912063,
+            "lon": 13.3691803581558
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-kollarova/2912236364",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3158000460,
+        "name": "Prodej bytu 5+kk 245 m²",
+        "price": 8400000,
+        "locality": "Martinská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7438114368635,
+            "lon": 13.3775362811309
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-jizni-predmesti-martinska/3158000460",
+        "municipality_id": 1243
+    },
+    {
+        "id": 384586572,
+        "name": "Prodej bytu 3+kk 70 m²",
+        "price": 7083737,
+        "locality": "Plzeň - Valcha",
+        "gps": {
+            "lat": 49.7142413212066,
+            "lon": 13.3310888252406
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-valcha-/384586572",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1467551820,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "price": 6424000,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.745043,
+            "lon": 13.388581
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sumavska/1467551820",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3177779276,
+        "name": "Prodej bytu 3+kk 97 m²",
+        "price": 9342021,
+        "locality": "Šumavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.745043,
+            "lon": 13.388581
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-sumavska/3177779276",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2612531276,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "price": 4600000,
+        "locality": "Čechova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.730907740058,
+            "lon": 13.373675806591102
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-cechova/2612531276",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1942945868,
+        "name": "Prodej bytu 3+kk 144 m²",
+        "price": 11990000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7327471263036,
+            "lon": 13.4232458995594
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bozkov-bozkovske-namesti/1942945868",
+        "municipality_id": 1243
+    },
+    {
+        "id": 2916024396,
+        "name": "Prodej bytu 3+kk 81 m²",
+        "price": 8990000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7327471263036,
+            "lon": 13.4232458995594
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bozkov-bozkovske-namesti/2916024396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 1657733196,
+        "name": "Prodej bytu 3+kk 100 m²",
+        "price": 9790000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7325197495,
+            "lon": 13.4235963711
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bozkov-bozkovske-namesti/1657733196",
+        "municipality_id": 1243
+    },
+    {
+        "id": 3821994060,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "price": 5790000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7327471263036,
+            "lon": 13.4232458995594
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bozkov-bozkovske-namesti/3821994060",
+        "municipality_id": 1243
+    },
+    {
+        "id": 818872396,
+        "name": "Prodej bytu 2+kk 64 m²",
+        "price": 6790000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7325197495,
+            "lon": 13.4235963711
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bozkov-bozkovske-namesti/818872396",
+        "municipality_id": 1243
+    },
+    {
+        "id": 13566028,
+        "name": "Prodej bytu 2+kk 80 m²",
+        "price": 8290000,
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7327471263036,
+            "lon": 13.4232458995594
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-bozkov-bozkovske-namesti/13566028",
+        "municipality_id": 1243
+    },
+    {
+        "id": 943137612,
+        "name": "Prodej bytu 3+kk 89 m²",
+        "price": 11600000,
+        "locality": "Lipová, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75548964515217,
+            "lon": 13.37985095830654
+        },
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-lipova/943137612",
+        "municipality_id": 1243
+    }
+]

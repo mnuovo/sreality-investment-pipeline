@@ -1,0 +1,3821 @@
+[
+    {
+        "id": 784908364,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "locality": "Dlouhá, Plzeň - Lobzy",
+        "price": 5990000,
+        "size_m2": 76.0,
+        "price_per_m2": 78815,
+        "market_average_m2": 99139,
+        "deviation_pct": -20.5,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-lobzy-dlouha/784908364",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24166,
+            "annual_rent_czk": 289992,
+            "gross_annual_yield_pct": 4.84,
+            "monthly_rent_range_czk": [
+                20267,
+                29270
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1840185420,
+        "name": "Prodej bytu 3+kk 87 m²",
+        "locality": "Dobrovského, Plzeň - Jižní Předměstí",
+        "price": 6500000,
+        "size_m2": 87.0,
+        "price_per_m2": 74712,
+        "market_average_m2": 99139,
+        "deviation_pct": -24.64,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-dobrovskeho/1840185420",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 27663,
+            "annual_rent_czk": 331956,
+            "gross_annual_yield_pct": 5.11,
+            "monthly_rent_range_czk": [
+                23200,
+                33507
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1801400396,
+        "name": "Prodej bytu 3+kk 66 m²",
+        "locality": "Živnostenská, Plzeň - Lobzy",
+        "price": 5590000,
+        "size_m2": 66.0,
+        "price_per_m2": 84696,
+        "market_average_m2": 99139,
+        "deviation_pct": -14.57,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-lobzy-zivnostenska/1801400396",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20986,
+            "annual_rent_czk": 251832,
+            "gross_annual_yield_pct": 4.51,
+            "monthly_rent_range_czk": [
+                17600,
+                25419
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 4005175372,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "locality": "náměstí Míru, Plzeň - Jižní Předměstí",
+        "price": 5990000,
+        "size_m2": 73.0,
+        "price_per_m2": 82054,
+        "market_average_m2": 99139,
+        "deviation_pct": -17.23,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-miru/4005175372",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23212,
+            "annual_rent_czk": 278544,
+            "gross_annual_yield_pct": 4.65,
+            "monthly_rent_range_czk": [
+                19467,
+                28115
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2634727500,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "price": 6490000,
+        "size_m2": 76.0,
+        "price_per_m2": 85394,
+        "market_average_m2": 99139,
+        "deviation_pct": -13.86,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/2634727500",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24166,
+            "annual_rent_czk": 289992,
+            "gross_annual_yield_pct": 4.47,
+            "monthly_rent_range_czk": [
+                20267,
+                29270
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3427541068,
+        "name": "Prodej bytu 3+kk 86 m²",
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "price": 5587000,
+        "size_m2": 86.0,
+        "price_per_m2": 64965,
+        "market_average_m2": 99139,
+        "deviation_pct": -34.47,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-nerudova/3427541068",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 27345,
+            "annual_rent_czk": 328140,
+            "gross_annual_yield_pct": 5.87,
+            "monthly_rent_range_czk": [
+                22933,
+                33122
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2664898636,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "locality": "U Potoka, Plzeň - Malesice",
+        "price": 5840000,
+        "size_m2": 83.0,
+        "price_per_m2": 70361,
+        "market_average_m2": 99139,
+        "deviation_pct": -29.03,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-malesice-u-potoka/2664898636",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 26391,
+            "annual_rent_czk": 316692,
+            "gross_annual_yield_pct": 5.42,
+            "monthly_rent_range_czk": [
+                22133,
+                31966
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1313484876,
+        "name": "Prodej bytu 3+kk 98 m²",
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "price": 8650000,
+        "size_m2": 98.0,
+        "price_per_m2": 88265,
+        "market_average_m2": 99139,
+        "deviation_pct": -10.97,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-na-pruhonu/1313484876",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 28093,
+            "annual_rent_czk": 337116,
+            "gross_annual_yield_pct": 3.9,
+            "monthly_rent_range_czk": [
+                17892,
+                37743
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1168576588,
+                1775968332,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2506952780,
+        "name": "Prodej bytu 3+kk 131 m²",
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "price": 10900000,
+        "size_m2": 131.0,
+        "price_per_m2": 83206,
+        "market_average_m2": 99139,
+        "deviation_pct": -16.07,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-frantiska-kovarika/2506952780",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23917,
+            "annual_rent_czk": 287004,
+            "gross_annual_yield_pct": 2.63,
+            "monthly_rent_range_czk": [
+                15763,
+                23917
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                2224492620,
+                1168576588,
+                1775968332
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2224492620",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2564354892,
+        "name": "Prodej bytu 3+kk 74 m²",
+        "locality": "Alešova, Plzeň - Jižní Předměstí",
+        "price": 6253800,
+        "size_m2": 74.0,
+        "price_per_m2": 84510,
+        "market_average_m2": 99139,
+        "deviation_pct": -14.76,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-alesova/2564354892",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23530,
+            "annual_rent_czk": 282360,
+            "gross_annual_yield_pct": 4.52,
+            "monthly_rent_range_czk": [
+                19733,
+                28500
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3143094348,
+        "name": "Prodej bytu 3+kk 78 m²",
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "price": 6788000,
+        "size_m2": 78.0,
+        "price_per_m2": 87025,
+        "market_average_m2": 99139,
+        "deviation_pct": -12.22,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-u-borskeho-parku/3143094348",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24801,
+            "annual_rent_czk": 297612,
+            "gross_annual_yield_pct": 4.38,
+            "monthly_rent_range_czk": [
+                20800,
+                30041
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 4063961164,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "locality": "Slovanská alej, Plzeň - Východní Předměstí",
+        "price": 6399000,
+        "size_m2": 73.0,
+        "price_per_m2": 87657,
+        "market_average_m2": 99139,
+        "deviation_pct": -11.58,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-slovanska-alej/4063961164",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23212,
+            "annual_rent_czk": 278544,
+            "gross_annual_yield_pct": 4.35,
+            "monthly_rent_range_czk": [
+                19467,
+                28115
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1130500172,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "price": 5490000,
+        "size_m2": 73.0,
+        "price_per_m2": 75205,
+        "market_average_m2": 99139,
+        "deviation_pct": -24.14,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/1130500172",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23212,
+            "annual_rent_czk": 278544,
+            "gross_annual_yield_pct": 5.07,
+            "monthly_rent_range_czk": [
+                19467,
+                28115
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3220385868,
+        "name": "Prodej bytu 3+kk 83 m²",
+        "locality": "Skvrňanská, Plzeň - Jižní Předměstí",
+        "price": 6307125,
+        "size_m2": 83.0,
+        "price_per_m2": 75989,
+        "market_average_m2": 99139,
+        "deviation_pct": -23.35,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-skvrnanska/3220385868",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 26391,
+            "annual_rent_czk": 316692,
+            "gross_annual_yield_pct": 5.02,
+            "monthly_rent_range_czk": [
+                22133,
+                31966
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 882643020,
+        "name": "Prodej bytu 3+kk 95 m²",
+        "locality": "Havlíčkova, Plzeň - Jižní Předměstí",
+        "price": 8295000,
+        "size_m2": 95.0,
+        "price_per_m2": 87315,
+        "market_average_m2": 99139,
+        "deviation_pct": -11.93,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-havlickova/882643020",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 27233,
+            "annual_rent_czk": 326796,
+            "gross_annual_yield_pct": 3.94,
+            "monthly_rent_range_czk": [
+                17344,
+                36588
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1168576588,
+                1775968332,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3667529804,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "locality": "Zámečnická, Plzeň - Jižní Předměstí",
+        "price": 5290000,
+        "size_m2": 76.0,
+        "price_per_m2": 69605,
+        "market_average_m2": 99139,
+        "deviation_pct": -29.79,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-zamecnicka/3667529804",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24166,
+            "annual_rent_czk": 289992,
+            "gross_annual_yield_pct": 5.48,
+            "monthly_rent_range_czk": [
+                20267,
+                29270
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1232945996,
+        "name": "Prodej bytu 3+kk 70 m²",
+        "locality": "Táborská, Plzeň - Východní Předměstí",
+        "price": 6490000,
+        "size_m2": 70.0,
+        "price_per_m2": 92714,
+        "market_average_m2": 99139,
+        "deviation_pct": -6.48,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-vychodni-predmesti-taborska/1232945996",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 22258,
+            "annual_rent_czk": 267096,
+            "gross_annual_yield_pct": 4.12,
+            "monthly_rent_range_czk": [
+                18667,
+                26959
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 4055416908,
+        "name": "Prodej bytu 3+kk 73 m²",
+        "locality": "náměstí Míru, Plzeň - Jižní Předměstí",
+        "price": 5990000,
+        "size_m2": 73.0,
+        "price_per_m2": 82054,
+        "market_average_m2": 99139,
+        "deviation_pct": -17.23,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-namesti-miru/4055416908",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23212,
+            "annual_rent_czk": 278544,
+            "gross_annual_yield_pct": 4.65,
+            "monthly_rent_range_czk": [
+                19467,
+                28115
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 729870412,
+        "name": "Prodej bytu 3+kk 68 m²",
+        "locality": "Bolevecká, Plzeň - Severní Předměstí",
+        "price": 6400000,
+        "size_m2": 68.0,
+        "price_per_m2": 94117,
+        "market_average_m2": 99139,
+        "deviation_pct": -5.07,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-bolevecka/729870412",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 21622,
+            "annual_rent_czk": 259464,
+            "gross_annual_yield_pct": 4.05,
+            "monthly_rent_range_czk": [
+                18133,
+                26189
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1692606540,
+        "name": "Prodej bytu 3+kk 109 m²",
+        "locality": "Kotíkovská, Plzeň - Severní Předměstí",
+        "price": 9900000,
+        "size_m2": 109.0,
+        "price_per_m2": 90825,
+        "market_average_m2": 99139,
+        "deviation_pct": -8.39,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-kotikovska/1692606540",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 19900,
+            "annual_rent_czk": 238800,
+            "gross_annual_yield_pct": 2.41,
+            "monthly_rent_range_czk": [
+                13115,
+                35890
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                2224492620,
+                1168576588,
+                1775968332,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2224492620",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3584237644,
+        "name": "Prodej bytu 3+kk 92 m²",
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "price": 7746000,
+        "size_m2": 92.0,
+        "price_per_m2": 84195,
+        "market_average_m2": 99139,
+        "deviation_pct": -15.07,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-skvrnany-na-pruhonu/3584237644",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 26373,
+            "annual_rent_czk": 316476,
+            "gross_annual_yield_pct": 4.09,
+            "monthly_rent_range_czk": [
+                16796,
+                35432
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1168576588,
+                1775968332,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2250096716,
+        "name": "Prodej bytu 3+kk 65 m²",
+        "locality": "Antonína Uxy, Plzeň - Jižní Předměstí",
+        "price": 5500000,
+        "size_m2": 65.0,
+        "price_per_m2": 84615,
+        "market_average_m2": 99139,
+        "deviation_pct": -14.65,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-antonina-uxy/2250096716",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 19933,
+            "annual_rent_czk": 239196,
+            "gross_annual_yield_pct": 4.35,
+            "monthly_rent_range_czk": [
+                17333,
+                25034
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2886070348,
+        "name": "Prodej bytu 3+kk 76 m²",
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "price": 6790000,
+        "size_m2": 76.0,
+        "price_per_m2": 89342,
+        "market_average_m2": 99139,
+        "deviation_pct": -9.88,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-vrchlickeho/2886070348",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24166,
+            "annual_rent_czk": 289992,
+            "gross_annual_yield_pct": 4.27,
+            "monthly_rent_range_czk": [
+                20267,
+                29270
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 416514124,
+        "name": "Prodej bytu 3+kk 82 m²",
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "price": 7500000,
+        "size_m2": 82.0,
+        "price_per_m2": 91463,
+        "market_average_m2": 99139,
+        "deviation_pct": -7.74,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-severni-predmesti-na-roudne/416514124",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 26073,
+            "annual_rent_czk": 312876,
+            "gross_annual_yield_pct": 4.17,
+            "monthly_rent_range_czk": [
+                21867,
+                31581
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1009189708,
+        "name": "Prodej bytu 3+kk 85 m²",
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "price": 7249000,
+        "size_m2": 85.0,
+        "price_per_m2": 85282,
+        "market_average_m2": 99139,
+        "deviation_pct": -13.98,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-kardinala-berana/1009189708",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 27027,
+            "annual_rent_czk": 324324,
+            "gross_annual_yield_pct": 4.47,
+            "monthly_rent_range_czk": [
+                22667,
+                32736
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                4155973708,
+                81117260,
+                3747745868,
+                1360605260
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3391554380,
+        "name": "Prodej bytu 3+kk 115 m²",
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "price": 9299000,
+        "size_m2": 115.0,
+        "price_per_m2": 80860,
+        "market_average_m2": 99139,
+        "deviation_pct": -18.44,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-jizni-predmesti-kardinala-berana/3391554380",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20995,
+            "annual_rent_czk": 251940,
+            "gross_annual_yield_pct": 2.71,
+            "monthly_rent_range_czk": [
+                13837,
+                20995
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                2224492620,
+                1168576588,
+                1775968332
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2224492620",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1942945868,
+        "name": "Prodej bytu 3+kk 144 m²",
+        "locality": "Božkovské náměstí, Plzeň - Božkov",
+        "price": 11990000,
+        "size_m2": 144.0,
+        "price_per_m2": 83263,
+        "market_average_m2": 99139,
+        "deviation_pct": -16.01,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+kk/plzen-bozkov-bozkovske-namesti/1942945868",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 26290,
+            "annual_rent_czk": 315480,
+            "gross_annual_yield_pct": 2.63,
+            "monthly_rent_range_czk": [
+                17327,
+                26290
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                2224492620,
+                1168576588,
+                1775968332
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2224492620",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+                "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2381062220,
+        "name": "Prodej bytu 2+kk 58 m²",
+        "locality": "Petákova, Plzeň - Jižní Předměstí",
+        "price": 4750000,
+        "size_m2": 58.0,
+        "price_per_m2": 81896,
+        "market_average_m2": 104505,
+        "deviation_pct": -21.63,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-petakova/2381062220",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 16731,
+            "annual_rent_czk": 200772,
+            "gross_annual_yield_pct": 4.23,
+            "monthly_rent_range_czk": [
+                13141,
+                22830
+            ],
+            "comparable_count": 19,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3898875980,
+        "name": "Prodej bytu 2+kk 66 m²",
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "price": 4390000,
+        "size_m2": 66.0,
+        "price_per_m2": 66515,
+        "market_average_m2": 104505,
+        "deviation_pct": -36.35,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/3898875980",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 19038,
+            "annual_rent_czk": 228456,
+            "gross_annual_yield_pct": 5.2,
+            "monthly_rent_range_czk": [
+                14953,
+                25080
+            ],
+            "comparable_count": 17,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1273421900,
+                97652812,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                1763512396,
+                3222081612,
+                2188185676,
+                251334732,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1634598988,
+        "name": "Prodej bytu 2+kk 60 m²",
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "price": 5000000,
+        "size_m2": 60.0,
+        "price_per_m2": 83333,
+        "market_average_m2": 104505,
+        "deviation_pct": -20.26,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-bozkovska/1634598988",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17247,
+            "annual_rent_czk": 206964,
+            "gross_annual_yield_pct": 4.14,
+            "monthly_rent_range_czk": [
+                13594,
+                23617
+            ],
+            "comparable_count": 20,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                1763512396,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 415506508,
+        "name": "Prodej bytu 2+kk 72 m²",
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "price": 7100000,
+        "size_m2": 72.0,
+        "price_per_m2": 98611,
+        "market_average_m2": 104505,
+        "deviation_pct": -5.64,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/415506508",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20592,
+            "annual_rent_czk": 247104,
+            "gross_annual_yield_pct": 3.48,
+            "monthly_rent_range_czk": [
+                16312,
+                23433
+            ],
+            "comparable_count": 12,
+            "comparable_ids": [
+                3826589772,
+                97652812,
+                2280656972,
+                3382296652,
+                1763512396,
+                3222081612,
+                2188185676,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1082581068,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "price": 4299000,
+        "size_m2": 55.0,
+        "price_per_m2": 78163,
+        "market_average_m2": 104505,
+        "deviation_pct": -25.21,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-bozkovska/1082581068",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 16328,
+            "annual_rent_czk": 195936,
+            "gross_annual_yield_pct": 4.56,
+            "monthly_rent_range_czk": [
+                12461,
+                21649
+            ],
+            "comparable_count": 19,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4036571212,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2463899724,
+        "name": "Prodej bytu 2+kk 85 m²",
+        "locality": "Slovanská alej, Plzeň - Východní Předměstí",
+        "price": 5950000,
+        "size_m2": 85.0,
+        "price_per_m2": 70000,
+        "market_average_m2": 104505,
+        "deviation_pct": -33.02,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-slovanska-alej/2463899724",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23826,
+            "annual_rent_czk": 285912,
+            "gross_annual_yield_pct": 4.81,
+            "monthly_rent_range_czk": [
+                19258,
+                25758
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                3382296652,
+                1763512396,
+                2188185676,
+                3638894668,
+                694292556,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3874160716,
+        "name": "Prodej bytu 2+kk 50 m²",
+        "locality": "Plzeň",
+        "price": 4190000,
+        "size_m2": 50.0,
+        "price_per_m2": 83800,
+        "market_average_m2": 104505,
+        "deviation_pct": -19.81,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-plzen-/3874160716",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14839,
+            "annual_rent_czk": 178068,
+            "gross_annual_yield_pct": 4.25,
+            "monthly_rent_range_czk": [
+                12727,
+                19681
+            ],
+            "comparable_count": 14,
+            "comparable_ids": [
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                251334732,
+                2442076236,
+                2725126220,
+                4036571212
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1878208588,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "locality": "Skvrňanská, Plzeň - Jižní Předměstí",
+        "price": 4982580,
+        "size_m2": 63.0,
+        "price_per_m2": 79088,
+        "market_average_m2": 104505,
+        "deviation_pct": -24.32,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-skvrnanska/1878208588",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 18109,
+            "annual_rent_czk": 217308,
+            "gross_annual_yield_pct": 4.36,
+            "monthly_rent_range_czk": [
+                14273,
+                23940
+            ],
+            "comparable_count": 18,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                1763512396,
+                3222081612,
+                2188185676,
+                251334732,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 937349196,
+        "name": "Prodej bytu 2+kk 81 m²",
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "price": 6990000,
+        "size_m2": 81.0,
+        "price_per_m2": 86296,
+        "market_average_m2": 104505,
+        "deviation_pct": -17.42,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/937349196",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 22918,
+            "annual_rent_czk": 275016,
+            "gross_annual_yield_pct": 3.93,
+            "monthly_rent_range_czk": [
+                18352,
+                24545
+            ],
+            "comparable_count": 8,
+            "comparable_ids": [
+                3826589772,
+                3382296652,
+                1763512396,
+                2188185676,
+                3638894668,
+                694292556,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 494276684,
+        "name": "Prodej bytu 2+kk 86 m²",
+        "locality": "Karlova, Plzeň - Jižní Předměstí",
+        "price": 5499000,
+        "size_m2": 86.0,
+        "price_per_m2": 63941,
+        "market_average_m2": 104505,
+        "deviation_pct": -38.81,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-karlova/494276684",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 24106,
+            "annual_rent_czk": 289272,
+            "gross_annual_yield_pct": 5.26,
+            "monthly_rent_range_czk": [
+                19492,
+                26061
+            ],
+            "comparable_count": 5,
+            "comparable_ids": [
+                3382296652,
+                1763512396,
+                2188185676,
+                694292556,
+                4055904332
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3070619724,
+        "name": "Prodej bytu 2+kk 68 m²",
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "price": 4950000,
+        "size_m2": 68.0,
+        "price_per_m2": 72794,
+        "market_average_m2": 104505,
+        "deviation_pct": -30.34,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-koterovska/3070619724",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 19547,
+            "annual_rent_czk": 234564,
+            "gross_annual_yield_pct": 4.74,
+            "monthly_rent_range_czk": [
+                15406,
+                22966
+            ],
+            "comparable_count": 14,
+            "comparable_ids": [
+                3826589772,
+                1273421900,
+                97652812,
+                594874444,
+                2280656972,
+                3382296652,
+                1763512396,
+                3222081612,
+                2188185676,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 4046946380,
+        "name": "Prodej bytu 2+kk 75 m²",
+        "locality": "Na Jíkalce, Plzeň - Jižní Předměstí",
+        "price": 5900000,
+        "size_m2": 75.0,
+        "price_per_m2": 78666,
+        "market_average_m2": 104505,
+        "deviation_pct": -24.72,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-na-jikalce/4046946380",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 21450,
+            "annual_rent_czk": 257400,
+            "gross_annual_yield_pct": 4.36,
+            "monthly_rent_range_czk": [
+                16992,
+                22881
+            ],
+            "comparable_count": 10,
+            "comparable_ids": [
+                3826589772,
+                2280656972,
+                3382296652,
+                1763512396,
+                3222081612,
+                2188185676,
+                3638894668,
+                694292556,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3594719308,
+        "name": "Prodej bytu 2+kk 73 m²",
+        "locality": "Vrchlického, Plzeň - Jižní Předměstí",
+        "price": 5490000,
+        "size_m2": 73.0,
+        "price_per_m2": 75205,
+        "market_average_m2": 104505,
+        "deviation_pct": -28.04,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-vrchlickeho/3594719308",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20878,
+            "annual_rent_czk": 250536,
+            "gross_annual_yield_pct": 4.56,
+            "monthly_rent_range_czk": [
+                16539,
+                23758
+            ],
+            "comparable_count": 12,
+            "comparable_ids": [
+                3826589772,
+                97652812,
+                2280656972,
+                3382296652,
+                1763512396,
+                3222081612,
+                2188185676,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2562461772,
+        "name": "Prodej bytu 2+kk 103 m²",
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "price": 8190000,
+        "size_m2": 103.0,
+        "price_per_m2": 79514,
+        "market_average_m2": 104505,
+        "deviation_pct": -23.91,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-zelezna/2562461772",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 666374220,
+        "name": "Prodej bytu 2+kk 63 m²",
+        "locality": "Čechova, Plzeň - Jižní Předměstí",
+        "price": 5200000,
+        "size_m2": 63.0,
+        "price_per_m2": 82539,
+        "market_average_m2": 104505,
+        "deviation_pct": -21.02,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-cechova/666374220",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 18109,
+            "annual_rent_czk": 217308,
+            "gross_annual_yield_pct": 4.18,
+            "monthly_rent_range_czk": [
+                14273,
+                23940
+            ],
+            "comparable_count": 18,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                1763512396,
+                3222081612,
+                2188185676,
+                251334732,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 560578636,
+        "name": "Prodej bytu 2+kk 53 m²",
+        "locality": "Pařížská, Plzeň - Východní Předměstí",
+        "price": 4690000,
+        "size_m2": 53.0,
+        "price_per_m2": 88490,
+        "market_average_m2": 104505,
+        "deviation_pct": -15.32,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-parizska/560578636",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15734,
+            "annual_rent_czk": 188808,
+            "gross_annual_yield_pct": 4.03,
+            "monthly_rent_range_czk": [
+                12008,
+                20862
+            ],
+            "comparable_count": 19,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4036571212,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 479580236,
+        "name": "Prodej bytu 2+kk 52 m²",
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "price": 4750000,
+        "size_m2": 52.0,
+        "price_per_m2": 91346,
+        "market_average_m2": 104505,
+        "deviation_pct": -12.59,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-u-borskeho-parku/479580236",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15438,
+            "annual_rent_czk": 185256,
+            "gross_annual_yield_pct": 3.9,
+            "monthly_rent_range_czk": [
+                11781,
+                20468
+            ],
+            "comparable_count": 17,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                251334732,
+                2442076236,
+                3638894668,
+                2725126220,
+                4036571212,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3793646412,
+        "name": "Prodej bytu 2+kk 52 m²",
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "price": 4550000,
+        "size_m2": 52.0,
+        "price_per_m2": 87500,
+        "market_average_m2": 104505,
+        "deviation_pct": -16.27,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sladkovskeho/3793646412",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15438,
+            "annual_rent_czk": 185256,
+            "gross_annual_yield_pct": 4.07,
+            "monthly_rent_range_czk": [
+                11781,
+                20468
+            ],
+            "comparable_count": 17,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                251334732,
+                2442076236,
+                3638894668,
+                2725126220,
+                4036571212,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 125272140,
+        "name": "Prodej bytu 2+kk 73 m²",
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "price": 6849000,
+        "size_m2": 73.0,
+        "price_per_m2": 93821,
+        "market_average_m2": 104505,
+        "deviation_pct": -10.22,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-kardinala-berana/125272140",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20878,
+            "annual_rent_czk": 250536,
+            "gross_annual_yield_pct": 3.66,
+            "monthly_rent_range_czk": [
+                16539,
+                23758
+            ],
+            "comparable_count": 12,
+            "comparable_ids": [
+                3826589772,
+                97652812,
+                2280656972,
+                3382296652,
+                1763512396,
+                3222081612,
+                2188185676,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 692187212,
+        "name": "Prodej bytu 2+kk 82 m²",
+        "locality": "Sudova, Plzeň - Východní Předměstí",
+        "price": 5390000,
+        "size_m2": 82.0,
+        "price_per_m2": 65731,
+        "market_average_m2": 104505,
+        "deviation_pct": -37.1,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-vychodni-predmesti-sudova/692187212",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 23201,
+            "annual_rent_czk": 278412,
+            "gross_annual_yield_pct": 5.17,
+            "monthly_rent_range_czk": [
+                18578,
+                24848
+            ],
+            "comparable_count": 8,
+            "comparable_ids": [
+                3826589772,
+                3382296652,
+                1763512396,
+                2188185676,
+                3638894668,
+                694292556,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2912236364,
+        "name": "Prodej bytu 2+kk 62 m²",
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "price": 4690000,
+        "size_m2": 62.0,
+        "price_per_m2": 75645,
+        "market_average_m2": 104505,
+        "deviation_pct": -27.62,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-kollarova/2912236364",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17822,
+            "annual_rent_czk": 213864,
+            "gross_annual_yield_pct": 4.56,
+            "monthly_rent_range_czk": [
+                14047,
+                24404
+            ],
+            "comparable_count": 20,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2280656972,
+                3382296652,
+                1770917964,
+                1763512396,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4055904332,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2612531276,
+        "name": "Prodej bytu 2+kk 55 m²",
+        "locality": "Čechova, Plzeň - Jižní Předměstí",
+        "price": 4600000,
+        "size_m2": 55.0,
+        "price_per_m2": 83636,
+        "market_average_m2": 104505,
+        "deviation_pct": -19.97,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+kk/plzen-jizni-predmesti-cechova/2612531276",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 16328,
+            "annual_rent_czk": 195936,
+            "gross_annual_yield_pct": 4.26,
+            "monthly_rent_range_czk": [
+                12461,
+                21649
+            ],
+            "comparable_count": 19,
+            "comparable_ids": [
+                3826589772,
+                3136933964,
+                1243615308,
+                1273421900,
+                97652812,
+                3604549708,
+                594874444,
+                2710114380,
+                2280656972,
+                1770917964,
+                3222081612,
+                2188185676,
+                251334732,
+                2442076236,
+                3638894668,
+                694292556,
+                2725126220,
+                4036571212,
+                2409702220
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+                "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1490359116,
+        "name": "Prodej bytu 1+kk 36 m²",
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "price": 4290000,
+        "size_m2": 36.0,
+        "price_per_m2": 119166,
+        "market_average_m2": 127900,
+        "deviation_pct": -6.83,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-podebradova/1490359116",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15393,
+            "annual_rent_czk": 184716,
+            "gross_annual_yield_pct": 4.31,
+            "monthly_rent_range_czk": [
+                9840,
+                19414
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                4088148044,
+                735645772,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3945869388,
+        "name": "Prodej bytu 1+kk 46 m²",
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "price": 4990000,
+        "size_m2": 46.0,
+        "price_per_m2": 108478,
+        "market_average_m2": 127900,
+        "deviation_pct": -15.19,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/3945869388",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17971,
+            "annual_rent_czk": 215652,
+            "gross_annual_yield_pct": 4.32,
+            "monthly_rent_range_czk": [
+                13049,
+                20125
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                735645772,
+                854659148,
+                2454257740,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-revolucni/854659148",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3165537100,
+        "name": "Prodej bytu 1+kk 35 m²",
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "price": 3990000,
+        "size_m2": 35.0,
+        "price_per_m2": 114000,
+        "market_average_m2": 127900,
+        "deviation_pct": -10.87,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-podebradova/3165537100",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14966,
+            "annual_rent_czk": 179592,
+            "gross_annual_yield_pct": 4.5,
+            "monthly_rent_range_czk": [
+                9567,
+                18875
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                4088148044,
+                735645772,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1987350604,
+        "name": "Prodej bytu 1+kk 62 m²",
+        "locality": "alej Svobody, Plzeň - Severní Předměstí",
+        "price": 7138320,
+        "size_m2": 62.0,
+        "price_per_m2": 115134,
+        "market_average_m2": 127900,
+        "deviation_pct": -9.98,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-alej-svobody/1987350604",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 1,
+            "comparable_ids": [
+                854659148
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-revolucni/854659148"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1344438348,
+        "name": "Prodej bytu 1+kk 46 m²",
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "price": 5445000,
+        "size_m2": 46.0,
+        "price_per_m2": 118369,
+        "market_average_m2": 127900,
+        "deviation_pct": -7.45,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-zelezna/1344438348",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17971,
+            "annual_rent_czk": 215652,
+            "gross_annual_yield_pct": 3.96,
+            "monthly_rent_range_czk": [
+                13049,
+                20125
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                735645772,
+                854659148,
+                2454257740,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-revolucni/854659148",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3037990988,
+        "name": "Prodej bytu 1+kk 34 m²",
+        "locality": "Čelakovského, Plzeň - Jižní Předměstí",
+        "price": 3500000,
+        "size_m2": 34.0,
+        "price_per_m2": 102941,
+        "market_average_m2": 127900,
+        "deviation_pct": -19.51,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-celakovskeho/3037990988",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14538,
+            "annual_rent_czk": 174456,
+            "gross_annual_yield_pct": 4.98,
+            "monthly_rent_range_czk": [
+                9293,
+                18336
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                4088148044,
+                735645772,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 24637516,
+        "name": "Prodej bytu 1+kk 39 m²",
+        "locality": "V Zahrádkách, Plzeň - Doubravka",
+        "price": 4600000,
+        "size_m2": 39.0,
+        "price_per_m2": 117948,
+        "market_average_m2": 127900,
+        "deviation_pct": -7.78,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-doubravka-v-zahradkach/24637516",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15708,
+            "annual_rent_czk": 188496,
+            "gross_annual_yield_pct": 4.1,
+            "monthly_rent_range_czk": [
+                10660,
+                18850
+            ],
+            "comparable_count": 5,
+            "comparable_ids": [
+                735645772,
+                3727163468,
+                2454257740,
+                1557598284,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1011925068,
+        "name": "Prodej bytu 1+kk 32 m²",
+        "locality": "Karlovarská, Plzeň - Severní Předměstí",
+        "price": 3290000,
+        "size_m2": 32.0,
+        "price_per_m2": 102812,
+        "market_average_m2": 127900,
+        "deviation_pct": -19.62,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-severni-predmesti-karlovarska/1011925068",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 13841,
+            "annual_rent_czk": 166092,
+            "gross_annual_yield_pct": 5.05,
+            "monthly_rent_range_czk": [
+                8747,
+                17257
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                4088148044,
+                735645772,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 530059340,
+        "name": "Prodej bytu 1+kk 40 m²",
+        "locality": "Na Jíkalce, Plzeň - Jižní Předměstí",
+        "price": 4300000,
+        "size_m2": 40.0,
+        "price_per_m2": 107500,
+        "market_average_m2": 127900,
+        "deviation_pct": -15.95,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-na-jikalce/530059340",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15627,
+            "annual_rent_czk": 187524,
+            "gross_annual_yield_pct": 4.36,
+            "monthly_rent_range_czk": [
+                10933,
+                19333
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                735645772,
+                854659148,
+                3727163468,
+                2454257740,
+                1557598284,
+                853741644
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-revolucni/854659148",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 400408652,
+        "name": "Prodej bytu 1+kk 32 m²",
+        "locality": "Škroupova, Plzeň - Jižní Předměstí",
+        "price": 3190000,
+        "size_m2": 32.0,
+        "price_per_m2": 99687,
+        "market_average_m2": 127900,
+        "deviation_pct": -22.06,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-jizni-predmesti-skroupova/400408652",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 13841,
+            "annual_rent_czk": 166092,
+            "gross_annual_yield_pct": 5.21,
+            "monthly_rent_range_czk": [
+                8747,
+                17257
+            ],
+            "comparable_count": 6,
+            "comparable_ids": [
+                4088148044,
+                735645772,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 922939468,
+        "name": "Prodej bytu 1+kk 30 m²",
+        "locality": "Rokycanská, Plzeň - Lobzy",
+        "price": 2999000,
+        "size_m2": 30.0,
+        "price_per_m2": 99966,
+        "market_average_m2": 127900,
+        "deviation_pct": -21.84,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+kk/plzen-lobzy-rokycanska/922939468",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 12828,
+            "annual_rent_czk": 153936,
+            "gross_annual_yield_pct": 5.13,
+            "monthly_rent_range_czk": [
+                8200,
+                16179
+            ],
+            "comparable_count": 5,
+            "comparable_ids": [
+                4088148044,
+                3727163468,
+                796659788,
+                2454257740,
+                1557598284
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+                "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2351063884,
+        "name": "Prodej bytu atypický 124 m²",
+        "locality": "Němejcova, Plzeň - Jižní Předměstí",
+        "price": 4721000,
+        "size_m2": 124.0,
+        "price_per_m2": 38072,
+        "market_average_m2": 63041,
+        "deviation_pct": -39.61,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/atypicky/plzen-jizni-predmesti-nemejcova/2351063884",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 905576524,
+        "name": "Prodej bytu 3+1 70 m²",
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "price": 4990000,
+        "size_m2": 70.0,
+        "price_per_m2": 71285,
+        "market_average_m2": 81118,
+        "deviation_pct": -12.12,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-bozkovska/905576524",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14568,
+            "annual_rent_czk": 174816,
+            "gross_annual_yield_pct": 3.5,
+            "monthly_rent_range_czk": [
+                14438,
+                15135
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1213870156,
+        "name": "Prodej bytu 3+1 76 m²",
+        "locality": "Částkova, Plzeň - Východní Předměstí",
+        "price": 5549000,
+        "size_m2": 76.0,
+        "price_per_m2": 73013,
+        "market_average_m2": 81118,
+        "deviation_pct": -9.99,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-vychodni-predmesti-castkova/1213870156",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 16124,
+            "annual_rent_czk": 193488,
+            "gross_annual_yield_pct": 3.49,
+            "monthly_rent_range_czk": [
+                15675,
+                17348
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 839503948,
+        "name": "Prodej bytu 3+1 85 m²",
+        "locality": "Brožíkova, Plzeň - Jižní Předměstí",
+        "price": 6398000,
+        "size_m2": 85.0,
+        "price_per_m2": 75270,
+        "market_average_m2": 81118,
+        "deviation_pct": -7.21,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-brozikova/839503948",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 18034,
+            "annual_rent_czk": 216408,
+            "gross_annual_yield_pct": 3.38,
+            "monthly_rent_range_czk": [
+                17531,
+                19402
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 782999628,
+        "name": "Prodej bytu 3+1 79 m²",
+        "locality": "Průkopníků, Plzeň - Křimice",
+        "price": 4790000,
+        "size_m2": 79.0,
+        "price_per_m2": 60632,
+        "market_average_m2": 81118,
+        "deviation_pct": -25.25,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-krimice-prukopniku/782999628",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 16761,
+            "annual_rent_czk": 201132,
+            "gross_annual_yield_pct": 4.2,
+            "monthly_rent_range_czk": [
+                16294,
+                18033
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3924369484,
+        "name": "Prodej bytu 3+1 85 m²",
+        "locality": "Částkova, Plzeň - Lobzy",
+        "price": 5890000,
+        "size_m2": 85.0,
+        "price_per_m2": 69294,
+        "market_average_m2": 81118,
+        "deviation_pct": -14.58,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-castkova/3924369484",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 18034,
+            "annual_rent_czk": 216408,
+            "gross_annual_yield_pct": 3.67,
+            "monthly_rent_range_czk": [
+                17531,
+                19402
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 675090508,
+        "name": "Prodej bytu 3+1 82 m²",
+        "locality": "Revoluční, Plzeň - Lobzy",
+        "price": 6280000,
+        "size_m2": 82.0,
+        "price_per_m2": 76585,
+        "market_average_m2": 81118,
+        "deviation_pct": -5.59,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-revolucni/675090508",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17397,
+            "annual_rent_czk": 208764,
+            "gross_annual_yield_pct": 3.32,
+            "monthly_rent_range_czk": [
+                16912,
+                18717
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3144269900,
+        "name": "Prodej bytu 3+1 91 m²",
+        "locality": "Barákova, Plzeň - Božkov",
+        "price": 6998000,
+        "size_m2": 91.0,
+        "price_per_m2": 76901,
+        "market_average_m2": 81118,
+        "deviation_pct": -5.2,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-bozkov-barakova/3144269900",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 19307,
+            "annual_rent_czk": 231684,
+            "gross_annual_yield_pct": 3.31,
+            "monthly_rent_range_czk": [
+                18769,
+                20772
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2660409420,
+        "name": "Prodej bytu 3+1 82 m²",
+        "locality": "Rokycanská, Plzeň - Lobzy",
+        "price": 5500000,
+        "size_m2": 82.0,
+        "price_per_m2": 67073,
+        "market_average_m2": 81118,
+        "deviation_pct": -17.31,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-lobzy-rokycanska/2660409420",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 17397,
+            "annual_rent_czk": 208764,
+            "gross_annual_yield_pct": 3.8,
+            "monthly_rent_range_czk": [
+                16912,
+                18717
+            ],
+            "comparable_count": 4,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428,
+                1726923596
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1299284812,
+        "name": "Prodej bytu 3+1 69 m²",
+        "locality": "Thámova, Plzeň - Jižní Předměstí",
+        "price": 4990000,
+        "size_m2": 69.0,
+        "price_per_m2": 72318,
+        "market_average_m2": 81118,
+        "deviation_pct": -10.85,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/3+1/plzen-jizni-predmesti-thamova/1299284812",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14359,
+            "annual_rent_czk": 172308,
+            "gross_annual_yield_pct": 3.45,
+            "monthly_rent_range_czk": [
+                14231,
+                14919
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                3853520972,
+                2661224524,
+                1625956428
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+                "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 958054476,
+        "name": "Prodej bytu 4+kk 89 m²",
+        "locality": "Veslařská, Plzeň - Litice",
+        "price": 8200000,
+        "size_m2": 89.0,
+        "price_per_m2": 92134,
+        "market_average_m2": 99456,
+        "deviation_pct": -7.36,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-litice-veslarska/958054476",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1553273676,
+        "name": "Prodej bytu 4+kk 105 m²",
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "price": 9899000,
+        "size_m2": 105.0,
+        "price_per_m2": 94276,
+        "market_average_m2": 99456,
+        "deviation_pct": -5.21,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-podebradova/1553273676",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 1,
+            "comparable_ids": [
+                1862799436
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-bozeny-nemcove/1862799436"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1659052108,
+        "name": "Prodej bytu 4+kk 94 m²",
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "price": 5881500,
+        "size_m2": 94.0,
+        "price_per_m2": 62569,
+        "market_average_m2": 99456,
+        "deviation_pct": -37.09,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-vychodni-predmesti-bozkovska/1659052108",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 224318284,
+        "name": "Prodej bytu 4+kk 106 m²",
+        "locality": "Lipová, Plzeň - Severní Předměstí",
+        "price": 9499000,
+        "size_m2": 106.0,
+        "price_per_m2": 89613,
+        "market_average_m2": 99456,
+        "deviation_pct": -9.9,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-severni-predmesti-lipova/224318284",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 1,
+            "comparable_ids": [
+                1862799436
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-bozeny-nemcove/1862799436"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 969719884,
+        "name": "Prodej bytu 4+kk 120 m²",
+        "locality": "Lobezská, Plzeň - Lobzy",
+        "price": 7900000,
+        "size_m2": 120.0,
+        "price_per_m2": 65833,
+        "market_average_m2": 99456,
+        "deviation_pct": -33.81,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-lobzy-lobezska/969719884",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 1,
+            "comparable_ids": [
+                1862799436
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-bozeny-nemcove/1862799436"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2713092940,
+        "name": "Prodej bytu 4+kk 105 m²",
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "price": 9299000,
+        "size_m2": 105.0,
+        "price_per_m2": 88561,
+        "market_average_m2": 99456,
+        "deviation_pct": -10.95,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-jizni-predmesti-kardinala-berana/2713092940",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 1,
+            "comparable_ids": [
+                1862799436
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-bozeny-nemcove/1862799436"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1158840396,
+        "name": "Prodej bytu 4+kk 84 m²",
+        "locality": "Plzeň",
+        "price": 7385616,
+        "size_m2": 84.0,
+        "price_per_m2": 87924,
+        "market_average_m2": 99456,
+        "deviation_pct": -11.6,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+kk/plzen-plzen-/1158840396",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1299759180,
+        "name": "Prodej bytu 5+kk 199 m²",
+        "locality": "Otýlie Beníškové, Plzeň - Severní Předměstí",
+        "price": 17490000,
+        "size_m2": 199.0,
+        "price_per_m2": 87889,
+        "market_average_m2": 94873,
+        "deviation_pct": -7.36,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-severni-predmesti-otylie-beniskove/1299759180",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3158000460,
+        "name": "Prodej bytu 5+kk 245 m²",
+        "locality": "Martinská, Plzeň - Jižní Předměstí",
+        "price": 8400000,
+        "size_m2": 245.0,
+        "price_per_m2": 34285,
+        "market_average_m2": 94873,
+        "deviation_pct": -63.86,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+kk/plzen-jizni-predmesti-martinska/3158000460",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 4016316492,
+        "name": "Prodej bytu 1+1 45 m²",
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "price": 3690000,
+        "size_m2": 45.0,
+        "price_per_m2": 82000,
+        "market_average_m2": 93168,
+        "deviation_pct": -11.99,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-vychodni-predmesti-uslavska/4016316492",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14595,
+            "annual_rent_czk": 175140,
+            "gross_annual_yield_pct": 4.75,
+            "monthly_rent_range_czk": [
+                9810,
+                15245
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                1588596812,
+                928591948,
+                745345100,
+                3726454860,
+                2786930764,
+                203821132,
+                3019685964
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-lobzy-nad-uslavou/1588596812",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-zikmunda-wintra/928591948",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-skvrnany-malesicka/745345100",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-sladkovskeho/3726454860",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-goethova/2786930764",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-husova/203821132",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-goethova/3019685964"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3427336268,
+        "name": "Prodej bytu 1+1 50 m²",
+        "locality": "Edvarda Beneše, Plzeň - Jižní Předměstí",
+        "price": 4299000,
+        "size_m2": 50.0,
+        "price_per_m2": 85980,
+        "market_average_m2": 93168,
+        "deviation_pct": -7.72,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-jizni-predmesti-edvarda-benese/3427336268",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15128,
+            "annual_rent_czk": 181536,
+            "gross_annual_yield_pct": 4.22,
+            "monthly_rent_range_czk": [
+                10900,
+                16939
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                928591948,
+                745345100,
+                203821132
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-zikmunda-wintra/928591948",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-skvrnany-malesicka/745345100",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-husova/203821132"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2827231308,
+        "name": "Prodej bytu 1+1 49 m²",
+        "locality": "Nad Týncem, Plzeň - Doubravka",
+        "price": 4090000,
+        "size_m2": 49.0,
+        "price_per_m2": 83469,
+        "market_average_m2": 93168,
+        "deviation_pct": -10.41,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/1+1/plzen-doubravka-nad-tyncem/2827231308",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14826,
+            "annual_rent_czk": 177912,
+            "gross_annual_yield_pct": 4.35,
+            "monthly_rent_range_czk": [
+                10682,
+                16600
+            ],
+            "comparable_count": 5,
+            "comparable_ids": [
+                1588596812,
+                928591948,
+                745345100,
+                3726454860,
+                203821132
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-lobzy-nad-uslavou/1588596812",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-zikmunda-wintra/928591948",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-skvrnany-malesicka/745345100",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-sladkovskeho/3726454860",
+                "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-husova/203821132"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1951060044,
+        "name": "Prodej bytu 2+1 70 m²",
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "price": 4680000,
+        "size_m2": 70.0,
+        "price_per_m2": 66857,
+        "market_average_m2": 87470,
+        "deviation_pct": -23.57,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-slovanska/1951060044",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 14478,
+            "annual_rent_czk": 173736,
+            "gross_annual_yield_pct": 3.71,
+            "monthly_rent_range_czk": [
+                9938,
+                21132
+            ],
+            "comparable_count": 12,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                497680460,
+                225644620,
+                2866221132,
+                1497501772,
+                26087500,
+                52244556,
+                197726284,
+                292405324,
+                2784874572,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-rooseveltova/52244556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-purkynova/197726284",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1570308172,
+        "name": "Prodej bytu 2+1 57 m²",
+        "locality": "Plzenecká, Plzeň - Východní Předměstí",
+        "price": 4300000,
+        "size_m2": 57.0,
+        "price_per_m2": 75438,
+        "market_average_m2": 87470,
+        "deviation_pct": -13.76,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-plzenecka/1570308172",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 12005,
+            "annual_rent_czk": 144060,
+            "gross_annual_yield_pct": 3.35,
+            "monthly_rent_range_czk": [
+                10018,
+                17208
+            ],
+            "comparable_count": 9,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                225644620,
+                2866221132,
+                1497501772,
+                26087500,
+                292405324,
+                2784874572,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3331059788,
+        "name": "Prodej bytu 2+1 86 m²",
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "price": 5587000,
+        "size_m2": 86.0,
+        "price_per_m2": 64965,
+        "market_average_m2": 87470,
+        "deviation_pct": -25.73,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-nerudova/3331059788",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15115,
+            "annual_rent_czk": 181380,
+            "gross_annual_yield_pct": 3.25,
+            "monthly_rent_range_czk": [
+                10416,
+                19448
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                528460,
+                497680460,
+                2866221132,
+                1222053964,
+                52244556,
+                197726284,
+                2784874572
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-doudlevce-sipkova/528460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/1222053964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-rooseveltova/52244556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-purkynova/197726284",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3511029836,
+        "name": "Prodej bytu 2+1 83 m²",
+        "locality": "Bendova, Plzeň - Jižní Předměstí",
+        "price": 6790000,
+        "size_m2": 83.0,
+        "price_per_m2": 81807,
+        "market_average_m2": 87470,
+        "deviation_pct": -6.47,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-bendova/3511029836",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 15253,
+            "annual_rent_czk": 183036,
+            "gross_annual_yield_pct": 2.7,
+            "monthly_rent_range_czk": [
+                10052,
+                18769
+            ],
+            "comparable_count": 8,
+            "comparable_ids": [
+                3681484876,
+                528460,
+                497680460,
+                2866221132,
+                1222053964,
+                52244556,
+                197726284,
+                2784874572
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-doudlevce-sipkova/528460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/1222053964",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-rooseveltova/52244556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-purkynova/197726284",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 532222028,
+        "name": "Prodej bytu 2+1 59 m²",
+        "locality": "Zámečnická, Plzeň - Jižní Předměstí",
+        "price": 4690000,
+        "size_m2": 59.0,
+        "price_per_m2": 79491,
+        "market_average_m2": 87470,
+        "deviation_pct": -9.12,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-zamecnicka/532222028",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 12423,
+            "annual_rent_czk": 149076,
+            "gross_annual_yield_pct": 3.18,
+            "monthly_rent_range_czk": [
+                10370,
+                17811
+            ],
+            "comparable_count": 10,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                497680460,
+                225644620,
+                2866221132,
+                1497501772,
+                26087500,
+                292405324,
+                2784874572,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1828003916,
+        "name": "Prodej bytu 2+1 52 m²",
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "price": 3990000,
+        "size_m2": 52.0,
+        "price_per_m2": 76730,
+        "market_average_m2": 87470,
+        "deviation_pct": -12.28,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-stehlikova/1828003916",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 13245,
+            "annual_rent_czk": 158940,
+            "gross_annual_yield_pct": 3.98,
+            "monthly_rent_range_czk": [
+                9533,
+                15698
+            ],
+            "comparable_count": 7,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                225644620,
+                1497501772,
+                26087500,
+                292405324,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2047836236,
+        "name": "Prodej bytu 2+1 53 m²",
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "price": 4150000,
+        "size_m2": 53.0,
+        "price_per_m2": 78301,
+        "market_average_m2": 87470,
+        "deviation_pct": -10.48,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-vychodni-predmesti-bozkovska/2047836236",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 11162,
+            "annual_rent_czk": 133944,
+            "gross_annual_yield_pct": 3.23,
+            "monthly_rent_range_czk": [
+                9315,
+                16000
+            ],
+            "comparable_count": 9,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                225644620,
+                2866221132,
+                1497501772,
+                26087500,
+                292405324,
+                2784874572,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 3328721740,
+        "name": "Prodej bytu 2+1 66 m²",
+        "locality": "Dobrovského, Plzeň - Jižní Předměstí",
+        "price": 4450000,
+        "size_m2": 66.0,
+        "price_per_m2": 67424,
+        "market_average_m2": 87470,
+        "deviation_pct": -22.92,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/2+1/plzen-jizni-predmesti-dobrovskeho/3328721740",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 13650,
+            "annual_rent_czk": 163800,
+            "gross_annual_yield_pct": 3.68,
+            "monthly_rent_range_czk": [
+                9370,
+                19925
+            ],
+            "comparable_count": 12,
+            "comparable_ids": [
+                3681484876,
+                961351756,
+                497680460,
+                225644620,
+                2866221132,
+                1497501772,
+                26087500,
+                52244556,
+                197726284,
+                292405324,
+                2784874572,
+                2859786316
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-rooseveltova/52244556",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-purkynova/197726284",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+                "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 2385686604,
+        "name": "Prodej bytu 4+1 130 m²",
+        "locality": "Křimická, Plzeň - Skvrňany",
+        "price": 7500000,
+        "size_m2": 130.0,
+        "price_per_m2": 57692,
+        "market_average_m2": 74767,
+        "deviation_pct": -22.84,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/4+1/plzen-skvrnany-krimicka/2385686604",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "estimated",
+            "monthly_rent_czk": 20392,
+            "annual_rent_czk": 244704,
+            "gross_annual_yield_pct": 3.26,
+            "monthly_rent_range_czk": [
+                18029,
+                28245
+            ],
+            "comparable_count": 3,
+            "comparable_ids": [
+                1445028684,
+                193212492,
+                3669762124
+            ],
+            "comparable_urls": [
+                "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-doudlevce-ricni/1445028684",
+                "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-vnitrni-mesto-veleslavinova/193212492",
+                "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-jizni-predmesti-havlickova/3669762124"
+            ],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    },
+    {
+        "id": 1689342796,
+        "name": "Prodej bytu 5+1 160 m²",
+        "locality": "Plzeň - Východní Předměstí",
+        "price": 9300000,
+        "size_m2": 160.0,
+        "price_per_m2": 58125,
+        "market_average_m2": 62243,
+        "deviation_pct": -6.62,
+        "seo_url": "https://www.sreality.cz/detail/prodej/byt/5+1/plzen-vychodni-predmesti-/1689342796",
+        "municipality_id": 1243,
+        "rental_estimate": {
+            "status": "insufficient_data",
+            "monthly_rent_czk": null,
+            "annual_rent_czk": null,
+            "gross_annual_yield_pct": null,
+            "monthly_rent_range_czk": null,
+            "comparable_count": 0,
+            "comparable_ids": [],
+            "comparable_urls": [],
+            "method": "Median base asking rent per m2; same layout and municipality; area within 25%; minimum 3 comparables.",
+            "limitations": "Advertised, not signed rents. Condition and furnishings are not adjusted. Gross yield excludes vacancy, expenses, taxes, purchase costs and financing."
+        }
+    }
+]

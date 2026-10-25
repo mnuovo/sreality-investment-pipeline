@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sreality-investment-pipeline"
+version = "0.1.0"
+description = "AI-assisted Czech property investment research using Sreality listings and local Ollama models"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "playwright",
+    "pydantic>=2,<3",
+    "ollama",
+]
+
+[tool.setuptools.packages.find]
+include = ["sreality_investment_pipeline*"]

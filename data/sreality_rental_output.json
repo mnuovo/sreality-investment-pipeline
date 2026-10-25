@@ -1,0 +1,4082 @@
+[
+    {
+        "id": 1863725132,
+        "name": "Pronájem bytu 2+kk 64 m²",
+        "price": 25612,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/1863725132",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:36:39.590889+00:00"
+    },
+    {
+        "id": 358035532,
+        "name": "Pronájem bytu 2+kk 36 m²",
+        "price": 15547,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/358035532",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:36:41.483910+00:00"
+    },
+    {
+        "id": 541732940,
+        "name": "Pronájem bytu 2+kk 37 m²",
+        "price": 16078,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/541732940",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Poplatky: 4 400 Kč / měsíc (voda, topení, elektřina, služby)",
+        "rent_terms_checked_at": "2026-10-25T16:36:43.903132+00:00"
+    },
+    {
+        "id": 2475094092,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 17961,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/2475094092",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Poplatky: 4 400 Kč / měsíc (voda, topení, elektřina, služby)",
+        "rent_terms_checked_at": "2026-10-25T16:36:46.169415+00:00"
+    },
+    {
+        "id": 215429708,
+        "name": "Pronájem bytu 3+kk 62 m²",
+        "price": 23900,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.746928274,
+            "lon": 13.3182817656
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-skvrnany-frantiska-kovarika/215429708",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Bez provize!, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:36:48.818361+00:00"
+    },
+    {
+        "id": 4027912268,
+        "name": "Pronájem bytu 1+kk 29 m²",
+        "price": 11500,
+        "locality": "Na Chmelnicích, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.763285333136515,
+            "lon": 13.348787809059893
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/4027912268",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:36:51.225954+00:00"
+    },
+    {
+        "id": 609816652,
+        "name": "Pronájem bytu 2+kk 68 m²",
+        "price": 18500,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7478878378111,
+            "lon": 13.319828179291017
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-frantiska-kovarika/609816652",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 2.000,- Kč měsíčně za garáž, 2.500,- Kč měsíčně zálohy za služby + elektřina na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:36:53.618347+00:00"
+    },
+    {
+        "id": 1140330572,
+        "name": "Pronájem bytu 2+kk 67 m²",
+        "price": 18500,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7328107802436,
+            "lon": 13.3818483306288
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kartonova/1140330572",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:36:55.682484+00:00"
+    },
+    {
+        "id": 1917714508,
+        "name": "Pronájem bytu 1+kk 44 m²",
+        "price": 18500,
+        "locality": "Poděbradova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.746686610168894,
+            "lon": 13.367100265784043
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-podebradova/1917714508",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:36:58.146425+00:00"
+    },
+    {
+        "id": 2283548748,
+        "name": "Pronájem bytu 2+kk 61 m²",
+        "price": 18900,
+        "locality": "Na Jíkalce, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747726,
+            "lon": 13.361194
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-na-jikalce/2283548748",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "záloha za služby a energie 2.500,-Kč, elektřina bude převedena na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:37:00.755988+00:00"
+    },
+    {
+        "id": 3826589772,
+        "name": "Pronájem bytu 2+kk 63 m²",
+        "price": 18900,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73254195207,
+            "lon": 13.3549925749971
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3826589772",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:02.988625+00:00"
+    },
+    {
+        "id": 1589575756,
+        "name": "Pronájem bytu 2+kk 41 m²",
+        "price": 11500,
+        "locality": "Suvorovova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.732942,
+            "lon": 13.39442
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-suvorovova/1589575756",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:05.510782+00:00"
+    },
+    {
+        "id": 3136933964,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 13900,
+        "locality": "Borská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739798,
+            "lon": 13.369978
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-borska/3136933964",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ záloha na služby 3.900,- | Jistota 17.000,- | Provize 15.000,-",
+        "rent_terms_checked_at": "2026-10-25T16:37:07.828086+00:00"
+    },
+    {
+        "id": 3588173900,
+        "name": "Pronájem bytu 2+kk 45 m²",
+        "price": 17000,
+        "locality": "Studentská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7754622852001,
+            "lon": 13.365932009267
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-studentska/3588173900",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:10.237708+00:00"
+    },
+    {
+        "id": 4088148044,
+        "name": "Pronájem bytu 1+kk 28 m²",
+        "price": 15100,
+        "locality": "Magisterská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7284208,
+            "lon": 13.3552372
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-magisterska/4088148044",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby 2780, kauce 17880",
+        "rent_terms_checked_at": "2026-10-25T16:37:13.343077+00:00"
+    },
+    {
+        "id": 4155973708,
+        "name": "Pronájem bytu 3+kk 74 m²",
+        "price": 28500,
+        "locality": "Klicperova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7458350513864,
+            "lon": 13.3879567509425
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/4155973708",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:15.660235+00:00"
+    },
+    {
+        "id": 3533836364,
+        "name": "Pronájem bytu 2+1 52 m²",
+        "price": 15500,
+        "locality": "náměstí Generála Píky, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73567,
+            "lon": 13.396884
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-namesti-generala-piky/3533836364",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:19.584339+00:00"
+    },
+    {
+        "id": 1201606732,
+        "name": "Pronájem bytu 2+kk 57 m²",
+        "price": 14500,
+        "locality": "Mohylová, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.750863,
+            "lon": 13.423973
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doubravka-mohylova/1201606732",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:22.132059+00:00"
+    },
+    {
+        "id": 3463585868,
+        "name": "Pronájem bytu 1+kk 30 m²",
+        "price": 12400,
+        "locality": "U Borských kasáren, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.727313,
+            "lon": 13.363343
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-borskych-kasaren/3463585868",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:26.023673+00:00"
+    },
+    {
+        "id": 3667341388,
+        "name": "Pronájem bytu 2+1 60 m²",
+        "price": 17000,
+        "locality": "Švandova, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.771672,
+            "lon": 13.362594
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-bolevec-svandova/3667341388",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:27.992650+00:00"
+    },
+    {
+        "id": 1411059788,
+        "name": "Pronájem bytu 2+1 63 m²",
+        "price": 23000,
+        "locality": "České údolí, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.718616,
+            "lon": 13.377884
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-doudlevce-ceske-udoli/1411059788",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:30.647360+00:00"
+    },
+    {
+        "id": 1830555724,
+        "name": "Pronájem bytu 1+kk 35 m²",
+        "price": 13800,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733168975283974,
+            "lon": 13.354630415540168
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1830555724",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Garážové stání 1 200 Kč/měs. (povinná součást pronájmu), zálohy na služby 3 000 Kč/měs., elektřina na nájemce.",
+        "rent_terms_checked_at": "2026-10-25T16:37:33.001063+00:00"
+    },
+    {
+        "id": 4202344524,
+        "name": "Pronájem bytu 2+1 63 m²",
+        "price": 14500,
+        "locality": "Americká, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.743622,
+            "lon": 13.376423
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-americka/4202344524",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:35.208972+00:00"
+    },
+    {
+        "id": 4002734156,
+        "name": "Pronájem bytu 1+1 66 m²",
+        "price": 14500,
+        "locality": "Suvorovova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.732783,
+            "lon": 13.392635
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-suvorovova/4002734156",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:37.502638+00:00"
+    },
+    {
+        "id": 2890776652,
+        "name": "Pronájem bytu 1+kk 24 m²",
+        "price": 10500,
+        "locality": "Skrétova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.744406,
+            "lon": 13.368989
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-skretova/2890776652",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:39.789370+00:00"
+    },
+    {
+        "id": 1590624332,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 16000,
+        "locality": "Hálkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7407243,
+            "lon": 13.3679788
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-halkova/1590624332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+popl. 2000, Dvě kauce podmínkou. Výtah v domě. Elektřina na nájemce. Velmi nízké provozní náklady, slunný byt.",
+        "rent_terms_checked_at": "2026-10-25T16:37:42.453618+00:00"
+    },
+    {
+        "id": 4281802828,
+        "name": "Pronájem bytu 2+kk 52 m²",
+        "price": 20000,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7761688657631,
+            "lon": 13.358284408636
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-krasovska/4281802828",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:44.626118+00:00"
+    },
+    {
+        "id": 4219416652,
+        "name": "Pronájem bytu 3+kk 68 m²",
+        "price": 22500,
+        "locality": "Boettingerova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.72747,
+            "lon": 13.36457
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-boettingerova/4219416652",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:47.138776+00:00"
+    },
+    {
+        "id": 3600035916,
+        "name": "Pronájem bytu 2+1 57 m²",
+        "price": 14900,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.742441,
+            "lon": 13.370391
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-kardinala-berana/3600035916",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:50.144218+00:00"
+    },
+    {
+        "id": 425332812,
+        "name": "Pronájem bytu 3+1 71 m²",
+        "price": 18500,
+        "locality": "Pecháčkova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.74138,
+            "lon": 13.324828
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-skvrnany-pechackova/425332812",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:52.382791+00:00"
+    },
+    {
+        "id": 3630633036,
+        "name": "Pronájem bytu 2+kk 53 m²",
+        "price": 16900,
+        "locality": "Plovární, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7357025,
+            "lon": 13.3793764
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-plovarni/3630633036",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:55.035443+00:00"
+    },
+    {
+        "id": 4101443660,
+        "name": "Pronájem bytu 2+kk 54 m²",
+        "price": 16500,
+        "locality": "Rybářská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74873,
+            "lon": 13.364582
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-rybarska/4101443660",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:37:57.247784+00:00"
+    },
+    {
+        "id": 1345921100,
+        "name": "Pronájem bytu 1+kk 37 m²",
+        "price": 13500,
+        "locality": "Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7424708139931,
+            "lon": 13.3268322803243
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-skvrnany-/1345921100",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy za služby ve výši 2.768 Kč - elektřina se převádí na nájemníky. Vratná kauce, Provize RK.",
+        "rent_terms_checked_at": "2026-10-25T16:37:59.942442+00:00"
+    },
+    {
+        "id": 1224671308,
+        "name": "Pronájem bytu 1+1 37 m²",
+        "price": 10100,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7395850232191,
+            "lon": 13.3918829801735
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-sladkovskeho/1224671308",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:02.752937+00:00"
+    },
+    {
+        "id": 735645772,
+        "name": "Pronájem bytu 1+kk 40 m²",
+        "price": 17500,
+        "locality": "Těšínská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7496868052,
+            "lon": 13.4127629496
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/735645772",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ režie (služby 2.500 Kč, el. bude převedena na nájemce), jistota 35.000 Kč, provize RK 17.500 Kč + DPH, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:38:04.884055+00:00"
+    },
+    {
+        "id": 2335117388,
+        "name": "Pronájem bytu atypický 40 m²",
+        "price": 17500,
+        "locality": "Těšínská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7496868052,
+            "lon": 13.4127629496
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/atypicky/plzen-lobzy-tesinska/2335117388",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ režie (služby 2.500 Kč, el. bude převedena na nájemce), jistota 35.000 Kč, provize RK 17.500 Kč + DPH, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:38:07.775508+00:00"
+    },
+    {
+        "id": 1243615308,
+        "name": "Pronájem bytu 2+kk 49 m²",
+        "price": 14000,
+        "locality": "Kotíkovská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7700756423,
+            "lon": 13.3567943304
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-kotikovska/1243615308",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ režie (služby 1.500 Kč, elektřina a plyn budou převedeny na nájemce), jistota 27.800 Kč, provize RK 14.000 Kč + DPH, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:38:10.075352+00:00"
+    },
+    {
+        "id": 325455948,
+        "name": "Pronájem bytu 2+1 62 m²",
+        "price": 22000,
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7363738343,
+            "lon": 13.3336879964
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-skvrnany-na-pruhonu/325455948",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Poplatky 1 500 Kč + 600 Kč/osoba",
+        "rent_terms_checked_at": "2026-10-25T16:38:13.006905+00:00"
+    },
+    {
+        "id": 1676607564,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 14000,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7775726605475,
+            "lon": 13.3545285505769
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/1676607564",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:15.800857+00:00"
+    },
+    {
+        "id": 1025441868,
+        "name": "Pronájem bytu 3+kk 75 m²",
+        "price": 15000,
+        "locality": "Bendova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.741103355039726,
+            "lon": 13.36939219140761
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-bendova/1025441868",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:38:18.443593+00:00"
+    },
+    {
+        "id": 1344208972,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 0,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7319619336869,
+            "lon": 13.3551879802139
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1344208972",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "Dohodou",
+        "rent_terms_checked_at": "2026-10-25T16:38:21.337335+00:00"
+    },
+    {
+        "id": 4029612108,
+        "name": "Pronájem bytu 3+1 125 m²",
+        "price": 14800,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7440102535129,
+            "lon": 13.3785205276055
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-goethova/4029612108",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:23.851805+00:00"
+    },
+    {
+        "id": 1650860108,
+        "name": "Pronájem bytu 3+1 74 m²",
+        "price": 14800,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.74858930358161,
+            "lon": 13.37586797047767
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/1650860108",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:38:25.817508+00:00"
+    },
+    {
+        "id": 1751523404,
+        "name": "Pronájem bytu 3+1 72 m²",
+        "price": 14800,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.74858930358161,
+            "lon": 13.37586797047767
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/1751523404",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:38:27.694399+00:00"
+    },
+    {
+        "id": 2624589900,
+        "name": "Pronájem bytu 3+kk 123 m²",
+        "price": 14800,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7444286243023,
+            "lon": 13.378337008140377
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2624589900",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:38:29.826337+00:00"
+    },
+    {
+        "id": 1617825868,
+        "name": "Pronájem bytu 1+1 45 m²",
+        "price": 13500,
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7421174714977,
+            "lon": 13.3675775443663
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-nerudova/1617825868",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:32.008247+00:00"
+    },
+    {
+        "id": 3328114764,
+        "name": "Pronájem bytu 3+1 72 m²",
+        "price": 14800,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7478259581997,
+            "lon": 13.3754915448722
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3328114764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:35.190008+00:00"
+    },
+    {
+        "id": 2823749708,
+        "name": "Pronájem bytu 1+kk 28 m²",
+        "price": 14000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7329519052522,
+            "lon": 13.3549377323082
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/2823749708",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:37.818060+00:00"
+    },
+    {
+        "id": 2538537036,
+        "name": "Pronájem bytu 3+1 74 m²",
+        "price": 14800,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7478259581997,
+            "lon": 13.3754915448722
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/2538537036",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:38:40.516881+00:00"
+    },
+    {
+        "id": 1341722700,
+        "name": "Pronájem bytu 2+kk 48 m²",
+        "price": 15900,
+        "locality": "Malostranská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7256083138,
+            "lon": 13.3903499978
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-malostranska/1341722700",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:42.561838+00:00"
+    },
+    {
+        "id": 3681484876,
+        "name": "Pronájem bytu 2+1 64 m²",
+        "price": 13000,
+        "locality": "Hřímalého, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.737315534,
+            "lon": 13.368992649
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-hrimaleho/3681484876",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby a energie ",
+        "rent_terms_checked_at": "2026-10-25T16:38:44.906015+00:00"
+    },
+    {
+        "id": 3583508556,
+        "name": "Pronájem bytu 2+1 60 m²",
+        "price": 11300,
+        "locality": "Spojovací, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.729788381132714,
+            "lon": 13.402993373327293
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-spojovaci/3583508556",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "+ provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:38:47.463246+00:00"
+    },
+    {
+        "id": 2230456396,
+        "name": "Pronájem bytu 2+kk 60 m²",
+        "price": 16000,
+        "locality": "Heyrovského, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.7204117852,
+            "lon": 13.3758713695
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-heyrovskeho/2230456396",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "včetně DPH, bez poplatků, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:38:50.149917+00:00"
+    },
+    {
+        "id": 1569194060,
+        "name": "Pronájem bytu 2+1 62 m²",
+        "price": 18000,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.741739830695565,
+            "lon": 13.388595319072744
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1569194060",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Úklid chodeb: 400 Kč \nodvoz odpadu: 435 Kč\nosvětlení chodeb: 160 Kč\nzáloha na vodné a stočné: 548 Kč\nelektřina a plyn se převádí na nájemníka",
+        "rent_terms_checked_at": "2026-10-25T16:38:52.163764+00:00"
+    },
+    {
+        "id": 365760588,
+        "name": "Pronájem bytu 1+kk 50 m²",
+        "price": 20000,
+        "locality": "Inženýrská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7285472,
+            "lon": 13.3547225
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-inzenyrska/365760588",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:54.023312+00:00"
+    },
+    {
+        "id": 528460,
+        "name": "Pronájem bytu 2+1 88 m²",
+        "price": 19900,
+        "locality": "Šípková, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.719794665,
+            "lon": 13.382646956
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-doudlevce-sipkova/528460",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na služby, elektřina na nájemce, 2x vratná kauce, 1x provize RK+ DPH",
+        "rent_terms_checked_at": "2026-10-25T16:38:56.572080+00:00"
+    },
+    {
+        "id": 3715620940,
+        "name": "Pronájem bytu 3+kk 92 m²",
+        "price": 25000,
+        "locality": "Na Průhonu, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.736682804,
+            "lon": 13.332632929
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-skvrnany-na-pruhonu/3715620940",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:38:58.738614+00:00"
+    },
+    {
+        "id": 4136157260,
+        "name": "Pronájem bytu 1+kk 41 m²",
+        "price": 13000,
+        "locality": "Měděná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.732553641,
+            "lon": 13.35596556
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-medena/4136157260",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:01.688068+00:00"
+    },
+    {
+        "id": 854659148,
+        "name": "Pronájem bytu 1+kk 49 m²",
+        "price": 13900,
+        "locality": "Revoluční, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7476115,
+            "lon": 13.4084701
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-revolucni/854659148",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ Poplatky viz text",
+        "rent_terms_checked_at": "2026-10-25T16:39:04.337101+00:00"
+    },
+    {
+        "id": 3941072972,
+        "name": "Pronájem bytu 2+1 70 m²",
+        "price": 14000,
+        "locality": "Liliová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.732745,
+            "lon": 13.39178
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-liliova/3941072972",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:06.975082+00:00"
+    },
+    {
+        "id": 2041581644,
+        "name": "Pronájem bytu 2+kk 43 m²",
+        "price": 19000,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7358962798792,
+            "lon": 13.3870800775009
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-zahradni/2041581644",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:09.136053+00:00"
+    },
+    {
+        "id": 2920689740,
+        "name": "Pronájem bytu 2+1 67 m²",
+        "price": 12000,
+        "locality": "Jugoslávská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.734276,
+            "lon": 13.3934779
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-jugoslavska/2920689740",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ režie (záloha 2.957,- Kč na služby + 1.331,- elektřina), + jistota (24.000,- Kč), + provize RK (14.520,- Kč včetně DPH)",
+        "rent_terms_checked_at": "2026-10-25T16:39:11.347216+00:00"
+    },
+    {
+        "id": 3727163468,
+        "name": "Pronájem bytu 1+kk 30 m²",
+        "price": 14500,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7333215621211,
+            "lon": 13.3825807201917
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-kartonova/3727163468",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+  záloha na  služby 1.500 Kč , elektřina převod na nájemce,  vratná kauce 29.000 Kč, provize RK 14.500 Kč + 21% DPH",
+        "rent_terms_checked_at": "2026-10-25T16:39:14.095846+00:00"
+    },
+    {
+        "id": 175636556,
+        "name": "Pronájem bytu 3+1 75 m²",
+        "price": 17000,
+        "locality": "Lukavická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7390844518907,
+            "lon": 13.376013941232
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-lukavicka/175636556",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Záloha na služby 2000 Kč/1 osoba a každá další osoba + 400 Kč. Převod energií na nájemce.",
+        "rent_terms_checked_at": "2026-10-25T16:39:16.561995+00:00"
+    },
+    {
+        "id": 3669557324,
+        "name": "Pronájem bytu 2+1 59 m²",
+        "price": 15900,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7311002822636,
+            "lon": 13.4044399221895
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/3669557324",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy na služby 3000,- Kč / 1 osoba + každá další osoba 500,- Kč. Energie se přepisují na nájemníka.",
+        "rent_terms_checked_at": "2026-10-25T16:39:19.208019+00:00"
+    },
+    {
+        "id": 1273421900,
+        "name": "Pronájem bytu 2+kk 53 m²",
+        "price": 17900,
+        "locality": "Vstupní, Plzeň - Černice",
+        "gps": {
+            "lat": 49.6976051,
+            "lon": 13.4226551
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-vstupni/1273421900",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby 800,-Kč, elektřina a plyn přepis na nájemce, kauce 30.000 Kč, provize RK 17.900,- Kč vč. DPH",
+        "rent_terms_checked_at": "2026-10-25T16:39:21.183008+00:00"
+    },
+    {
+        "id": 2820329548,
+        "name": "Pronájem bytu 2+1 66 m²",
+        "price": 11990,
+        "locality": "Radyňská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73749602948,
+            "lon": 13.3896815707588
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-radynska/2820329548",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:23.897127+00:00"
+    },
+    {
+        "id": 2493386828,
+        "name": "Pronájem bytu 2+kk 48 m²",
+        "price": 20000,
+        "locality": "Pallova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7473592586113,
+            "lon": 13.383052974809532
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/2493386828",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:39:25.917746+00:00"
+    },
+    {
+        "id": 2286338124,
+        "name": "Pronájem bytu 2+kk 46 m²",
+        "price": 16000,
+        "locality": "Hrachová, Plzeň - Litice",
+        "gps": {
+            "lat": 49.7016646196801,
+            "lon": 13.3571289408788
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-litice-hrachova/2286338124",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:28.175228+00:00"
+    },
+    {
+        "id": 81117260,
+        "name": "Pronájem bytu 3+kk 75 m²",
+        "price": 23000,
+        "locality": "Studentská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.77417120047279,
+            "lon": 13.353207234070103
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-bolevec-studentska/81117260",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "plus poplatky za služby, energie a provozní náklady",
+        "rent_terms_checked_at": "2026-10-25T16:39:31.251541+00:00"
+    },
+    {
+        "id": 796659788,
+        "name": "Pronájem bytu 1+kk 29 m²",
+        "price": 12400,
+        "locality": "Na Chmelnicích, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7632853331365,
+            "lon": 13.3487878090599
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-na-chmelnicich/796659788",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+zálohy na služby včetně elektřiny a internetu 3.600,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:39:33.333365+00:00"
+    },
+    {
+        "id": 2200502348,
+        "name": "Pronájem bytu 3+1 70 m²",
+        "price": 19000,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-klatovska-trida/2200502348",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:36.382597+00:00"
+    },
+    {
+        "id": 2572746828,
+        "name": "Pronájem bytu 2+1 60 m²",
+        "price": 15000,
+        "locality": "Bolzanova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.737616638670275,
+            "lon": 13.368574775125834
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-bolzanova/2572746828",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "V ceně nájmu je parkování na dvoře. Zálohy 2 500 Kč zahrnují topení, vodu a služby. Elektřina se převádí na nájemce.",
+        "rent_terms_checked_at": "2026-10-25T16:39:39.483896+00:00"
+    },
+    {
+        "id": 811139148,
+        "name": "Pronájem bytu 4+kk 102 m²",
+        "price": 27000,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7462572675183,
+            "lon": 13.3792834375605
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-vnitrni-mesto-zbrojnicka/811139148",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Při podpisu smlouvy se hradí 1. nájemné, vratná kauce (dva nájmy) a provize RK je 15 000,- Kč.",
+        "rent_terms_checked_at": "2026-10-25T16:39:42.264556+00:00"
+    },
+    {
+        "id": 2454257740,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 14500,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.77757266054751,
+            "lon": 13.354528550576864
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/2454257740",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:39:44.706016+00:00"
+    },
+    {
+        "id": 3276341324,
+        "name": "Pronájem bytu 2+1 75 m²",
+        "price": 18000,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7478259581997,
+            "lon": 13.3754915448722
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-sedlackova/3276341324",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Vratná kauce 20.000,-Kč, provize RK 20.000,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:39:47.405169+00:00"
+    },
+    {
+        "id": 97652812,
+        "name": "Pronájem bytu 2+kk 55 m²",
+        "price": 17900,
+        "locality": "Květná, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7302239181057,
+            "lon": 13.3891698445888
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-kvetna/97652812",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na služby, energie; vratná kauce; provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:39:49.619079+00:00"
+    },
+    {
+        "id": 205787212,
+        "name": "Pronájem bytu 1+kk 35 m²",
+        "price": 15000,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.776125356801,
+            "lon": 13.3576294947318
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/205787212",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:52.287107+00:00"
+    },
+    {
+        "id": 1896419404,
+        "name": "Pronájem bytu 1+kk 42 m²",
+        "price": 15500,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7326978034282,
+            "lon": 13.355283626277
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1896419404",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:39:54.052553+00:00"
+    },
+    {
+        "id": 961351756,
+        "name": "Pronájem bytu 2+1 60 m²",
+        "price": 11000,
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7397757002997,
+            "lon": 13.3947395689198
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/961351756",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+záloha na služby 3.000,- Kč, el. a plyn převod na nájemce + vratná kauce 14.000,- Kč  + provize RK 14.000,- Kč",
+        "rent_terms_checked_at": "2026-10-25T16:39:56.907093+00:00"
+    },
+    {
+        "id": 497680460,
+        "name": "Pronájem bytu 2+1 73 m²",
+        "price": 14000,
+        "locality": "Malická, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7543937413786,
+            "lon": 13.3792014482823
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-malicka/497680460",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby + energie ( plyn, elektřina ) + vratná kauce + provize pro RK.",
+        "rent_terms_checked_at": "2026-10-25T16:39:59.549921+00:00"
+    },
+    {
+        "id": 3786014796,
+        "name": "Pronájem bytu 2+kk 52 m²",
+        "price": 17400,
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.721587312,
+            "lon": 13.3698239254
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-borskeho-parku/3786014796",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:02.081401+00:00"
+    },
+    {
+        "id": 3926638668,
+        "name": "Pronájem bytu atypický 73 m²",
+        "price": 16000,
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.726466,
+            "lon": 13.398304
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/atypicky/plzen-vychodni-predmesti-slovanska/3926638668",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3000 Kč záloha na energie včetně elektřiny",
+        "rent_terms_checked_at": "2026-10-25T16:40:04.568782+00:00"
+    },
+    {
+        "id": 709111884,
+        "name": "Pronájem bytu 1+kk 55 m²",
+        "price": 12500,
+        "locality": "Husova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7457242324885,
+            "lon": 13.3668968817002
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-husova/709111884",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:07.054834+00:00"
+    },
+    {
+        "id": 1012015180,
+        "name": "Pronájem bytu 2+kk 69 m²",
+        "price": 18000,
+        "locality": "Solní, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7482338885646,
+            "lon": 13.3756941344835
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-solni/1012015180",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:09.538120+00:00"
+    },
+    {
+        "id": 3625582668,
+        "name": "Pronájem bytu 3+kk 73 m²",
+        "price": 18000,
+        "locality": "Radobyčická, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.738012,
+            "lon": 13.377472
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-radobycicka/3625582668",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ zálohy na odběr vody a odpady 2000,-Kč. Odběr el. a plynu na vl.smlouvu. Provize rk jeden měs.nájem + dph, vratná kauce 36.000,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:40:12.260320+00:00"
+    },
+    {
+        "id": 3860463692,
+        "name": "Pronájem bytu 2+kk 85 m²",
+        "price": 15600,
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7477083787,
+            "lon": 13.369249109
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-kollarova/3860463692",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy na služby: 1500,- Kč/1 osoba + 500,- Kč každá další osoba, elektřina bude převedena na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:40:14.469585+00:00"
+    },
+    {
+        "id": 2823360588,
+        "name": "Pronájem bytu 4+kk 100 m²",
+        "price": 24000,
+        "locality": "Na Roudné, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75291647156339,
+            "lon": 13.380381515478186
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-na-roudne/2823360588",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 4 tis. zálohy za služby + elektřina na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:40:17.298076+00:00"
+    },
+    {
+        "id": 3378118732,
+        "name": "Pronájem bytu 2+kk 60 m²",
+        "price": 18000,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.7477830556,
+            "lon": 13.3783488889
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-plzen-/3378118732",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "parkovacího místo v garáži 1.500,- Kč \nzálohy na služby 4.000,- Kč \nVratná Kauce 36.000,- Kč",
+        "rent_terms_checked_at": "2026-10-25T16:40:20.243178+00:00"
+    },
+    {
+        "id": 2637439052,
+        "name": "Pronájem bytu 2+kk 51 m²",
+        "price": 17500,
+        "locality": "Vysoká, Plzeň - Litice",
+        "gps": {
+            "lat": 49.701838,
+            "lon": 13.35682
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-litice-vysoka/2637439052",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "Provize RK  činí 21.175 Kč",
+        "rent_terms_checked_at": "2026-10-25T16:40:23.215457+00:00"
+    },
+    {
+        "id": 1045229644,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 18000,
+        "locality": "Cínová, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7348817,
+            "lon": 13.3564782
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-cinova/1045229644",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:26.117729+00:00"
+    },
+    {
+        "id": 2924277836,
+        "name": "Pronájem bytu 3+kk 82 m²",
+        "price": 22300,
+        "locality": "Cínová, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7348817,
+            "lon": 13.3564782
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-cinova/2924277836",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:28.530759+00:00"
+    },
+    {
+        "id": 1867313228,
+        "name": "Pronájem bytu 2+kk 33 m²",
+        "price": 13800,
+        "locality": "Cínová, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7348817,
+            "lon": 13.3564782
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-cinova/1867313228",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:31.073857+00:00"
+    },
+    {
+        "id": 3209490508,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 18400,
+        "locality": "Cínová, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7348817,
+            "lon": 13.3564782
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-cinova/3209490508",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:33.394047+00:00"
+    },
+    {
+        "id": 3746361420,
+        "name": "Pronájem bytu 3+kk 82 m²",
+        "price": 22700,
+        "locality": "Cínová, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7348817,
+            "lon": 13.3564782
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-cinova/3746361420",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:35.869365+00:00"
+    },
+    {
+        "id": 2620506188,
+        "name": "Pronájem bytu 1+kk 27 m²",
+        "price": 10400,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/2620506188",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:37.923651+00:00"
+    },
+    {
+        "id": 1026670668,
+        "name": "Pronájem bytu 1+kk 27 m²",
+        "price": 11500,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1026670668",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:41.188793+00:00"
+    },
+    {
+        "id": 2905718860,
+        "name": "Pronájem bytu 1+kk 27 m²",
+        "price": 10800,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/2905718860",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:43.939365+00:00"
+    },
+    {
+        "id": 1932640332,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 13800,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1932640332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:46.580069+00:00"
+    },
+    {
+        "id": 238141516,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 13500,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7333498561,
+            "lon": 13.3545019499
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/238141516",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:49.006336+00:00"
+    },
+    {
+        "id": 1160888396,
+        "name": "Pronájem bytu 1+kk 37 m²",
+        "price": 14100,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1160888396",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:51.723035+00:00"
+    },
+    {
+        "id": 1924534348,
+        "name": "Pronájem bytu 2+kk 56 m²",
+        "price": 23100,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/1924534348",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:54.415895+00:00"
+    },
+    {
+        "id": 3199602764,
+        "name": "Pronájem bytu 2+kk 58 m²",
+        "price": 24000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3199602764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:56.348243+00:00"
+    },
+    {
+        "id": 1840648268,
+        "name": "Pronájem bytu 1+kk 29 m²",
+        "price": 16400,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1840648268",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:40:59.333903+00:00"
+    },
+    {
+        "id": 1555435596,
+        "name": "Pronájem bytu 2+kk 51 m²",
+        "price": 19400,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/1555435596",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:01.222947+00:00"
+    },
+    {
+        "id": 921641036,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 13000,
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7418428006317,
+            "lon": 13.3916042446866
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-uslavska/921641036",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:03.975360+00:00"
+    },
+    {
+        "id": 3627032652,
+        "name": "Pronájem bytu 2+kk 43 m²",
+        "price": 16500,
+        "locality": "Vochovská, Plzeň - Křimice",
+        "gps": {
+            "lat": 49.7540709987113,
+            "lon": 13.299631414697
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-krimice-vochovska/3627032652",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:06.314337+00:00"
+    },
+    {
+        "id": 2223702092,
+        "name": "Pronájem bytu 3+kk 65 m²",
+        "price": 16750,
+        "locality": "Skvrňanská, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7469712425717,
+            "lon": 13.3606256741892
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-skvrnanska/2223702092",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+3.245,- Kč služby a energie, el.en. na vlastní smlouvu",
+        "rent_terms_checked_at": "2026-10-25T16:41:08.620795+00:00"
+    },
+    {
+        "id": 3334144076,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 16500,
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73637574853419,
+            "lon": 13.373456028485949
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-stehlikova/3334144076",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy na služby (voda, úklid, odpad atd.): 1 000 Kč / 1 osoba, 1 500 Kč / 2 osoby.\n\nElektřina: Přepisuje se na nájemce.",
+        "rent_terms_checked_at": "2026-10-25T16:41:10.422811+00:00"
+    },
+    {
+        "id": 1876623436,
+        "name": "Pronájem bytu 1+kk 33 m²",
+        "price": 13800,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733168975284,
+            "lon": 13.3546304155402
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1876623436",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:12.581230+00:00"
+    },
+    {
+        "id": 2248867916,
+        "name": "Pronájem bytu 2+kk 59 m²",
+        "price": 17900,
+        "locality": "Otýlie Beníškové, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75344703890397,
+            "lon": 13.378064777100663
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-otylie-beniskove/2248867916",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:41:15.134938+00:00"
+    },
+    {
+        "id": 3064909900,
+        "name": "Pronájem bytu 2+kk 68 m²",
+        "price": 17000,
+        "locality": "Mikulovská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.762245,
+            "lon": 13.347038
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-mikulovska/3064909900",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Vratná kauce 19.500,-Kč, provize RK 19.500,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:41:17.435534+00:00"
+    },
+    {
+        "id": 1445028684,
+        "name": "Pronájem bytu 4+1 110 m²",
+        "price": 23900,
+        "locality": "Říční, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.7266347089101,
+            "lon": 13.3883949002478
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-doudlevce-ricni/1445028684",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na služby 4.000/měsíc + energie převod. Kauce 40.000 Kč, provize RK 24.900 Kč+DPH.",
+        "rent_terms_checked_at": "2026-10-25T16:41:19.683370+00:00"
+    },
+    {
+        "id": 2374242380,
+        "name": "Pronájem bytu 2+kk 55 m²",
+        "price": 15200,
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.747605070098,
+            "lon": 13.3686939042623
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-kollarova/2374242380",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "vratná jistota, náklady na bydlení 4889,- Kč, poplatek za podnájem",
+        "rent_terms_checked_at": "2026-10-25T16:41:21.888198+00:00"
+    },
+    {
+        "id": 225644620,
+        "name": "Pronájem bytu 2+1 53 m²",
+        "price": 16000,
+        "locality": "Dlouhá, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7453322696088,
+            "lon": 13.4122768562774
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-dlouha/225644620",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:24.385021+00:00"
+    },
+    {
+        "id": 1663307852,
+        "name": "Pronájem bytu 1+1 73 m²",
+        "price": 14800,
+        "locality": "Kollárova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7477310529,
+            "lon": 13.3689429484
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-kollarova/1663307852",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:41:26.670720+00:00"
+    },
+    {
+        "id": 490999884,
+        "name": "Pronájem bytu 3+kk 86 m²",
+        "price": 24900,
+        "locality": "Znojemská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7610294624381,
+            "lon": 13.3484997739633
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-severni-predmesti-znojemska/490999884",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:28.497311+00:00"
+    },
+    {
+        "id": 1838485580,
+        "name": "Pronájem bytu 1+1 70 m²",
+        "price": 16000,
+        "locality": "U Cvičiště, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.756023884,
+            "lon": 13.424364522
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-doubravka-u-cviciste/1838485580",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Poplatky 5 000 Kč",
+        "rent_terms_checked_at": "2026-10-25T16:41:31.195386+00:00"
+    },
+    {
+        "id": 4105703500,
+        "name": "Pronájem bytu 1+kk 28 m²",
+        "price": 12500,
+        "locality": "Papírnická, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73704371131348,
+            "lon": 13.386401973030768
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-papirnicka/4105703500",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:41:33.917822+00:00"
+    },
+    {
+        "id": 1053630540,
+        "name": "Pronájem bytu 3+kk 78 m²",
+        "price": 25000,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.733057067031076,
+            "lon": 13.381834571576178
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1053630540",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 3.000,- Kč/měsíc zálohy za služby + 2.000,- Kč/měsíc za garážové stání + elektřina na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:41:36.618860+00:00"
+    },
+    {
+        "id": 3604549708,
+        "name": "Pronájem bytu 2+kk 47 m²",
+        "price": 18500,
+        "locality": "Pallova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.747418273225854,
+            "lon": 13.38342553695935
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-pallova/3604549708",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby 2.500,- Kč/měsíc + 2.500,- Kč/měsíc za garážové stání + elektřina na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:41:39.009821+00:00"
+    },
+    {
+        "id": 3747745868,
+        "name": "Pronájem bytu 3+kk 75 m²",
+        "price": 20000,
+        "locality": "Vltavínová, Plzeň - Černice",
+        "gps": {
+            "lat": 49.697814380050794,
+            "lon": 13.424041693008169
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-cernice-vltavinova/3747745868",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:41:41.134656+00:00"
+    },
+    {
+        "id": 1816727628,
+        "name": "Pronájem bytu 4+kk 105 m²",
+        "price": 22000,
+        "locality": "Raisova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.72709955255049,
+            "lon": 13.371891493884064
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-jizni-predmesti-raisova/1816727628",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:41:43.698133+00:00"
+    },
+    {
+        "id": 1344606284,
+        "name": "Pronájem bytu 2+kk 51 m²",
+        "price": 17500,
+        "locality": "Staniční, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.75272853578818,
+            "lon": 13.411975666814977
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doubravka-stanicni/1344606284",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "převod energií na nájemníka",
+        "rent_terms_checked_at": "2026-10-25T16:41:46.228621+00:00"
+    },
+    {
+        "id": 1869942860,
+        "name": "Pronájem bytu 2+kk 45 m²",
+        "price": 17000,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7315180514409,
+            "lon": 13.3916887321519
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-zahradni/1869942860",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:48.853088+00:00"
+    },
+    {
+        "id": 1031082060,
+        "name": "Pronájem bytu 3+kk 99 m²",
+        "price": 27000,
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7321167247766,
+            "lon": 13.3928542208116
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-slovanska/1031082060",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:41:51.523528+00:00"
+    },
+    {
+        "id": 594874444,
+        "name": "Pronájem bytu 2+kk 52 m²",
+        "price": 15000,
+        "locality": "Pecháčkova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7410909560706,
+            "lon": 13.321479001297
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-skvrnany-pechackova/594874444",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+zálohy na služby 4.300,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:41:53.403488+00:00"
+    },
+    {
+        "id": 2710114380,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 15000,
+        "locality": "Znojemská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7602718401166,
+            "lon": 13.3489221184337
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-znojemska/2710114380",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+zálohy na služby včetně elektřiny a internetu 4.500,-Kč",
+        "rent_terms_checked_at": "2026-10-25T16:41:55.536513+00:00"
+    },
+    {
+        "id": 2219507788,
+        "name": "Pronájem bytu 2+kk 51 m²",
+        "price": 16000,
+        "locality": "Staniční, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.75272853578818,
+            "lon": 13.411975666814977
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doubravka-stanicni/2219507788",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:41:57.806643+00:00"
+    },
+    {
+        "id": 14028876,
+        "name": "Pronájem bytu 2+1 81 m²",
+        "price": 16000,
+        "locality": "Nerudova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7421762795931,
+            "lon": 13.3682703127201
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-nerudova/14028876",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "vratná jistota, náklady na bydlení 6269,- Kč, poplatek za podnájem",
+        "rent_terms_checked_at": "2026-10-25T16:42:00.042813+00:00"
+    },
+    {
+        "id": 2224492620,
+        "name": "Pronájem bytu 3+kk 123 m²",
+        "price": 14800,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7440102535129,
+            "lon": 13.3785205276055
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-goethova/2224492620",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 800 služby/os., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:02.255603+00:00"
+    },
+    {
+        "id": 1168576588,
+        "name": "Pronájem bytu 3+kk 109 m²",
+        "price": 19900,
+        "locality": "Solní, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.748127059591,
+            "lon": 13.3766350956538
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1168576588",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 900 služby/os., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:05.092558+00:00"
+    },
+    {
+        "id": 2866221132,
+        "name": "Pronájem bytu 2+1 66 m²",
+        "price": 13900,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7436558760375,
+            "lon": 13.3790589201098
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2866221132",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3000 teplo, +750 služby/os., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:07.756278+00:00"
+    },
+    {
+        "id": 1222053964,
+        "name": "Pronájem bytu 2+1 90 m²",
+        "price": 10900,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7436593945263,
+            "lon": 13.3790642777375
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/1222053964",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3000 teplo, + 750 služby/os., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:09.810764+00:00"
+    },
+    {
+        "id": 1557598284,
+        "name": "Pronájem bytu 1+kk 30 m²",
+        "price": 8200,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7392974476081,
+            "lon": 13.3912406418044
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/1557598284",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 700 služby/OS., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:12.683302+00:00"
+    },
+    {
+        "id": 1806766156,
+        "name": "Pronájem bytu 3+kk 65 m²",
+        "price": 17000,
+        "locality": "Alešova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73308326601083,
+            "lon": 13.371111378212136
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-alesova/1806766156",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:42:14.865116+00:00"
+    },
+    {
+        "id": 4149678156,
+        "name": "Pronájem bytu 3+kk 74 m²",
+        "price": 17000,
+        "locality": "Dílenská, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.757348198382964,
+            "lon": 13.41592506963625
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-doubravka-dilenska/4149678156",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:42:17.436822+00:00"
+    },
+    {
+        "id": 1905266764,
+        "name": "Pronájem bytu 2+kk 575 m²",
+        "price": 14250,
+        "locality": "V Šipce, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74334598670824,
+            "lon": 13.373541087834765
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-v-sipce/1905266764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:42:19.688048+00:00"
+    },
+    {
+        "id": 1588596812,
+        "name": "Pronájem bytu 1+1 37 m²",
+        "price": 12000,
+        "locality": "Nad Úslavou, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7443702669619,
+            "lon": 13.4069340251043
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-lobzy-nad-uslavou/1588596812",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "12000+3500 energie",
+        "rent_terms_checked_at": "2026-10-25T16:42:22.972934+00:00"
+    },
+    {
+        "id": 3853520972,
+        "name": "Pronájem bytu 3+1 74 m²",
+        "price": 15400,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7485816681128,
+            "lon": 13.3758080789054
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/3853520972",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3000,-, teplo, 750,- služby/os., provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:25.777510+00:00"
+    },
+    {
+        "id": 161484876,
+        "name": "Pronájem bytu 3+1 71 m²",
+        "price": 15400,
+        "locality": "Sedláčkova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.748587372,
+            "lon": 13.375868642
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-sedlackova/161484876",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "3000,- teplo. 750,- služby ",
+        "rent_terms_checked_at": "2026-10-25T16:42:28.559598+00:00"
+    },
+    {
+        "id": 3451916364,
+        "name": "Pronájem bytu 2+kk 56 m²",
+        "price": 19000,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7330200576391,
+            "lon": 13.3543488204074
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-zelezna/3451916364",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:42:31.474969+00:00"
+    },
+    {
+        "id": 2814251084,
+        "name": "Pronájem bytu 3+kk 153 m²",
+        "price": 31800,
+        "locality": "U Borského parku, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.721586,
+            "lon": 13.369823
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-u-borskeho-parku/2814251084",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:42:34.120500+00:00"
+    },
+    {
+        "id": 2280656972,
+        "name": "Pronájem bytu 2+kk 59 m²",
+        "price": 18000,
+        "locality": "U Velkého rybníka, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7756361111,
+            "lon": 13.3821611111
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-u-velkeho-rybnika/2280656972",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:42:37.074640+00:00"
+    },
+    {
+        "id": 2525040716,
+        "name": "Pronájem bytu 3+1 121 m²",
+        "price": 12900,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7462408115,
+            "lon": 13.3784373447
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-zbrojnicka/2525040716",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "bez poplatků, + provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:42:39.277395+00:00"
+    },
+    {
+        "id": 4054978636,
+        "name": "Pronájem bytu 2+kk 58 m²",
+        "price": 15500,
+        "locality": "Veská, Plzeň - Černice",
+        "gps": {
+            "lat": 49.6968177103228,
+            "lon": 13.4157803639855
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-veska/4054978636",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:42:42.130517+00:00"
+    },
+    {
+        "id": 3382296652,
+        "name": "Pronájem bytu 2+kk 70 m²",
+        "price": 18000,
+        "locality": "Riegrova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.747415834339,
+            "lon": 13.3754673952072
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/3382296652",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na energie a služby 4.000 Kč",
+        "rent_terms_checked_at": "2026-10-25T16:42:45.159952+00:00"
+    },
+    {
+        "id": 2187903052,
+        "name": "Pronájem bytu 2+kk 75 m²",
+        "price": 19500,
+        "locality": "Riegrova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.747415834339,
+            "lon": 13.3754673952072
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-riegrova/2187903052",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 4.000 Kč záloha na energie a služby",
+        "rent_terms_checked_at": "2026-10-25T16:42:47.491031+00:00"
+    },
+    {
+        "id": 2764181580,
+        "name": "Pronájem bytu 2+kk 49 m²",
+        "price": 18000,
+        "locality": "Rubínová, Plzeň - Újezd",
+        "gps": {
+            "lat": 49.755707470055,
+            "lon": 13.4366958394784
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2764181580",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Nájem 18 000 Kč/měsíc, zálohy na služby a energie 3 400 Kč/měsíc, jistota 40 000 Kč, provize 22 990 Kč včetně DPH.",
+        "rent_terms_checked_at": "2026-10-25T16:42:49.744199+00:00"
+    },
+    {
+        "id": 133304396,
+        "name": "Pronájem bytu 1+1 42 m²",
+        "price": 14500,
+        "locality": "Plzenecká, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7386464462012,
+            "lon": 13.3930956277358
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-plzenecka/133304396",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:42:52.219768+00:00"
+    },
+    {
+        "id": 1770917964,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 16500,
+        "locality": "U Radbuzy, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739848,
+            "lon": 13.380584
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-u-radbuzy/1770917964",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby 3 000,- Kč/měsíc (TUV, otop, vodné stočné, internet, eletkřina)",
+        "rent_terms_checked_at": "2026-10-25T16:42:54.448674+00:00"
+    },
+    {
+        "id": 1497501772,
+        "name": "Pronájem bytu 2+1 57 m²",
+        "price": 12000,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.738688381712606,
+            "lon": 13.392808963453458
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-koterovska/1497501772",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ záloha na služby, vratná jistota, provize, energie přepis",
+        "rent_terms_checked_at": "2026-10-25T16:42:57.770598+00:00"
+    },
+    {
+        "id": 1833046092,
+        "name": "Pronájem bytu 2+1 56 m²",
+        "price": 15500,
+        "locality": "Francouzská třída, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.729876,
+            "lon": 13.401224
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-francouzska-trida/1833046092",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:00.334424+00:00"
+    },
+    {
+        "id": 2760052812,
+        "name": "Pronájem bytu 5+1 110 m²",
+        "price": 19000,
+        "locality": "Jiráskova, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.72820545860698,
+            "lon": 13.41538563961308
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/5+1/plzen-bozkov-jiraskova/2760052812",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:43:02.980089+00:00"
+    },
+    {
+        "id": 2443382860,
+        "name": "Pronájem bytu pokoje 17 m²",
+        "price": 8000,
+        "locality": "Hálkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7411840436883,
+            "lon": 13.3650485194422
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/plzen-jizni-predmesti-halkova/2443382860",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby  a provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:43:05.537512+00:00"
+    },
+    {
+        "id": 853741644,
+        "name": "Pronájem bytu 1+kk 42 m²",
+        "price": 15900,
+        "locality": "U Radbuzy, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.739848,
+            "lon": 13.380584
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-u-radbuzy/853741644",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby 3 000,- Kč/měsíc (TUV, otop, vodné stočné, internet, eletkřina)",
+        "rent_terms_checked_at": "2026-10-25T16:43:07.646627+00:00"
+    },
+    {
+        "id": 2352156748,
+        "name": "Pronájem bytu 3+1 84 m²",
+        "price": 21000,
+        "locality": "Revoluční, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.741837880046745,
+            "lon": 13.409570602432954
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-lobzy-revolucni/2352156748",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:43:09.490579+00:00"
+    },
+    {
+        "id": 4263710796,
+        "name": "Pronájem bytu 3+1 73 m²",
+        "price": 17500,
+        "locality": "Školní, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.7544237391157,
+            "lon": 13.4237922825622
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-doubravka-skolni/4263710796",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "vratná jistota, náklady na bydlení 6839,- Kč, poplatek za podnájem",
+        "rent_terms_checked_at": "2026-10-25T16:43:12.229141+00:00"
+    },
+    {
+        "id": 1634930764,
+        "name": "Pronájem bytu 3+kk 74 m²",
+        "price": 16500,
+        "locality": "Edvarda Beneše, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734491,
+            "lon": 13.373363
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-edvarda-benese/1634930764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:14.511844+00:00"
+    },
+    {
+        "id": 2747011148,
+        "name": "Pronájem bytu 1+kk 42 m²",
+        "price": 14500,
+        "locality": "Znojemská, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.75959631816302,
+            "lon": 13.349295263346667
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-severni-predmesti-znojemska/2747011148",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy na služby 1850 Kč + elektřina (převádí se na nájemce)",
+        "rent_terms_checked_at": "2026-10-25T16:43:17.242859+00:00"
+    },
+    {
+        "id": 1683411020,
+        "name": "Pronájem bytu 2+kk 54 m²",
+        "price": 16000,
+        "locality": "Nepomucká, Plzeň - Černice",
+        "gps": {
+            "lat": 49.7104118314653,
+            "lon": 13.4132875470303
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-cernice-nepomucka/1683411020",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 3.150,- Kč / 1 osoba / měsíc za služby spojené s užíváním bytu. Při podpisu NS se hradí 70.520 Kč, což zahrnuje nájem a služby na 1. měsíc užívání b",
+        "rent_terms_checked_at": "2026-10-25T16:43:19.480005+00:00"
+    },
+    {
+        "id": 3536465996,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 12000,
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.741972,
+            "lon": 13.391424
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-uslavska/3536465996",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:21.660821+00:00"
+    },
+    {
+        "id": 1156386892,
+        "name": "Pronájem bytu 3+kk 83 m²",
+        "price": 17000,
+        "locality": "Papírnická, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7379861160947,
+            "lon": 13.3872942927694
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-papirnicka/1156386892",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:24.340806+00:00"
+    },
+    {
+        "id": 1763512396,
+        "name": "Pronájem bytu 2+kk 75 m²",
+        "price": 16999,
+        "locality": "Veleslavínova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.748965,
+            "lon": 13.376334
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-veleslavinova/1763512396",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3500  Kč energie, Parkování na rezidentskou  kartu cena 2000 kč/rok",
+        "rent_terms_checked_at": "2026-10-25T16:43:26.660782+00:00"
+    },
+    {
+        "id": 3222081612,
+        "name": "Pronájem bytu 2+kk 59 m²",
+        "price": 16900,
+        "locality": "Šafaříkovy sady, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7454096569073,
+            "lon": 13.379541712619
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-safarikovy-sady/3222081612",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "bez poplatků, + provize RK, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:43:29.263947+00:00"
+    },
+    {
+        "id": 193212492,
+        "name": "Pronájem bytu 4+1 102 m²",
+        "price": 16000,
+        "locality": "Veleslavínova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7489208798109,
+            "lon": 13.3797349679421
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-vnitrni-mesto-veleslavinova/193212492",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:31.855099+00:00"
+    },
+    {
+        "id": 2188185676,
+        "name": "Pronájem bytu 2+kk 66 m²",
+        "price": 18500,
+        "locality": "Rubínová, Plzeň - Újezd",
+        "gps": {
+            "lat": 49.755535,
+            "lon": 13.43584
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-rubinova/2188185676",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy (teplo, voda, tuv, služby) 3.500,-Kč. El. na vl. smlouvu. Kryté park. 1000,-Kč/měs.Provize RK jeden měs.nájem + dph, vr. kauce 42.000,-Kč.",
+        "rent_terms_checked_at": "2026-10-25T16:43:34.955676+00:00"
+    },
+    {
+        "id": 26087500,
+        "name": "Pronájem bytu 2+1 56 m²",
+        "price": 15800,
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73637574853419,
+            "lon": 13.373456028485949
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-stehlikova/26087500",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ poplatky 1 675,- Kč/ 2 os. + elektřina, plyn a internet budou převedené na nájemníka; NÁJEMCE NEPLATÍ PROVIZI RK",
+        "rent_terms_checked_at": "2026-10-25T16:43:37.854098+00:00"
+    },
+    {
+        "id": 305008716,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 12500,
+        "locality": "Táborská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7387089069597,
+            "lon": 13.3952573809583
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-taborska/305008716",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Vratná kauce 14.000,-Kč, provize RK 12.500,-Kč + DPH",
+        "rent_terms_checked_at": "2026-10-25T16:43:40.345830+00:00"
+    },
+    {
+        "id": 1132335180,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 18000,
+        "locality": "Mutěnická, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7628109774529,
+            "lon": 13.348728288788
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-severni-predmesti-mutenicka/1132335180",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:43:42.644364+00:00"
+    },
+    {
+        "id": 2661224524,
+        "name": "Pronájem bytu 3+1 74 m²",
+        "price": 16000,
+        "locality": "Jungmannova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7440080300909,
+            "lon": 13.3756014793846
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-jungmannova/2661224524",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 1 800 Kč / 3 osoby / měsíc za služby spojené s užíváním bytu. Při podpisu NS se hradí 69.160,- Kč, což zahrnuje nájem a služby na 1. měsíc užívání b",
+        "rent_terms_checked_at": "2026-10-25T16:43:45.381356+00:00"
+    },
+    {
+        "id": 4075360332,
+        "name": "Pronájem bytu pokoje 15 m²",
+        "price": 10000,
+        "locality": "Nádražní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7450496733506,
+            "lon": 13.3868767060071
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/plzen-vychodni-predmesti-nadrazni/4075360332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "nájem pro 2 osoby 14.000,-, vratná kauce, poplatek RK",
+        "rent_terms_checked_at": "2026-10-25T16:43:48.235744+00:00"
+    },
+    {
+        "id": 1108607820,
+        "name": "Pronájem bytu atypický 20 m²",
+        "price": 0,
+        "locality": "Jarní, Plzeň - Radčice",
+        "gps": {
+            "lat": 49.765457604539,
+            "lon": 13.3222931642687
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/atypicky/plzen-radcice-jarni/1108607820",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "poplatek RK 5.000,-",
+        "rent_terms_checked_at": "2026-10-25T16:43:50.196685+00:00"
+    },
+    {
+        "id": 4060024908,
+        "name": "Pronájem bytu 3+1 121 m²",
+        "price": 11900,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7462845933349,
+            "lon": 13.378339063417
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-zbrojnicka/4060024908",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 700 os/služby, provize RK ",
+        "rent_terms_checked_at": "2026-10-25T16:43:53.088021+00:00"
+    },
+    {
+        "id": 3226406988,
+        "name": "Pronájem bytu 1+kk 30 m²",
+        "price": 8200,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73934331534886,
+            "lon": 13.391163497992027
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-sladkovskeho/3226406988",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:43:56.225554+00:00"
+    },
+    {
+        "id": 981405772,
+        "name": "Pronájem bytu 2+1 66 m²",
+        "price": 13900,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74365846899345,
+            "lon": 13.378683203938525
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/981405772",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:43:59.067987+00:00"
+    },
+    {
+        "id": 840437836,
+        "name": "Pronájem bytu 4+kk 88 m²",
+        "price": 25000,
+        "locality": "Veslařská, Plzeň - Litice",
+        "gps": {
+            "lat": 49.7107916909096,
+            "lon": 13.3538066338689
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-litice-veslarska/840437836",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:44:01.419836+00:00"
+    },
+    {
+        "id": 1862799436,
+        "name": "Pronájem bytu 4+kk 130 m²",
+        "price": 23000,
+        "locality": "Boženy Němcové, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.76443808278571,
+            "lon": 13.367432891891687
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-severni-predmesti-bozeny-nemcove/1862799436",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby 1.000,- Kč/měsíc + elektřina a plyn na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:44:03.406035+00:00"
+    },
+    {
+        "id": 1922633804,
+        "name": "Pronájem bytu 1+kk 20 m²",
+        "price": 10500,
+        "locality": "Čelakovského, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7381572623,
+            "lon": 13.3783339461
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-celakovskeho/1922633804",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ provize RK, včetně právního servisu",
+        "rent_terms_checked_at": "2026-10-25T16:44:06.292051+00:00"
+    },
+    {
+        "id": 3706261580,
+        "name": "Pronájem bytu 4+kk 87 m²",
+        "price": 24000,
+        "locality": "Plzeň - Litice",
+        "gps": {
+            "lat": 49.7137680277682,
+            "lon": 13.3474709116475
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-litice-/3706261580",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:44:09.205897+00:00"
+    },
+    {
+        "id": 3307868236,
+        "name": "Pronájem bytu 2+1 78 m²",
+        "price": 15500,
+        "locality": "Úslavská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7397757002997,
+            "lon": 13.3947395689198
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vychodni-predmesti-uslavska/3307868236",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 500,-Kč /os. služby + el.en a plyn",
+        "rent_terms_checked_at": "2026-10-25T16:44:11.256228+00:00"
+    },
+    {
+        "id": 3933478988,
+        "name": "Pronájem bytu pokoje 75 m²",
+        "price": 9000,
+        "locality": "Křimická, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7461318900858,
+            "lon": 13.3441674999636
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/plzen-skvrnany-krimicka/3933478988",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "+ služby a energie 3.000,-Kč a provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:44:13.822023+00:00"
+    },
+    {
+        "id": 251334732,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 19000,
+        "locality": "Sladová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.729538737376174,
+            "lon": 13.407633796714737
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-sladova/251334732",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:16.094044+00:00"
+    },
+    {
+        "id": 2783645772,
+        "name": "Pronájem bytu 2+1 80 m²",
+        "price": 16000,
+        "locality": "Poštovní, Plzeň - Doubravka",
+        "gps": {
+            "lat": 49.75803148036943,
+            "lon": 13.419164388494597
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-doubravka-postovni/2783645772",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:18.375299+00:00"
+    },
+    {
+        "id": 2442076236,
+        "name": "Pronájem bytu 2+kk 47 m²",
+        "price": 12000,
+        "locality": "Plzenecká, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.74082,
+            "lon": 13.39597
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-plzenecka/2442076236",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "nájemné 12.000 Kč + služby 2.000 Kč + přepis energií, kauce 25.000 Kč, provize rk",
+        "rent_terms_checked_at": "2026-10-25T16:44:20.542828+00:00"
+    },
+    {
+        "id": 4162789452,
+        "name": "Pronájem bytu 3+kk 66 m²",
+        "price": 23000,
+        "locality": "Čermákova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.731323461,
+            "lon": 13.361435313
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-jizni-predmesti-cermakova/4162789452",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "včetně právního servisu ",
+        "rent_terms_checked_at": "2026-10-25T16:44:23.187369+00:00"
+    },
+    {
+        "id": 2821988428,
+        "name": "Pronájem bytu 2+kk 53 m²",
+        "price": 15900,
+        "locality": "Špačková, Plzeň - Valcha",
+        "gps": {
+            "lat": 49.7099737708613,
+            "lon": 13.3253065151992
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-valcha-spackova/2821988428",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "vratná kauce, náklady na bydlení: 5414,- Kč, poplatek za podnájem",
+        "rent_terms_checked_at": "2026-10-25T16:44:25.296645+00:00"
+    },
+    {
+        "id": 3644072012,
+        "name": "Pronájem bytu 2+1 80 m²",
+        "price": 19500,
+        "locality": "Jubilejní, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.729390781072446,
+            "lon": 13.412506915413433
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-bozkov-jubilejni/3644072012",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:27.308686+00:00"
+    },
+    {
+        "id": 2252611660,
+        "name": "Pronájem bytu 1+1 54 m²",
+        "price": 13900,
+        "locality": "Pod Všemi svatými, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.753498344567475,
+            "lon": 13.379552318150546
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-severni-predmesti-pod-vsemi-svatymi/2252611660",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:29.725167+00:00"
+    },
+    {
+        "id": 3638894668,
+        "name": "Pronájem bytu 2+kk 64 m²",
+        "price": 19000,
+        "locality": "Zábělská, Plzeň - Újezd",
+        "gps": {
+            "lat": 49.760225,
+            "lon": 13.428304
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-zabelska/3638894668",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "uvedená cena nájmu je uváděna bez záloh na energie a služby, bez kauce a bez odměny zprostředkovatele (více v textu)",
+        "rent_terms_checked_at": "2026-10-25T16:44:32.209473+00:00"
+    },
+    {
+        "id": 1767186508,
+        "name": "Pronájem bytu 1+kk 30 m²",
+        "price": 12500,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73254195207,
+            "lon": 13.3549925749971
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1767186508",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Zálohy na služby 2000 Kč/ 1 osoba + 300 Kč další osoba, elektřina se převádí na nájemníka",
+        "rent_terms_checked_at": "2026-10-25T16:44:34.991325+00:00"
+    },
+    {
+        "id": 694292556,
+        "name": "Pronájem bytu 2+kk 66 m²",
+        "price": 20000,
+        "locality": "Veverkova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7457457027053,
+            "lon": 13.3885002017405
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-veverkova/694292556",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:44:36.858317+00:00"
+    },
+    {
+        "id": 1123401804,
+        "name": "Pronájem bytu 2+1 65 m²",
+        "price": 15900,
+        "locality": "Pod Záhorskem, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7587892803431,
+            "lon": 13.3732123036112
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-pod-zahorskem/1123401804",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 2.500,- zálohy na služby, energie se přepisují na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:44:39.357343+00:00"
+    },
+    {
+        "id": 1193680972,
+        "name": "Pronájem bytu 2+kk 66 m²",
+        "price": 19000,
+        "locality": "Safírová, Plzeň - Újezd",
+        "gps": {
+            "lat": 49.75519676,
+            "lon": 13.436569704
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-ujezd-safirova/1193680972",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:44:42.314607+00:00"
+    },
+    {
+        "id": 716644428,
+        "name": "Pronájem bytu 1+kk 32 m²",
+        "price": 11500,
+        "locality": "Zahradní, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7336532458,
+            "lon": 13.3898267749
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-vychodni-predmesti-zahradni/716644428",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 2000 Kč / 1 osoba / měsíc nebo 2 600 Kč / 2 osoby / měsíc za služby spojené s užíváním bytu. Při podpisu NS se hradí 50.415 Kč, což zahrnuje nájem a",
+        "rent_terms_checked_at": "2026-10-25T16:44:44.515639+00:00"
+    },
+    {
+        "id": 3912245324,
+        "name": "Pronájem bytu 1+kk 40 m²",
+        "price": 13900,
+        "locality": "Františka Kováříka, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7478878378111,
+            "lon": 13.319828179291
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-skvrnany-frantiska-kovarika/3912245324",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "+ 2.500,- zálohy na služby, energie se převádí na nájemce, vratná kauce ve výši 2 měsíčních nájmů vč. záloh na služby",
+        "rent_terms_checked_at": "2026-10-25T16:44:46.469210+00:00"
+    },
+    {
+        "id": 1140793420,
+        "name": "Pronájem bytu 3+kk 89 m²",
+        "price": 26000,
+        "locality": "Klicperova, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7458350513864,
+            "lon": 13.387956750942527
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-klicperova/1140793420",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:48.844166+00:00"
+    },
+    {
+        "id": 1529536588,
+        "name": "Pronájem bytu 2+kk 58 m²",
+        "price": 17900,
+        "locality": "Slovanská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.734693,
+            "lon": 13.39025
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-slovanska/1529536588",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "jedná se o čistý nájem, konkrétní finanční podmínky jsou uvedeny v česko-jazyčné verzi inzerátu",
+        "rent_terms_checked_at": "2026-10-25T16:44:50.879835+00:00"
+    },
+    {
+        "id": 1300373580,
+        "name": "Pronájem bytu 1+kk 38 m²",
+        "price": 19900,
+        "locality": "Těšínská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.7496875642747,
+            "lon": 13.4127622082901
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-lobzy-tesinska/1300373580",
+        "municipality_id": 1243,
+        "price_period": "unknown",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "požadovaná kauce ve výši 2x 20.000 Kč - celkem: 40.000 Kč",
+        "rent_terms_checked_at": "2026-10-25T16:44:52.809947+00:00"
+    },
+    {
+        "id": 4103282764,
+        "name": "Pronájem bytu 2+kk 51 m²",
+        "price": 18000,
+        "locality": "Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.7791298634035,
+            "lon": 13.3757818047691
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-/4103282764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:44:55.205626+00:00"
+    },
+    {
+        "id": 3521323084,
+        "name": "Pronájem bytu 2+kk 50 m²",
+        "price": 13000,
+        "locality": "Bendova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74129487723909,
+            "lon": 13.368182435040703
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-bendova/3521323084",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:44:57.634256+00:00"
+    },
+    {
+        "id": 3669762124,
+        "name": "Pronájem bytu 4+1 137 m²",
+        "price": 19000,
+        "locality": "Havlíčkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7426518,
+            "lon": 13.3744023
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-jizni-predmesti-havlickova/3669762124",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 600 Kč služby na osob, přepis elektřiny a plynu na nájemce, kauce 38000 Kč,  provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:45:00.029114+00:00"
+    },
+    {
+        "id": 2725126220,
+        "name": "Pronájem bytu 2+kk 55 m²",
+        "price": 14000,
+        "locality": "Božkovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7398777,
+            "lon": 13.3931922
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-bozkovska/2725126220",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ energie",
+        "rent_terms_checked_at": "2026-10-25T16:45:03.138598+00:00"
+    },
+    {
+        "id": 2788008012,
+        "name": "Pronájem bytu pokoje 30 m²",
+        "price": 6000,
+        "locality": "Dobřanská, Plzeň - Valcha",
+        "gps": {
+            "lat": 49.71238,
+            "lon": 13.337533
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/pokoj/plzen-valcha-dobranska/2788008012",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "Nájemné včetně služeb a energií 6.000,- + vratná kauce 6.000,- + provize 6.000,-",
+        "rent_terms_checked_at": "2026-10-25T16:45:05.151744+00:00"
+    },
+    {
+        "id": 1791959116,
+        "name": "Pronájem bytu 3+1 111 m²",
+        "price": 25000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7432586024388,
+            "lon": 13.3703213884899
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-kardinala-berana/1791959116",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:45:07.882059+00:00"
+    },
+    {
+        "id": 704585804,
+        "name": "Pronájem bytu 2+kk 87 m²",
+        "price": 18000,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.7477830556,
+            "lon": 13.3783488889
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-plzen-/704585804",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ en., vratná kauce, provize",
+        "rent_terms_checked_at": "2026-10-25T16:45:10.585470+00:00"
+    },
+    {
+        "id": 928591948,
+        "name": "Pronájem bytu 1+1 41 m²",
+        "price": 13890,
+        "locality": "Zikmunda Wintra, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7363514673,
+            "lon": 13.3697590027
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-zikmunda-wintra/928591948",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "bez poplatků",
+        "rent_terms_checked_at": "2026-10-25T16:45:12.967885+00:00"
+    },
+    {
+        "id": 1625956428,
+        "name": "Pronájem bytu 3+1 80 m²",
+        "price": 16500,
+        "locality": "Schwarzova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73804253295676,
+            "lon": 13.366680262088474
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-schwarzova/1625956428",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "Upozornění: Pronajímající si vyhrazuje právo vybrat nájemce na základě jím zvolených kritérií.",
+        "rent_terms_checked_at": "2026-10-25T16:45:15.259615+00:00"
+    },
+    {
+        "id": 1775968332,
+        "name": "Pronájem bytu 3+kk 109 m²",
+        "price": 19900,
+        "locality": "Solní, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.74808449637994,
+            "lon": 13.376606649932295
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vnitrni-mesto-solni/1775968332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:18.466252+00:00"
+    },
+    {
+        "id": 1845174348,
+        "name": "Pronájem bytu 3+1 121 m²",
+        "price": 11900,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.74624165830905,
+            "lon": 13.378436389831856
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-vnitrni-mesto-zbrojnicka/1845174348",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:20.543290+00:00"
+    },
+    {
+        "id": 3075965004,
+        "name": "Pronájem bytu 1+1 37 m²",
+        "price": 10100,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.73934331534886,
+            "lon": 13.391163497992027
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-sladkovskeho/3075965004",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:22.822445+00:00"
+    },
+    {
+        "id": 3937284172,
+        "name": "Pronájem bytu 1+kk 37 m²",
+        "price": 13500,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.733377,
+            "lon": 13.3542573
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-plzen-/3937284172",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:45:25.338132+00:00"
+    },
+    {
+        "id": 2058235980,
+        "name": "Pronájem bytu 1+kk 37 m²",
+        "price": 13800,
+        "locality": "Plzeň",
+        "gps": {
+            "lat": 49.733377,
+            "lon": 13.3542573
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-plzen-/2058235980",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:45:28.102842+00:00"
+    },
+    {
+        "id": 44511308,
+        "name": "Pronájem bytu 2+kk 40 m²",
+        "price": 10000,
+        "locality": "Sušická, Plzeň - Božkov",
+        "gps": {
+            "lat": 49.7334143798738,
+            "lon": 13.410415792504
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bozkov-susicka/44511308",
+        "municipality_id": 1243,
+        "price_period": "unknown",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:45:30.864059+00:00"
+    },
+    {
+        "id": 4055904332,
+        "name": "Pronájem bytu 2+kk 70 m²",
+        "price": 19990,
+        "locality": "Koterovská, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.740087673,
+            "lon": 13.391371806
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-koterovska/4055904332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ poplatky: režie 3.990 Kč/měsíc, elektřina - samostatně, kauce 19.990 Kč, provize rk 24.000 Kč",
+        "rent_terms_checked_at": "2026-10-25T16:45:33.358390+00:00"
+    },
+    {
+        "id": 745345100,
+        "name": "Pronájem bytu 1+1 39 m²",
+        "price": 11800,
+        "locality": "Malesická, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.7457123,
+            "lon": 13.3444338
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-skvrnany-malesicka/745345100",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ záloha služby, vytápění a ohřev vody 1.800,-Kč, el. energie přepis na nájemce + vratná kauce 2 nájmy + provize 11.800,- Kč",
+        "rent_terms_checked_at": "2026-10-25T16:45:36.085222+00:00"
+    },
+    {
+        "id": 2240557132,
+        "name": "Pronájem bytu 2+kk 74 m²",
+        "price": 14000,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.734894832274,
+            "lon": 13.3704249670039
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-klatovska-trida/2240557132",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:45:39.513123+00:00"
+    },
+    {
+        "id": 3466727500,
+        "name": "Pronájem bytu 2+kk 43 m²",
+        "price": 16000,
+        "locality": "Těšínská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.74968756427465,
+            "lon": 13.412762208290054
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-lobzy-tesinska/3466727500",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:41.947815+00:00"
+    },
+    {
+        "id": 1337798732,
+        "name": "Pronájem bytu 2+kk 70 m²",
+        "price": 15900,
+        "locality": "Koperníkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74193427581961,
+            "lon": 13.366954039989261
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-kopernikova/1337798732",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:44.339034+00:00"
+    },
+    {
+        "id": 918368332,
+        "name": "Pronájem bytu 1+1 64 m²",
+        "price": 15900,
+        "locality": "Stehlíkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73607858514804,
+            "lon": 13.37077726718763
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-stehlikova/918368332",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:46.159116+00:00"
+    },
+    {
+        "id": 3726454860,
+        "name": "Pronájem bytu 1+1 37 m²",
+        "price": 10100,
+        "locality": "Sladkovského, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.739341377,
+            "lon": 13.391164354
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-vychodni-predmesti-sladkovskeho/3726454860",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na služby 700 Kč/měs/osoba, energie na nájemce, 2x vratná kauce, 1x provize RK ",
+        "rent_terms_checked_at": "2026-10-25T16:45:48.508561+00:00"
+    },
+    {
+        "id": 52244556,
+        "name": "Pronájem bytu 2+1 81 m²",
+        "price": 11500,
+        "locality": "Rooseveltova, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.748168569,
+            "lon": 13.378925066
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-rooseveltova/52244556",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy na služby 850 Kč/osoba/měs, energie na nájemce, 2x vratná kauce, 1x provize RK ",
+        "rent_terms_checked_at": "2026-10-25T16:45:50.992653+00:00"
+    },
+    {
+        "id": 2786930764,
+        "name": "Pronájem bytu 1+1 34 m²",
+        "price": 11100,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.743656534,
+            "lon": 13.378683994
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-goethova/2786930764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ topení 2500 Kč/měs, služby 750 Kč/měs/osoba, energie na nájemce, 2x vratná kauce, 1x provize RK ",
+        "rent_terms_checked_at": "2026-10-25T16:45:53.614914+00:00"
+    },
+    {
+        "id": 2481266764,
+        "name": "Pronájem bytu 2+kk 58 m²",
+        "price": 13500,
+        "locality": "Chelčického, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7394666113628,
+            "lon": 13.3653476669079
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-chelcickeho/2481266764",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ en., vratná kauce, provize",
+        "rent_terms_checked_at": "2026-10-25T16:45:55.964331+00:00"
+    },
+    {
+        "id": 1928212556,
+        "name": "Pronájem bytu 2+kk 74 m²",
+        "price": 12500,
+        "locality": "Bolzanova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.73745914798264,
+            "lon": 13.368930715455816
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-bolzanova/1928212556",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:45:57.911442+00:00"
+    },
+    {
+        "id": 203821132,
+        "name": "Pronájem bytu 1+1 55 m²",
+        "price": 11990,
+        "locality": "Husova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7454034,
+            "lon": 13.3689946
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-husova/203821132",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ poplatky 2.520 Kč/ 3 osoby  // 1 820 Kč / 2 osoby + elektřina a plyn se přepisuje na podnájemníka",
+        "rent_terms_checked_at": "2026-10-25T16:46:00.115670+00:00"
+    },
+    {
+        "id": 1093152844,
+        "name": "Pronájem bytu 2+kk 45 m²",
+        "price": 13900,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.77757266054751,
+            "lon": 13.354528550576864
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-bolevec-krasovska/1093152844",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:46:02.080717+00:00"
+    },
+    {
+        "id": 4036571212,
+        "name": "Pronájem bytu 2+kk 42 m²",
+        "price": 11900,
+        "locality": "Zborovská, Plzeň - Doudlevce",
+        "gps": {
+            "lat": 49.7249584421991,
+            "lon": 13.3873464104501
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-doudlevce-zborovska/4036571212",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:04.400074+00:00"
+    },
+    {
+        "id": 1360605260,
+        "name": "Pronájem bytu 3+kk 82 m²",
+        "price": 27000,
+        "locality": "Kartónová, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7333215621211,
+            "lon": 13.3825807201917
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-vychodni-predmesti-kartonova/1360605260",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:07.110710+00:00"
+    },
+    {
+        "id": 157487180,
+        "name": "Pronájem bytu 2+1 65 m²",
+        "price": 15900,
+        "locality": "Pod Záhorskem, Plzeň - Severní Předměstí",
+        "gps": {
+            "lat": 49.7587892803431,
+            "lon": 13.3732123036112
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-severni-predmesti-pod-zahorskem/157487180",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "+ 2.500,- zálohy na služby, energie se přepisují na nájemce",
+        "rent_terms_checked_at": "2026-10-25T16:46:09.410852+00:00"
+    },
+    {
+        "id": 197726284,
+        "name": "Pronájem bytu 2+1 80 m²",
+        "price": 13000,
+        "locality": "Purkyňova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7407723,
+            "lon": 13.3743045
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-purkynova/197726284",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 600 Kč služby na osob, přepis elektřiny na nájemce, kauce 20000 Kč,  provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:46:11.347204+00:00"
+    },
+    {
+        "id": 292405324,
+        "name": "Pronájem bytu 2+1 61 m²",
+        "price": 16500,
+        "locality": "Klatovská třída, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.732335,
+            "lon": 13.369813
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-klatovska-trida/292405324",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ zálohy za služby ve výši 2 600 Kč / měsíc, elektřina a plyn se převádí na nájemníka",
+        "rent_terms_checked_at": "2026-10-25T16:46:13.546498+00:00"
+    },
+    {
+        "id": 2533474380,
+        "name": "Pronájem bytu 1+kk 35 m²",
+        "price": 13500,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733377,
+            "lon": 13.3542573
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/2533474380",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:15.763348+00:00"
+    },
+    {
+        "id": 872529996,
+        "name": "Pronájem bytu 1+kk 35 m²",
+        "price": 13800,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.733377,
+            "lon": 13.3542573
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/872529996",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:18.436561+00:00"
+    },
+    {
+        "id": 4093755468,
+        "name": "Pronájem bytu 1+kk 35 m²",
+        "price": 14100,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7333498561,
+            "lon": 13.3545019499
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/4093755468",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:20.335453+00:00"
+    },
+    {
+        "id": 1694613580,
+        "name": "Pronájem bytu 1+kk 25 m²",
+        "price": 10400,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7333498561,
+            "lon": 13.3545019499
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1694613580",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:22.343856+00:00"
+    },
+    {
+        "id": 2231484492,
+        "name": "Pronájem bytu 1+kk 25 m²",
+        "price": 10100,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7333498561,
+            "lon": 13.3545019499
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/2231484492",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:25.142329+00:00"
+    },
+    {
+        "id": 3744579660,
+        "name": "Pronájem bytu 1+kk 25 m²",
+        "price": 10700,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7331709683,
+            "lon": 13.3541673359
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/3744579660",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:28.138258+00:00"
+    },
+    {
+        "id": 1647427660,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 14100,
+        "locality": "Železná, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7333498561,
+            "lon": 13.3545019499
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-jizni-predmesti-zelezna/1647427660",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:30.155025+00:00"
+    },
+    {
+        "id": 325042252,
+        "name": "Pronájem bytu 2+kk 56 m²",
+        "price": 16500,
+        "locality": "Nepomucká, Plzeň - Koterov",
+        "gps": {
+            "lat": 49.7104118314653,
+            "lon": 13.4132875470303
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-koterov-nepomucka/325042252",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:32.420013+00:00"
+    },
+    {
+        "id": 398114892,
+        "name": "Pronájem bytu 1+kk 36 m²",
+        "price": 12900,
+        "locality": "Krašovská, Plzeň - Bolevec",
+        "gps": {
+            "lat": 49.77757266054751,
+            "lon": 13.354528550576864
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-bolevec-krasovska/398114892",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:46:35.893600+00:00"
+    },
+    {
+        "id": 2611351628,
+        "name": "Pronájem bytu 1+kk 34 m²",
+        "price": 14000,
+        "locality": "Železná, Plzeň",
+        "gps": {
+            "lat": 49.7319619336869,
+            "lon": 13.3551879802139
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+kk/plzen-plzen-zelezna/2611351628",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "+ poplatky 3 000 Kč, + kauce 20 000 Kč, + pronájem parkovacího stání 1 500 Kč, + Provize RK 15 500 Kč + DPH",
+        "rent_terms_checked_at": "2026-10-25T16:46:38.328124+00:00"
+    },
+    {
+        "id": 3976450124,
+        "name": "Pronájem bytu 3+1 104 m²",
+        "price": 24000,
+        "locality": "Kardinála Berana, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7432586024388,
+            "lon": 13.3703213884899
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-kardinala-berana/3976450124",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:40.740739+00:00"
+    },
+    {
+        "id": 2784874572,
+        "name": "Pronájem bytu 2+1 66 m²",
+        "price": 11600,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7436493541094,
+            "lon": 13.3790459187173
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-jizni-predmesti-goethova/2784874572",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ 3 500,- služby, 750/os, provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:46:42.528944+00:00"
+    },
+    {
+        "id": 1491980364,
+        "name": "Pronájem bytu 4+1 160 m²",
+        "price": 20400,
+        "locality": "Bedřicha Smetany, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.746276306404,
+            "lon": 13.3763537300214
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+1/plzen-vnitrni-mesto-bedricha-smetany/1491980364",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": false,
+        "rent_terms_note": "+ 800,- služby, provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:46:45.440413+00:00"
+    },
+    {
+        "id": 2859786316,
+        "name": "Pronájem bytu 2+1 53 m²",
+        "price": 13500,
+        "locality": "Blatenská, Plzeň - Lobzy",
+        "gps": {
+            "lat": 49.73363861111,
+            "lon": 13.40626611111
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-lobzy-blatenska/2859786316",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby cca 1 800,- | + energie na nájemce | + kauce 13 500,- | + provize RK 13 500 + DPH",
+        "rent_terms_checked_at": "2026-10-25T16:46:48.750575+00:00"
+    },
+    {
+        "id": 223936588,
+        "name": "Pronájem bytu 2+1 80 m²",
+        "price": 19000,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7462572675183,
+            "lon": 13.3792834375605
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-vnitrni-mesto-zbrojnicka/223936588",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Při podpisu smlouvy se hradí 1. nájemné, vratná kauce (dva nájmy) a provize RK je 15 000,- Kč. K nájmu se připočítává částka za spotřebované energie.",
+        "rent_terms_checked_at": "2026-10-25T16:46:51.535072+00:00"
+    },
+    {
+        "id": 3847815244,
+        "name": "Pronájem bytu 4+kk 110 m²",
+        "price": 25000,
+        "locality": "Zbrojnická, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7462572675183,
+            "lon": 13.3792834375605
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/plzen-vnitrni-mesto-zbrojnicka/3847815244",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Při podpisu smlouvy se hradí 1. nájemné, vratná kauce (dva nájmy) a provize RK je 15 000,- Kč. K nájmu se připočítává částka za spotřebované energie.",
+        "rent_terms_checked_at": "2026-10-25T16:46:53.698255+00:00"
+    },
+    {
+        "id": 1486131276,
+        "name": "Pronájem bytu 2+kk 48 m²",
+        "price": 15000,
+        "locality": "Havlíčkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.7424036834189,
+            "lon": 13.3745589465861
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-jizni-predmesti-havlickova/1486131276",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": null,
+        "rent_terms_checked_at": "2026-10-25T16:46:55.649682+00:00"
+    },
+    {
+        "id": 3558912076,
+        "name": "Pronájem bytu 3+kk 69 m²",
+        "price": 17670,
+        "locality": "Macháčkova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.74422730857804,
+            "lon": 13.326323358281162
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/plzen-skvrnany-machackova/3558912076",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:46:57.744490+00:00"
+    },
+    {
+        "id": 2857414732,
+        "name": "Pronájem bytu 2+1 82 m²",
+        "price": 20930,
+        "locality": "Macháčkova, Plzeň - Skvrňany",
+        "gps": {
+            "lat": 49.744678788174475,
+            "lon": 13.327402530207518
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+1/plzen-skvrnany-machackova/2857414732",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:47:00.047436+00:00"
+    },
+    {
+        "id": 3019685964,
+        "name": "Pronájem bytu 1+1 34 m²",
+        "price": 11100,
+        "locality": "Goethova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.74365846899345,
+            "lon": 13.378683203938525
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/1+1/plzen-jizni-predmesti-goethova/3019685964",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "",
+        "rent_terms_checked_at": "2026-10-25T16:47:03.526748+00:00"
+    },
+    {
+        "id": 2409702220,
+        "name": "Pronájem bytu 2+kk 64 m²",
+        "price": 14500,
+        "locality": "Bedřicha Smetany, Plzeň - Vnitřní Město",
+        "gps": {
+            "lat": 49.7454957303031,
+            "lon": 13.3760338229303
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vnitrni-mesto-bedricha-smetany/2409702220",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "plus poplatky a provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:47:05.724270+00:00"
+    },
+    {
+        "id": 1726923596,
+        "name": "Pronájem bytu 3+1 92 m²",
+        "price": 21000,
+        "locality": "Havlíčkova, Plzeň - Jižní Předměstí",
+        "gps": {
+            "lat": 49.742588938652,
+            "lon": 13.3736971882898
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/3+1/plzen-jizni-predmesti-havlickova/1726923596",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": true,
+        "rent_terms_note": "+ služby 2.083,- Kč + elektrika a plyn",
+        "rent_terms_checked_at": "2026-10-25T16:47:08.518014+00:00"
+    },
+    {
+        "id": 3439571788,
+        "name": "Pronájem bytu 2+kk 78 m²",
+        "price": 26500,
+        "locality": "Železniční, Plzeň - Východní Předměstí",
+        "gps": {
+            "lat": 49.7432279293361,
+            "lon": 13.3907101006423
+        },
+        "seo_url": "https://www.sreality.cz/detail/pronajem/byt/2+kk/plzen-vychodni-predmesti-zeleznicni/3439571788",
+        "municipality_id": 1243,
+        "price_period": "month",
+        "rent_excludes_utilities": null,
+        "rent_terms_note": "Služby 4.440,- Kč/1 osoba, vratná kauce, provize RK",
+        "rent_terms_checked_at": "2026-10-25T16:47:10.629003+00:00"
+    }
+]
