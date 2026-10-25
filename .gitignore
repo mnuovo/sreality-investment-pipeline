@@ -1,0 +1,10 @@
+.sreality_browser_state.json
+.state/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+data/*.json
+reports/INVESTMENT_REPORT.md
